@@ -1,0 +1,6725 @@
+[
+    {
+        "name": "一宮神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "豊浜町姫浜１５６番地",
+        "latitude": 34.0835264,
+        "longitude": 133.6383086,
+        "id": "df3e4fa9-3fcf-434e-8725-943c2d7ff0aa"
+    },
+    {
+        "name": "七寶稲荷神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "室本町６４番地",
+        "latitude": 34.1284659,
+        "longitude": 133.6628138,
+        "id": "6a0b1158-a18b-460b-ba38-ce03c8267177"
+    },
+    {
+        "name": "三名神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "三名町字西川４００番地１",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "5a88376e-3cab-4385-930d-e4d41e44c06b"
+    },
+    {
+        "name": "三和神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香西本町１２７番地",
+        "latitude": 34.34898859,
+        "longitude": 134.00008537,
+        "id": "bb86cc72-f2e9-4591-bfca-f049544d4734"
+    },
+    {
+        "name": "三宮神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "六条町１１８７番地１",
+        "latitude": 34.30402494,
+        "longitude": 134.08381905,
+        "id": "d071782d-719e-4c7b-a466-7193feb03cd7"
+    },
+    {
+        "name": "三對神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡土庄町",
+        "streetName": "豊島甲生字暮石１３０２番地",
+        "latitude": 34.4860243,
+        "longitude": 134.1858093,
+        "id": "ddb6c14c-e3fc-481e-ab8b-ada66666b37b"
+    },
+    {
+        "name": "三島神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "長尾字浦山２０１１番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "7a951ae4-1165-422c-a144-5473c0027fb7"
+    },
+    {
+        "name": "三崎神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "詫間町生里１１４０番地甲",
+        "latitude": 34.22080395,
+        "longitude": 133.67285755,
+        "id": "daa94926-cd8c-49ab-9eba-4300e1f94810"
+    },
+    {
+        "name": "三嶋神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "大野原町花稲１８６番地",
+        "latitude": 34.09892473,
+        "longitude": 133.64256894,
+        "id": "beb818a8-9864-4eb8-9c7e-0dcb00bb14bc"
+    },
+    {
+        "name": "三嶋神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "炭所東字前畑３４０９番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "89a304bc-865f-45e1-9a44-af9aaaa36639"
+    },
+    {
+        "name": "三嶋神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "勝浦字家六２０９４番地１",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "eef8a8ce-0626-42be-bb7e-db9faf2478bf"
+    },
+    {
+        "name": "三所神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "本島町生ノ浜６３５番地",
+        "latitude": 34.38155991,
+        "longitude": 133.76031862,
+        "id": "3f4e6439-9338-4354-9351-973effdd1e93"
+    },
+    {
+        "name": "三所神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "後山字宮谷４３６番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "87cdca53-b61f-4caa-8bdb-91549cbdea40"
+    },
+    {
+        "name": "三所神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "追上字北側５２９番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "f3e7ce9a-4328-45c4-b008-18805085b567"
+    },
+    {
+        "name": "三条神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "勝浦字横畑３１７２番地１",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "1f43b57f-8956-4e3b-8045-2e7bcf082150"
+    },
+    {
+        "name": "三河神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "大口字宮西２８９番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "ec146d92-85c2-4b41-ba1a-df3bcda0ee56"
+    },
+    {
+        "name": "三社神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "花ノ宮町９２９",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "fa3ad7d3-6b5b-4b54-9805-489bcd0aeeb2"
+    },
+    {
+        "name": "三社神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "本島町福田４６４番地",
+        "latitude": 34.2895363,
+        "longitude": 133.7976689,
+        "id": "35c9cc08-61ef-4086-980c-037c55dfad06"
+    },
+    {
+        "name": "三種神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "炭所西３１５５番地ノ１",
+        "latitude": 34.15587514,
+        "longitude": 133.90140508,
+        "id": "ee47f71b-bc97-43d7-936a-316f56c263eb"
+    },
+    {
+        "name": "三谷神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "飯山町東坂元３２９２番地",
+        "latitude": 34.27454653,
+        "longitude": 133.87702107,
+        "id": "97c07d4b-dac8-44e2-a3c5-0753c1d01f42"
+    },
+    {
+        "name": "三部神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "大野原町内野々甲２２８番地",
+        "latitude": 34.08430414,
+        "longitude": 133.66423655,
+        "id": "76bd4968-c766-408e-9140-4c694d686f2c"
+    },
+    {
+        "name": "三部神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "大野原町有木４７８番地",
+        "latitude": 34.03024954,
+        "longitude": 133.70497629,
+        "id": "233dd662-6f05-483d-b703-c2615b166432"
+    },
+    {
+        "name": "上王子神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所東１３８２番地",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "73a74d96-4ac8-48ba-a375-d4d0d33c2431"
+    },
+    {
+        "name": "下代荒神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "飯野町東二１３３２番地",
+        "latitude": 34.27816536,
+        "longitude": 133.82839687,
+        "id": "5f6c457f-0d17-4179-84b9-88d038883b36"
+    },
+    {
+        "name": "下土居神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町岡田東１４４番地",
+        "latitude": 34.2324762,
+        "longitude": 133.85661829,
+        "id": "e88e49cb-6a64-4f1f-95c1-5d5c55694873"
+    },
+    {
+        "name": "下坂神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "飯山町川原４１４番地",
+        "latitude": 34.25810372,
+        "longitude": 133.85053753,
+        "id": "a0bf31b0-7998-4739-b26e-7f561a8113af"
+    },
+    {
+        "name": "中山神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "中山１９２番地",
+        "latitude": 34.25354644,
+        "longitude": 134.28818515,
+        "id": "ec5a5a1c-e01d-4b20-ad9a-9139edd7a794"
+    },
+    {
+        "name": "中村神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "東高篠字本村１２０９番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "06f5854d-3373-4050-ac9b-bb2726b337fc"
+    },
+    {
+        "name": "中野天満神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "番町５丁目１番１８号",
+        "latitude": 34.33847669,
+        "longitude": 134.04367377,
+        "id": "6fad6c63-2b70-42b8-b27d-bad238fea86b"
+    },
+    {
+        "name": "丸尾神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "牟礼町原字中山田２０４６番地５",
+        "latitude": 34.34493735,
+        "longitude": 134.12204186,
+        "id": "42404da9-1038-4d20-93b7-b4eade797562"
+    },
+    {
+        "name": "丸山神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "室本町６９１番地",
+        "latitude": 34.1284659,
+        "longitude": 133.6628138,
+        "id": "4dad1ce4-c421-46cc-be87-42255c8419d2"
+    },
+    {
+        "name": "丸王神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "公文字谷山内８０１番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "cec37a22-a7a1-42d0-8279-2078550089cb"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "川島本町７１２番地",
+        "latitude": 34.27514768,
+        "longitude": 134.08142225,
+        "id": "b3b920af-500d-4da0-a3a8-900ff080426a"
+    },
+    {
+        "name": "乃木神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "文京町４丁目５番４号",
+        "latitude": 34.22537133,
+        "longitude": 133.77992754,
+        "id": "e043001d-f09c-437e-b3e2-8d98725e7b87"
+    },
+    {
+        "name": "久保神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "岸上字久保甲１０７番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "1257a966-45e7-4193-a603-2bf3905b9fca"
+    },
+    {
+        "name": "久斯神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町栗熊東２８４１番地",
+        "latitude": 34.2560788,
+        "longitude": 133.88875146,
+        "id": "33d2440f-4341-435a-9d0a-2f2693b1f47d"
+    },
+    {
+        "name": "久本神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "新田町乙１６番地",
+        "latitude": 34.32387575,
+        "longitude": 134.10537982,
+        "id": "37201520-4abe-41c7-a7b4-7f6c3635f0f4"
+    },
+    {
+        "name": "亀山神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "飯山町東坂元１３７２番地",
+        "latitude": 34.27615451,
+        "longitude": 133.86365253,
+        "id": "856ac9cf-0797-4fe0-8476-b1dd1cd8fa01"
+    },
+    {
+        "name": "亀山神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町上高瀬１１３０番地の１",
+        "latitude": 34.18650949,
+        "longitude": 133.72663179,
+        "id": "a2bdab43-7d3b-480a-b341-f5961244bf69"
+    },
+    {
+        "name": "事比羅神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "沙弥島１５番地",
+        "latitude": 34.3163188,
+        "longitude": 133.8605098,
+        "id": "bfc81c72-a052-43a0-954f-36daa4b7148a"
+    },
+    {
+        "name": "二宮神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "吉田４５２番地",
+        "latitude": 34.21362368,
+        "longitude": 134.40287216,
+        "id": "c53d4bd1-4946-41d4-b1c4-9583a8ae1eff"
+    },
+    {
+        "name": "二雙神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "勝浦字吹佐古２７６８番地",
+        "latitude": 34.10048995,
+        "longitude": 133.97185254,
+        "id": "b72ddcf7-9d5e-48cb-bf07-a2e1e8dd7a3c"
+    },
+    {
+        "name": "五十鈴神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町上高野１９６２番地",
+        "latitude": 34.14528299,
+        "longitude": 133.70245732,
+        "id": "d7c35dc9-8c09-491c-a8c4-438e5297957e"
+    },
+    {
+        "name": "五十鈴神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "豊浜町和田丙４２番地",
+        "latitude": 34.06285395,
+        "longitude": 133.64926878,
+        "id": "0c7a4c7f-8412-4c3a-b3ad-eb88b28fe38c"
+    },
+    {
+        "name": "五柱神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "本大町１２３１番地の１",
+        "latitude": 34.13213744,
+        "longitude": 133.69815523,
+        "id": "a1f418c7-7779-45b6-a504-018e0f3391d6"
+    },
+    {
+        "name": "五社八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "陶１９５番地",
+        "latitude": 34.26192005,
+        "longitude": 133.93678342,
+        "id": "b007e46b-af8d-4501-ab79-c1d81f210674"
+    },
+    {
+        "name": "井上神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "大野原町萩原丙２４２３番地６－内",
+        "latitude": 34.08430414,
+        "longitude": 133.66423655,
+        "id": "d82c8299-a752-4f0a-ad1b-6d2ccdbb52f4"
+    },
+    {
+        "name": "井原神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香南町西庄８９０番地１",
+        "latitude": 34.23912709,
+        "longitude": 134.02044426,
+        "id": "836829fd-c04a-4f57-96f7-d84bd86a7995"
+    },
+    {
+        "name": "今原神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町本山甲３８１番地",
+        "latitude": 34.15015165,
+        "longitude": 133.693308,
+        "id": "59d2379f-4d89-4ace-8191-c9ea562f01ec"
+    },
+    {
+        "name": "伊勢之宮神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡宇多津町",
+        "streetName": "字新町３６４５番地",
+        "latitude": 34.3103532,
+        "longitude": 133.8255345,
+        "id": "fa532bff-f795-4b7e-b532-1b7094ad9b4d"
+    },
+    {
+        "name": "伊勢神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "前山字山田１１４８番地",
+        "latitude": 34.3252201,
+        "longitude": 134.1721302,
+        "id": "a009e117-cd96-494b-91cb-7f508d7b2e31"
+    },
+    {
+        "name": "伊勢神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田西２４０１番地の３２",
+        "latitude": 34.25592581,
+        "longitude": 134.19164552,
+        "id": "5968f8c4-933c-4c0c-83f3-cefc93b07dcf"
+    },
+    {
+        "name": "伊勢神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾東字谷吉２６５０番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "ef1d0b9b-0cf9-479d-aa4f-54310979604b"
+    },
+    {
+        "name": "伊勢神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田西２８６０番地の乙",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "a0ffca8c-bf69-4092-9274-01d3eb281126"
+    },
+    {
+        "name": "伊勢神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "飯野町東分２７１９番地",
+        "latitude": 34.27502121,
+        "longitude": 133.83695182,
+        "id": "254530a6-b2eb-443c-bd14-fb54e2fa44ba"
+    },
+    {
+        "name": "伊勢神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田西６９６番地",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "7062dddc-f317-4bc9-9d42-0a87fb871f72"
+    },
+    {
+        "name": "伊勢神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田西３５１１番地",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "cf40f5e5-ed55-4de0-89e5-d81a9a809bc4"
+    },
+    {
+        "name": "伊豫神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "三野町吉津甲１１２９番地",
+        "latitude": 34.19777285,
+        "longitude": 133.68651462,
+        "id": "01f49cbf-a575-430e-a9a5-9fc108c9a726"
+    },
+    {
+        "name": "伏石神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "伏石町８４８番地",
+        "latitude": 34.3118211,
+        "longitude": 134.05230006,
+        "id": "43c1f2e3-3a92-40e8-95e5-d87eff327cb8"
+    },
+    {
+        "name": "住吉神社",
+        "prefectureName": "香川県",
+        "cityName": "香川郡直島町",
+        "streetName": "２２０３番地",
+        "latitude": 34.4598279,
+        "longitude": 133.9956947,
+        "id": "58211f01-3b02-482d-92a2-b94677c15512"
+    },
+    {
+        "name": "住吉神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "馬宿４１４番地２",
+        "latitude": 34.2437996,
+        "longitude": 134.3588228,
+        "id": "0f7a58bd-9306-4cb9-aa29-74252cf9b632"
+    },
+    {
+        "name": "住吉神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "神在川窪町１０１番地",
+        "latitude": 34.35956756,
+        "longitude": 133.98722318,
+        "id": "a409bfdb-d230-4d00-aad7-28ebb1808c07"
+    },
+    {
+        "name": "住吉神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町栗熊東９６１番地",
+        "latitude": 34.23912507,
+        "longitude": 133.89369322,
+        "id": "08f5ca2a-e08c-48f5-9134-3e3f68015967"
+    },
+    {
+        "name": "住吉神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "女木町１３８５番地",
+        "latitude": 34.39253722,
+        "longitude": 134.05117512,
+        "id": "fcfcc08e-138b-41cd-b6da-d1971b14587c"
+    },
+    {
+        "name": "住吉神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西字住吉１１５番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "5b6b77af-2d9c-4bc0-ac9e-1c73701d87c8"
+    },
+    {
+        "name": "住吉神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡土庄町",
+        "streetName": "豊島唐櫃字明神７８０番地",
+        "latitude": 34.4860243,
+        "longitude": 134.1858093,
+        "id": "cfb5f980-3e02-43b7-bda2-ac6d86d3901f"
+    },
+    {
+        "name": "八十主神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡多度津町",
+        "streetName": "大字道福寺４００番地",
+        "latitude": 34.26251966,
+        "longitude": 133.76202324,
+        "id": "fba3572e-59cd-4a64-90a3-fc0345bd501d"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "仏生山町甲１５２５番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "06695c13-a0f7-492d-9763-403962745c0c"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "萱原９６４番地",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "00b09325-d127-468a-af3e-dc8636a3d7f8"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西１８０７番地の１",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "f00dd120-fb14-4afe-a51d-a0eeb0380660"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "塩上町２丁目５番４号",
+        "latitude": 34.33952388,
+        "longitude": 134.05492301,
+        "id": "f2989ba4-2bee-40c0-896a-d57ae2f5bc47"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾東４５番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "f84b0309-e3d5-4814-b468-c8a13e3375f0"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田西９６２番地",
+        "latitude": 34.26722966,
+        "longitude": 134.19714478,
+        "id": "6dfa40f6-33a5-44f3-87e3-489980280f30"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "屋島西町１３３１番地",
+        "latitude": 34.34726775,
+        "longitude": 134.09662158,
+        "id": "f30af0ac-4939-43fa-9a8b-2bdbe8165f4e"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "飯山町下法軍寺１５２８番地",
+        "latitude": 34.24701611,
+        "longitude": 133.84853521,
+        "id": "6a1abce5-2b82-4709-9630-c794c86d498f"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町岡田上２３８９番地",
+        "latitude": 34.2560788,
+        "longitude": 133.88875146,
+        "id": "d8f37ef1-a798-4783-9110-56ddb8ad6420"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "引田１０６７番地２",
+        "latitude": 34.22393638,
+        "longitude": 134.4061466,
+        "id": "3dd1651e-8de6-4345-bc17-b67c16059fb2"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "引田２１０８番地",
+        "latitude": 34.22678038,
+        "longitude": 134.40201915,
+        "id": "b17f6d5f-36c3-4a22-bda9-92baedc82be1"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡小豆島町",
+        "streetName": "安田字井手首甲４７４番地１",
+        "latitude": 34.4796901,
+        "longitude": 134.3089328,
+        "id": "f14f847b-fa08-48a8-8412-9c9e1c3fd24e"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾東字王田１７９６番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "5c7f2cda-38e5-4c55-be62-dbe7aef88c53"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡土庄町",
+        "streetName": "滝宮字坪江甲５４７番地の１甲５４７番地の２",
+        "latitude": 34.4860243,
+        "longitude": 134.1858093,
+        "id": "7a5df278-2ba6-4bf4-a760-4c5665b85558"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡小豆島町",
+        "streetName": "草壁本町６９９番地",
+        "latitude": 34.48230048,
+        "longitude": 134.30227506,
+        "id": "b5d0be2e-2ffb-480f-be15-5d9734d05fd7"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "木太町１０４８番地",
+        "latitude": 34.31810117,
+        "longitude": 134.07132274,
+        "id": "e1ce3abd-5394-4033-8cb9-6e0e78a2156a"
+    },
+    {
+        "name": "八峯神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "勝浦字八峯１７３５番地１",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "f98e107b-660e-4959-827b-37e32ec5d7a3"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "女木町２３３番地",
+        "latitude": 34.39134847,
+        "longitude": 134.05310551,
+        "id": "8cca7bcc-dd4b-4320-9a29-c60b9e29399d"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所西１４２６番地",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "9b57d4ab-10a2-4163-a5b2-c7bbc67417bc"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "広島町立石１２２番地",
+        "latitude": 34.2895363,
+        "longitude": 133.7976689,
+        "id": "a9e45d0e-6b58-4641-8bde-a96f2230f0ac"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "中通字本名８３１番地ノ２",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "a7b45d3b-3169-4a31-b10a-f23f295d294d"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "詫間町粟島甲５２５番地",
+        "latitude": 34.27276799,
+        "longitude": 133.6419456,
+        "id": "7b888fe0-c756-4c66-8a50-47c3d7c82d7c"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "山本町大野乙５４番地",
+        "latitude": 34.11690597,
+        "longitude": 133.72564546,
+        "id": "e6f3b711-b421-4cb9-b0f4-895fdca8afea"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡土庄町",
+        "streetName": "伊喜末字中島１８３６番地１８３７番地",
+        "latitude": 34.4860243,
+        "longitude": 134.1858093,
+        "id": "ac4ec330-a76c-4876-a714-6c5098040d25"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡小豆島町",
+        "streetName": "馬木字宮山甲４２番地１",
+        "latitude": 34.4796901,
+        "longitude": 134.3089328,
+        "id": "be12b929-4f5d-424c-9b0e-8c2d0d4cdea0"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "川部町１１３６番地",
+        "latitude": 34.26288112,
+        "longitude": 134.00947453,
+        "id": "50d75564-3555-4e2a-85a6-17731d7d6cd8"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "塩江町安原下第１号１６７０番地",
+        "latitude": 34.20380793,
+        "longitude": 134.03683799,
+        "id": "3b1cfff1-e1dc-43d8-9d42-af5888fce063"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "本島町笠島１０３４番地",
+        "latitude": 34.2895363,
+        "longitude": 133.7976689,
+        "id": "21a498ad-6107-497b-ac4b-943af58fdde0"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "川東字本村上５１３番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "81aaf919-c331-43cd-a08d-8705d1f839e9"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "飯山町下法軍寺１４１０番地",
+        "latitude": 34.24772436,
+        "longitude": 133.84795745,
+        "id": "3b83c06b-7ccc-4f95-81c1-42a916374414"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "下田井町甲６７８番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "63ddb966-3408-484e-8364-909dfceb3f54"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "塩江町安原上６４４番地の２",
+        "latitude": 34.20380793,
+        "longitude": 134.03683799,
+        "id": "70a9a29a-306e-4b18-ab99-52abdad927d1"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "畑田３８５番地",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "522abf18-8e3d-4469-b969-34bbe67d67f0"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "善通寺町字伏見２３４４番地",
+        "latitude": 34.2281849,
+        "longitude": 133.7869241,
+        "id": "7ede62d4-bba0-446f-92fc-8819281a7c0d"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "吉野字八幡１３２３番地甲",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "5898cdfb-38dc-4882-ae63-36a1e58ac608"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "仁尾町仁尾乙１８４７番地１",
+        "latitude": 34.2005982,
+        "longitude": 133.64703621,
+        "id": "223ecb8c-86ed-43cf-a347-d82063bb4eda"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "大野原町大野原１９１３番地",
+        "latitude": 34.08699271,
+        "longitude": 133.66332824,
+        "id": "354985fd-9971-4781-bc66-c84f9a1eb659"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "香川郡直島町",
+        "streetName": "７３２番地",
+        "latitude": 34.4598279,
+        "longitude": 133.9956947,
+        "id": "873f93a4-70ed-4297-9a58-b296cb4a2962"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "檀紙町１６３５番地",
+        "latitude": 34.30558992,
+        "longitude": 133.9957473,
+        "id": "6b064bbd-fcab-4727-97ce-5b8f7fcdace5"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "塩江町安原下第２号１８４２番地",
+        "latitude": 34.20380793,
+        "longitude": 134.03683799,
+        "id": "1303e8b9-35c3-479f-9a7d-9ca716022dce"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香川町安原下第３号２２９３番地",
+        "latitude": 34.27033863,
+        "longitude": 134.01878145,
+        "id": "db7da1a0-8dfe-454a-bfae-f39f09b37f14"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡宇多津町",
+        "streetName": "１０５４番地",
+        "latitude": 34.3103532,
+        "longitude": 133.8255345,
+        "id": "c08d1c55-2168-4d96-a4eb-4bd012baf593"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "下吉田町字本村東３２０番地",
+        "latitude": 34.2281849,
+        "longitude": 133.7869241,
+        "id": "2feeda08-3a04-48b6-80a3-2dc8b647e38a"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "詫間町志々島６１８番地",
+        "latitude": 34.22080395,
+        "longitude": 133.67285755,
+        "id": "12f2bed6-1bd7-437f-b2ad-cd188f6ee82d"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "詫間町大浜甲１６３８番地",
+        "latitude": 34.22080395,
+        "longitude": 133.67285755,
+        "id": "690d9407-9b47-4ac7-b2f7-275e692df4c8"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾東字菜園１１９２番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "732c1b89-bf04-4a52-b0ab-1934d27379b4"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "屋島中町１４６番地の甲１４６番地の乙",
+        "latitude": 34.3442959,
+        "longitude": 134.10500694,
+        "id": "e539b6b4-039b-47fd-9f63-bdddb5898de4"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "木田郡三木町",
+        "streetName": "大字氷上４８３４番地",
+        "latitude": 34.2682863,
+        "longitude": 134.1342931,
+        "id": "743fa7b8-5418-4f69-bd2c-91d2c74dab46"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "大野原町中姫５４１番地",
+        "latitude": 34.08925635,
+        "longitude": 133.67972132,
+        "id": "8d6a2321-cc69-479b-b952-fdcb3f23ce8c"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "東植田町１８２９番地",
+        "latitude": 34.23778677,
+        "longitude": 134.09881204,
+        "id": "89329cef-a061-4a80-ba52-945ab571acc8"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "木田郡三木町",
+        "streetName": "大字池戸１３８３番地２",
+        "latitude": 34.28696613,
+        "longitude": 134.12433665,
+        "id": "6a2ea3d6-36fe-4765-b928-9e71be1e6959"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡多度津町",
+        "streetName": "大字三井８０３番地",
+        "latitude": 34.2726072,
+        "longitude": 133.7537571,
+        "id": "e6a929d2-5306-490e-a968-5c4eee58cdd2"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "炭所東字古屋敷１８７番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "317d9f0b-3562-4299-bb2d-fa87e129c20d"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "府中町８９０番地",
+        "latitude": 34.29363635,
+        "longitude": 133.92347497,
+        "id": "ea43b833-b338-4337-8c43-744fa7713b99"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "三野町下高瀬２２６９番地",
+        "latitude": 34.20075777,
+        "longitude": 133.70817694,
+        "id": "f3c58e66-ea6c-40ab-b3ed-8ce76d66df3a"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡多度津町",
+        "streetName": "大字葛原１６４６番地",
+        "latitude": 34.2726072,
+        "longitude": 133.7537571,
+        "id": "bc3548c0-bd8f-4c13-a63d-2e39285c9f2e"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "勝浦字茂地倉２２８５番地１",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "3ec66ad9-324d-4c7a-a289-db287e35e9f5"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "伊吹町２６３番地",
+        "latitude": 34.12829716,
+        "longitude": 133.53471557,
+        "id": "a54bbb3a-84c2-45fb-8f63-8480e366bdfe"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "入野山２６２７番地の甲",
+        "latitude": 34.2437996,
+        "longitude": 134.3588228,
+        "id": "7a859077-bf97-4f6f-a5e2-905fd53ab7ee"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡土庄町",
+        "streetName": "字宮ノ前甲５４８９番地１",
+        "latitude": 34.4860243,
+        "longitude": 134.1858093,
+        "id": "9cf258d8-c555-40e7-8ee9-996e420e2d9f"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡多度津町",
+        "streetName": "佐柳１２８０番地１",
+        "latitude": 34.2726072,
+        "longitude": 133.7537571,
+        "id": "3ebccf26-1cbb-4b2d-ba22-da311a45c5a9"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "八幡町２丁目３番３７号",
+        "latitude": 34.31318581,
+        "longitude": 133.84145526,
+        "id": "f4c2560c-8dc9-4997-9f78-f67f5e4a5950"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "御供所町３丁目２番２０号",
+        "latitude": 34.32178177,
+        "longitude": 133.8353051,
+        "id": "1d3514ee-7f29-4970-b326-7a0d7f22d230"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "入野山１６８番地",
+        "latitude": 34.2437996,
+        "longitude": 134.3588228,
+        "id": "cd9a7dac-748e-4761-9034-771ac3a2bc08"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡土庄町",
+        "streetName": "豊島家浦字ウナキ２８５０番地",
+        "latitude": 34.4860243,
+        "longitude": 134.1858093,
+        "id": "369231aa-ba97-4890-84b8-b7a7c1865da6"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "西山崎町１３１３番地",
+        "latitude": 34.28596988,
+        "longitude": 133.98963019,
+        "id": "2df4979e-3f1f-41d6-b8fa-8313c2ee1b2f"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "千疋１９０４番地",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "36b4f43a-efb5-45e1-9455-170074dd91ea"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "広島町手島１２７１番地",
+        "latitude": 34.2895363,
+        "longitude": 133.7976689,
+        "id": "90b7ffb4-bec7-4063-a8c1-74100c4924b6"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡多度津町",
+        "streetName": "高見２０８３番地",
+        "latitude": 34.30673318,
+        "longitude": 133.67812996,
+        "id": "b75dc60a-e989-4b72-b894-2e530fb386ef"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "川東字明神１４８８番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "898fc13e-62ac-456c-9827-2e77eb990a7c"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "瀬居町１番地",
+        "latitude": 34.3163188,
+        "longitude": 133.8605098,
+        "id": "78d94b1e-c492-45e2-856d-ed3a3696925e"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡土庄町",
+        "streetName": "豊島唐櫃字浜田甲２８００番地",
+        "latitude": 34.4860243,
+        "longitude": 134.1858093,
+        "id": "e2013d93-371d-42ca-8efc-bd5a1626382a"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡小豆島町",
+        "streetName": "福田甲５９８番地甲５９９番地",
+        "latitude": 34.4796901,
+        "longitude": 134.3089328,
+        "id": "c93245c6-ec53-4d3e-bf18-d354429c5009"
+    },
+    {
+        "name": "八方荒神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "成合町１２２２番地",
+        "latitude": 34.29591362,
+        "longitude": 134.01701353,
+        "id": "7d44e09a-1cb0-4c29-a2a2-e1f656c11505"
+    },
+    {
+        "name": "八柱神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "三野町吉津乙１０８番地１７",
+        "latitude": 34.19749233,
+        "longitude": 133.67578003,
+        "id": "392246a0-46a9-4594-81ce-ea7ac3c438a5"
+    },
+    {
+        "name": "八王子八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香川町浅野３０８９番地",
+        "latitude": 34.25893785,
+        "longitude": 134.04180995,
+        "id": "0ed5bba7-c905-4e10-9f11-e8a0c48d1830"
+    },
+    {
+        "name": "八鉾神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "加茂町甲４９８番地",
+        "latitude": 34.31275065,
+        "longitude": 133.90117098,
+        "id": "dd84834f-e6bb-4c99-b2b1-82da37f125fd"
+    },
+    {
+        "name": "八阪神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "本島町尻浜２４６番地の１",
+        "latitude": 34.2895363,
+        "longitude": 133.7976689,
+        "id": "f785f7f0-7e8c-45fa-bf87-ae7acd7a8984"
+    },
+    {
+        "name": "冠纓神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香南町由佐１４０９番地",
+        "latitude": 34.2386047,
+        "longitude": 134.01158135,
+        "id": "d13a9ea7-ac68-4128-94be-cc7f646a487c"
+    },
+    {
+        "name": "初田神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "岩黒４０番地１",
+        "latitude": 34.40507838,
+        "longitude": 133.80920215,
+        "id": "e6747b5a-1c79-4b72-ba21-4fcef50a23b8"
+    },
+    {
+        "name": "別宮八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "西山８６７番地",
+        "latitude": 34.21240303,
+        "longitude": 134.33240874,
+        "id": "0204727f-3470-4032-a581-17f2d77e1e34"
+    },
+    {
+        "name": "前ノ川神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "川東字前ノ川１００７番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "26a562cb-1c1e-44d3-8ad6-7aa3be54f761"
+    },
+    {
+        "name": "剣山神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "川東字中熊上２１１２番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "288dee31-4c6c-4d5f-bccd-3317443570df"
+    },
+    {
+        "name": "劔神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "炭所西２９９７番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "608bdc4d-2524-434f-9532-1753215275af"
+    },
+    {
+        "name": "加茂神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "高屋町２５４７番地の９",
+        "latitude": 34.13976712,
+        "longitude": 133.66500235,
+        "id": "838af24e-3104-4b44-a864-15b45cf5e384"
+    },
+    {
+        "name": "加茂神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "亀水町９２７番地",
+        "latitude": 34.36695158,
+        "longitude": 133.95219472,
+        "id": "8216b14e-6af7-48da-9985-07eabfd4fe78"
+    },
+    {
+        "name": "加茂神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "佐文字岡５２３番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "3d6628bb-375b-472f-889c-66d1235c747b"
+    },
+    {
+        "name": "加茂神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "植田町１３５１番地",
+        "latitude": 34.1284659,
+        "longitude": 133.6628138,
+        "id": "5cffd1ac-a07f-440c-808b-f3656ee1b7c8"
+    },
+    {
+        "name": "加麻良神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "流岡町８２０番地の１",
+        "latitude": 34.13648972,
+        "longitude": 133.67807893,
+        "id": "e30285a3-a7df-4b06-8a4d-cd738810af29"
+    },
+    {
+        "name": "勅使八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "木田郡三木町",
+        "streetName": "大字井戸乙４８４番地",
+        "latitude": 34.2682863,
+        "longitude": 134.1342931,
+        "id": "46e92b91-061a-47a8-a2a1-d3a16b795a56"
+    },
+    {
+        "name": "勝浦神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "勝浦字本村５３２番地１",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "2e1c40b0-b9c3-41a0-9214-34f8da5f38b4"
+    },
+    {
+        "name": "北宮八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "陶２７９６番地",
+        "latitude": 34.25822879,
+        "longitude": 133.95558756,
+        "id": "296f2b86-7549-4cda-b523-5cf172fdf904"
+    },
+    {
+        "name": "北尾神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町笠田笠岡字天神３７１５番地",
+        "latitude": 34.14006696,
+        "longitude": 133.69483862,
+        "id": "ce11a582-bac3-4499-9ed2-88aaae864be4"
+    },
+    {
+        "name": "北山神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所西２６２３番地",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "e1dc7dae-835f-4496-a18c-83da4b9005c5"
+    },
+    {
+        "name": "北山神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "財田町財田中４３２１番地",
+        "latitude": 34.12013145,
+        "longitude": 133.77907029,
+        "id": "b3b8f1b1-bf23-4019-8b15-33c7ef2a5ae3"
+    },
+    {
+        "name": "十二神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "山本町神田乙４３４番地",
+        "latitude": 34.11690597,
+        "longitude": 133.72564546,
+        "id": "ffd52d7f-3268-4cb9-9b06-7023e8417824"
+    },
+    {
+        "name": "千尋神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "木之郷町１４９５番地",
+        "latitude": 34.1284659,
+        "longitude": 133.6628138,
+        "id": "f7e4c73c-4c07-465e-95b0-cee04400071e"
+    },
+    {
+        "name": "双子山神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "川西町北１２８６番地",
+        "latitude": 34.27008015,
+        "longitude": 133.82040906,
+        "id": "7ce09dc7-2704-4951-a488-3d0114a111f2"
+    },
+    {
+        "name": "吉岡神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "飯野町東分字山下８２６番地",
+        "latitude": 34.27816536,
+        "longitude": 133.82839687,
+        "id": "ac11e266-a390-4cbf-aa64-fabf53ace330"
+    },
+    {
+        "name": "吉田神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "炭所西字八幡岡５４０番地２",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "4d8fa8e6-7208-4053-b561-ce429980296f"
+    },
+    {
+        "name": "向良神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "松島町１８１番地",
+        "latitude": 34.33683535,
+        "longitude": 134.06828314,
+        "id": "608b886b-ecc4-4eba-85c2-4a8760fe8170"
+    },
+    {
+        "name": "和爾賀波神社",
+        "prefectureName": "香川県",
+        "cityName": "木田郡三木町",
+        "streetName": "大字井戸１５８２番地",
+        "latitude": 34.2682863,
+        "longitude": 134.1342931,
+        "id": "bc5f1248-1bef-4960-b29e-14ba1e3ce04a"
+    },
+    {
+        "name": "和田神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所東１９１６番地",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "4425fcd8-8f42-40c0-83be-a0e02e04b47c"
+    },
+    {
+        "name": "喜佐波神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "王越町木沢１６２１番地",
+        "latitude": 34.36952561,
+        "longitude": 133.91644827,
+        "id": "5da550e8-5f28-4e1b-82fd-3efe701d762a"
+    },
+    {
+        "name": "嚴島神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "仁尾町仁尾己１０３２番地",
+        "latitude": 34.2005982,
+        "longitude": 133.64703621,
+        "id": "f33ee4dc-de9e-4938-956a-08294b46fd79"
+    },
+    {
+        "name": "嚴嶋神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "大屋冨町２３１３番地",
+        "latitude": 34.3163188,
+        "longitude": 133.8605098,
+        "id": "9a94c9bd-5031-4732-a278-9d180bc159ba"
+    },
+    {
+        "name": "四十三神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町栗熊東２８４８番地１",
+        "latitude": 34.22347157,
+        "longitude": 133.88873573,
+        "id": "3c31c6eb-0e4a-477a-a9a7-a40b92456537"
+    },
+    {
+        "name": "四社神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "本島町大浦１８８番地",
+        "latitude": 34.2895363,
+        "longitude": 133.7976689,
+        "id": "3a7ee83b-9839-42aa-afa3-49e2a54c604d"
+    },
+    {
+        "name": "国尾神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "宮田字宮中７４９番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "a33dfb77-ebec-41c3-b300-bcba377a2ee5"
+    },
+    {
+        "name": "国木八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町下高野１２５０番地",
+        "latitude": 34.14006696,
+        "longitude": 133.69483862,
+        "id": "5916b040-2fa8-4b2f-803e-6e657a1dfe55"
+    },
+    {
+        "name": "國修神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "山本町河内２０４４番地の２",
+        "latitude": 34.07380286,
+        "longitude": 133.74274193,
+        "id": "eb8bcc26-cb41-44e2-8454-8e8536d6320e"
+    },
+    {
+        "name": "國津神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香南町岡４４３番地",
+        "latitude": 34.23912709,
+        "longitude": 134.02044426,
+        "id": "9ce6d28e-0530-45e4-9f6d-3bf89202feb5"
+    },
+    {
+        "name": "地主神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "中通字本名８６４番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "9c71415a-a6d9-4a70-aee9-3f79486f5e7c"
+    },
+    {
+        "name": "地主神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "坂元１６５番地",
+        "latitude": 34.20568385,
+        "longitude": 134.43284151,
+        "id": "3d56ab9b-f7f3-4856-a59d-c73eb3d28a96"
+    },
+    {
+        "name": "坂元神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "飯山町西坂元１８７番地",
+        "latitude": 34.26797197,
+        "longitude": 133.84606806,
+        "id": "25e7626b-7269-451b-9337-4eaf1dcda50a"
+    },
+    {
+        "name": "垂水神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "垂水町１２７５番地",
+        "latitude": 34.23495634,
+        "longitude": 133.83046756,
+        "id": "2f85be16-b5cd-4fff-a84d-d3e92cf38c5d"
+    },
+    {
+        "name": "城山神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "羽床上１７１５番地４",
+        "latitude": 34.21867204,
+        "longitude": 133.91770874,
+        "id": "92caa806-f2e3-4b78-b80c-f2ed2893a010"
+    },
+    {
+        "name": "城山神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "府中町甲４７６０番地",
+        "latitude": 34.29118382,
+        "longitude": 133.93102149,
+        "id": "a7b118d7-53e6-4322-8107-eb6339f7404d"
+    },
+    {
+        "name": "城村神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "勝浦字真鈴１４６１番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "8cf1421a-8732-4593-b099-e2494b80ce09"
+    },
+    {
+        "name": "塩竃神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "福岡町１丁目３番４７号",
+        "latitude": 34.34477061,
+        "longitude": 134.06645241,
+        "id": "1beac47b-ee52-41e4-909f-eb8a869230b6"
+    },
+    {
+        "name": "塩竃神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "福岡町４丁目２番５号",
+        "latitude": 34.3428986,
+        "longitude": 134.06915781,
+        "id": "7e094bd4-ff41-4e29-81de-5bc73f9fe0f7"
+    },
+    {
+        "name": "塩竃神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "屋島西町字浜畠８１７番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "18d52be7-1890-44cc-bb49-3471c999eb3b"
+    },
+    {
+        "name": "塩竃神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "本島町甲生２７５番地",
+        "latitude": 34.2895363,
+        "longitude": 133.7976689,
+        "id": "2d0a1ecc-9741-4df8-9901-546fe7ffec42"
+    },
+    {
+        "name": "塩竈神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "亀水町２１３番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "65927546-fc98-403d-b59b-dc115272153b"
+    },
+    {
+        "name": "塩竈神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "引田３８５９番地",
+        "latitude": 34.23215462,
+        "longitude": 134.39739719,
+        "id": "f2827149-3555-48a0-93d1-546cbb35f2af"
+    },
+    {
+        "name": "塩竈神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "牟礼町大町１０４０番地",
+        "latitude": 34.33681572,
+        "longitude": 134.1557747,
+        "id": "a821af68-9320-4bc5-b785-1cacd06d48fd"
+    },
+    {
+        "name": "塩竈神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "仁尾町仁尾丁１４５６番地の１",
+        "latitude": 34.2039368,
+        "longitude": 133.64236991,
+        "id": "0a5d61e8-d714-435c-b632-e96f9f382c6c"
+    },
+    {
+        "name": "塩𥧄神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "広島町茂浦３８番地",
+        "latitude": 34.2895363,
+        "longitude": 133.7976689,
+        "id": "3850f6af-6920-4e3b-a844-ddc04df51356"
+    },
+    {
+        "name": "塩𥧄神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "常盤町２丁目１番７５号",
+        "latitude": 34.31814618,
+        "longitude": 133.83442195,
+        "id": "2ea2be14-d41a-49e2-aad8-222ba528c57a"
+    },
+    {
+        "name": "塩𥧄神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "高屋町１０７４番地",
+        "latitude": 34.33642808,
+        "longitude": 133.90723029,
+        "id": "b215e80e-945c-4cc4-849b-0feaad76c9a2"
+    },
+    {
+        "name": "境八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "柞田町乙２１７９番地",
+        "latitude": 34.10546853,
+        "longitude": 133.64634615,
+        "id": "0fc548af-348c-4697-a504-1a10ab1b8fe2"
+    },
+    {
+        "name": "多和神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "前山字道２４５１番地",
+        "latitude": 34.3252201,
+        "longitude": 134.1721302,
+        "id": "b5ea6431-c3c2-4a73-b46e-8d5176603c67"
+    },
+    {
+        "name": "多和神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "志度字越窓１２６番地",
+        "latitude": 34.32301496,
+        "longitude": 134.17435761,
+        "id": "bde5f078-76e5-42fd-816d-e24adf16e58e"
+    },
+    {
+        "name": "多賀神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "多賀町２丁目１番２６号",
+        "latitude": 34.33776298,
+        "longitude": 134.05873671,
+        "id": "5698ebb0-f4c8-46e5-8362-89c5ac406fee"
+    },
+    {
+        "name": "大井八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡琴平町",
+        "streetName": "五條字馬場南３０２番地",
+        "latitude": 34.1912168,
+        "longitude": 133.8235082,
+        "id": "b4b46941-6e82-4391-a758-5b8d54eac882"
+    },
+    {
+        "name": "大井神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "炭所東字長者３００５番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "b0eeafe4-bfec-456e-9df3-d602757a1275"
+    },
+    {
+        "name": "大内神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "鬼無町是竹３２０番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "29eb15a7-163e-41ea-8d24-1235f1af09c0"
+    },
+    {
+        "name": "大地神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西字川北５２番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "6d721bdf-220b-4148-907e-660b08704f78"
+    },
+    {
+        "name": "大宮八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "川津町１５８番地",
+        "latitude": 34.28497832,
+        "longitude": 133.85321137,
+        "id": "35532779-df40-4207-a8ae-07ffe2396f6b"
+    },
+    {
+        "name": "大宮神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "吉野字宮東８３２番地５",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "5ad786e7-96ed-4ebb-a037-be4cd574268c"
+    },
+    {
+        "name": "大宮神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西１２３９番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "ecff6496-e406-4772-b034-55a5ea9b337e"
+    },
+    {
+        "name": "大将軍神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "仁尾町家の浦２００番地",
+        "latitude": 34.2005982,
+        "longitude": 133.64703621,
+        "id": "c92cf186-6b40-4fd8-90e8-2a4a074fae7c"
+    },
+    {
+        "name": "大山祗神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "生間字明通寺１５４番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "d956d2ba-b81d-4591-b5a7-76731bf3a2f6"
+    },
+    {
+        "name": "大山神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "七箇字堀切２８０１番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "6371e6c3-49d9-4d4b-8740-aef329517c48"
+    },
+    {
+        "name": "大山神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "本島町小阪１２９４番地",
+        "latitude": 34.376919,
+        "longitude": 133.7708429,
+        "id": "2b5a1736-8221-49ed-b652-5ca6270711b0"
+    },
+    {
+        "name": "大山神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "津田町鶴羽２７３１番地",
+        "latitude": 34.2722664,
+        "longitude": 134.28642375,
+        "id": "9691d1fc-a614-4eed-8e1f-d654fe074194"
+    },
+    {
+        "name": "大川町天神宮神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "大川町富田中９１７番地１",
+        "latitude": 34.26236665,
+        "longitude": 134.23599681,
+        "id": "e8800d42-d55c-413f-ad18-f5c0ebb50fa8"
+    },
+    {
+        "name": "大川神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "中通字野口１１５０番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "cac55576-25f4-4f2c-86b6-38cfc1fdb354"
+    },
+    {
+        "name": "大森神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "川東１０４５番地",
+        "latitude": 34.23931314,
+        "longitude": 134.32652057,
+        "id": "9fdd99dd-b37d-41e5-8a8a-93300b8792d2"
+    },
+    {
+        "name": "大歳神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡琴平町",
+        "streetName": "上櫛梨字大歳１２６１番地",
+        "latitude": 34.1912168,
+        "longitude": 133.8235082,
+        "id": "381dc00e-7dbd-4dfc-9d13-7763e69b0210"
+    },
+    {
+        "name": "大水上神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町羽方２６７７番地の乙",
+        "latitude": 34.19407192,
+        "longitude": 133.71999597,
+        "id": "c7b3320b-a648-4afd-8b11-235b61d76708"
+    },
+    {
+        "name": "大水上神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "川東字菜種渕１２５９番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "43e24734-0d16-49d3-bad5-363e89460383"
+    },
+    {
+        "name": "大石神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "前山字牛石２２０番地",
+        "latitude": 34.3252201,
+        "longitude": 134.1721302,
+        "id": "bb965958-afb7-4537-aef0-ded25c382cb2"
+    },
+    {
+        "name": "大膳神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "財田町財田上６２２番地",
+        "latitude": 34.11772381,
+        "longitude": 133.80277077,
+        "id": "3467dda0-30a7-4630-aa44-c25509fefe5a"
+    },
+    {
+        "name": "大蓑彦神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田東甲１７４３番地",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "4681f19f-94c6-4c17-b060-e5cf2c7eb15b"
+    },
+    {
+        "name": "大谷神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "吉野字西高屋原４３１９番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "12117671-a40a-4309-b2fb-4f1c2ea4ad2f"
+    },
+    {
+        "name": "大麻神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "大麻町字上ノ村山２４１番地",
+        "latitude": 34.2281849,
+        "longitude": 133.7869241,
+        "id": "1a886130-c10d-4513-ad36-9c275328417a"
+    },
+    {
+        "name": "大黒神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西字上森貞３０３番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "ad46e8c1-7fc0-4841-998c-c10cd8c53973"
+    },
+    {
+        "name": "天尾神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香川町川内原字宮下８９７番地１",
+        "latitude": 34.27033863,
+        "longitude": 134.01878145,
+        "id": "32c427fb-ece7-4015-9f8d-d0238ad0cb12"
+    },
+    {
+        "name": "天津神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "与島町１４５番地",
+        "latitude": 34.38645062,
+        "longitude": 133.82245096,
+        "id": "4c84859e-17d4-4dd9-b0e2-7f2b2b8c8d92"
+    },
+    {
+        "name": "天津神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡土庄町",
+        "streetName": "大部字東黒山甲７８８番地",
+        "latitude": 34.4860243,
+        "longitude": 134.1858093,
+        "id": "93f40c08-23ed-4d52-84e1-a9d258bef10a"
+    },
+    {
+        "name": "天津神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡小豆島町",
+        "streetName": "神懸通甲１８８５番地の１甲１８８５番地の２甲１８８６番地の１",
+        "latitude": 34.4796901,
+        "longitude": 134.3089328,
+        "id": "f853c0b1-cea0-4176-b828-9984871efeca"
+    },
+    {
+        "name": "天満天神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "天満町２丁目１番３号",
+        "latitude": 34.28525598,
+        "longitude": 133.78029865,
+        "id": "4890f46c-a674-4ae0-8893-d20d12999128"
+    },
+    {
+        "name": "天満天神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "牟礼町大町２４０４番地",
+        "latitude": 34.34493735,
+        "longitude": 134.12204186,
+        "id": "9f3daa34-6a1b-440d-bd8e-2feda9874106"
+    },
+    {
+        "name": "天満神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "中間町１４７６番地",
+        "latitude": 34.28759192,
+        "longitude": 133.98978002,
+        "id": "dc0be44b-3a83-489a-8d75-69d0269f9a39"
+    },
+    {
+        "name": "天満神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "西山崎町１３２９番地",
+        "latitude": 34.28389511,
+        "longitude": 133.99026643,
+        "id": "a03f9401-79c1-4ba2-b39d-82860e5c56a5"
+    },
+    {
+        "name": "天満神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町上勝間２８０９番地",
+        "latitude": 34.19407192,
+        "longitude": 133.71999597,
+        "id": "29ac3aa5-2bfd-4de7-aa9c-e4d770a070eb"
+    },
+    {
+        "name": "天満神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "詫間町大浜乙７７番地２",
+        "latitude": 34.22080395,
+        "longitude": 133.67285755,
+        "id": "a32e5cf5-000e-422b-9507-1b4bd053de9b"
+    },
+    {
+        "name": "天満神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "山本町財田西１４５３番地",
+        "latitude": 34.11807271,
+        "longitude": 133.74139363,
+        "id": "594e7caf-301d-4134-9522-4ec95df02c05"
+    },
+    {
+        "name": "天満神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "滝宮１３１４番地",
+        "latitude": 34.24903515,
+        "longitude": 133.92029919,
+        "id": "aad55c9f-cf2f-4b76-a80b-6bf1793b68b3"
+    },
+    {
+        "name": "天満神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "原田町１９５２番地",
+        "latitude": 34.2895363,
+        "longitude": 133.7976689,
+        "id": "389043da-0aa1-4f38-a991-0d43aee72c7a"
+    },
+    {
+        "name": "天満神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町上高野２４４４番地",
+        "latitude": 34.14006696,
+        "longitude": 133.69483862,
+        "id": "2b71c3b7-c956-4490-93e5-498720613843"
+    },
+    {
+        "name": "天満神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "西村１２８７番地の１",
+        "latitude": 34.24590101,
+        "longitude": 134.32082394,
+        "id": "16ed809f-f6eb-4d22-a442-6bd078f4032b"
+    },
+    {
+        "name": "天満神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "三条町３９５番地の１",
+        "latitude": 34.2895363,
+        "longitude": 133.7976689,
+        "id": "1cde3c30-dd4d-42eb-ab19-845634af29e4"
+    },
+    {
+        "name": "天満神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "川部町７３３番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "d4c100d6-a12c-42c2-85a6-3655cd3f96c3"
+    },
+    {
+        "name": "天満神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "山北町２６６番地",
+        "latitude": 34.27800429,
+        "longitude": 133.8050408,
+        "id": "ceeed8d4-8c5d-432a-89d4-ed0a7a416a46"
+    },
+    {
+        "name": "天滿神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "府中町１２４０番地",
+        "latitude": 34.28658707,
+        "longitude": 133.91889237,
+        "id": "5efa612d-8e7d-4462-bf0b-e5fdc9e015aa"
+    },
+    {
+        "name": "天滿神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "郡家町１０７９番地",
+        "latitude": 34.25255429,
+        "longitude": 133.82319273,
+        "id": "4e2e51a0-beaf-45ef-9ed7-59a909cc9c42"
+    },
+    {
+        "name": "天滿神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡多度津町",
+        "streetName": "家中７番２６号",
+        "latitude": 34.27600119,
+        "longitude": 133.75401537,
+        "id": "2d793b6d-89f8-46e4-894a-82a63cbe4f4c"
+    },
+    {
+        "name": "天皇神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "川津町２３３９番地",
+        "latitude": 34.3163188,
+        "longitude": 133.8605098,
+        "id": "3b82951c-cbeb-4faf-9f4b-2527c78883b8"
+    },
+    {
+        "name": "天皇神社",
+        "prefectureName": "香川県",
+        "cityName": "香川郡直島町",
+        "streetName": "６１８番地",
+        "latitude": 34.4598279,
+        "longitude": 133.9956947,
+        "id": "d6130be9-1e40-48d2-8352-dc6d0ae3e69f"
+    },
+    {
+        "name": "天神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "長尾字天神２４４３番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "4f1b68ae-254b-4223-b126-dd97d6f90263"
+    },
+    {
+        "name": "天神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "津森町６２９番地",
+        "latitude": 34.2895363,
+        "longitude": 133.7976689,
+        "id": "4c5d17e9-8942-426c-af72-3fc3ecf31156"
+    },
+    {
+        "name": "天神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "中田井町８３９番地",
+        "latitude": 34.1284659,
+        "longitude": 133.6628138,
+        "id": "5a92f665-1532-4315-a5e7-89ef8ef0371f"
+    },
+    {
+        "name": "天神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "伊吹町８５４番地",
+        "latitude": 34.12858325,
+        "longitude": 133.53525439,
+        "id": "6324c3c5-97be-4294-9f9b-fdc3c7f7e9e5"
+    },
+    {
+        "name": "天野神社",
+        "prefectureName": "香川県",
+        "cityName": "木田郡三木町",
+        "streetName": "大字井上４３番地",
+        "latitude": 34.2800096,
+        "longitude": 134.13813715,
+        "id": "a7551f06-ca94-4777-bef9-c30f1ba43fe4"
+    },
+    {
+        "name": "天野神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香川町安原下第３号２３６番地",
+        "latitude": 34.27033863,
+        "longitude": 134.01878145,
+        "id": "da5a83b4-866c-493e-8d74-a8886734ad14"
+    },
+    {
+        "name": "天降神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香川町大野１０９７番地",
+        "latitude": 34.26885003,
+        "longitude": 134.02512805,
+        "id": "736db4d3-1dd1-4b57-a6ba-44673d5ae607"
+    },
+    {
+        "name": "太神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田東甲３４２４番地",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "bc98f346-0d9c-4f74-8b5d-152dc72c06ff"
+    },
+    {
+        "name": "太神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田東甲１６９０番地",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "f8c34a9e-a247-4426-a49f-4d2e23d6a0f5"
+    },
+    {
+        "name": "奥谷神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "羽床下８０１番地",
+        "latitude": 34.22530176,
+        "longitude": 133.90857591,
+        "id": "53dafdc5-ed5e-47a6-9395-af36b3a88e01"
+    },
+    {
+        "name": "女体神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾東字梶ヶ上２４５７番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "2fd0dd7c-5232-4cca-8b59-cfa4e8a465c0"
+    },
+    {
+        "name": "女体神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田東甲３１３６番地",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "f8177aa8-8f1d-4bf3-94c7-62dc2d28ee67"
+    },
+    {
+        "name": "女體神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田西２１５３番地第１",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "2b9be438-6b0b-4340-ba89-525f245f0461"
+    },
+    {
+        "name": "宇佐八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "国分寺町柏原１０９９番地２",
+        "latitude": 34.27086887,
+        "longitude": 133.9814126,
+        "id": "367fe36f-dd02-467a-88be-7fd4de68613b"
+    },
+    {
+        "name": "宇佐神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾名字亀鶴山１６５６番地の１",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "6d0a56ca-a966-4145-8ad5-285aa3922428"
+    },
+    {
+        "name": "宇佐神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香西本町４６５番地",
+        "latitude": 34.34662766,
+        "longitude": 133.99736891,
+        "id": "4d8bebb9-ed84-4efe-aa2b-1d82efcf585e"
+    },
+    {
+        "name": "宇夫階神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡宇多津町",
+        "streetName": "１６４４番地",
+        "latitude": 34.30817305,
+        "longitude": 133.82063233,
+        "id": "665d11fc-5acb-40c5-b855-a0c8c2837949"
+    },
+    {
+        "name": "宇賀神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町笠田笠岡６８５番地",
+        "latitude": 34.15827854,
+        "longitude": 133.71176467,
+        "id": "dcc96748-7406-420a-9acb-a414cf816af9"
+    },
+    {
+        "name": "宇閇神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町岡田下６９５番地",
+        "latitude": 34.21515049,
+        "longitude": 133.86078244,
+        "id": "95f6c80c-d714-4701-aa8e-f05b49463583"
+    },
+    {
+        "name": "宇閇神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町栗熊西２７７番地",
+        "latitude": 34.2560788,
+        "longitude": 133.88875146,
+        "id": "ab430d63-afdf-4163-bc13-2102a3cd18aa"
+    },
+    {
+        "name": "安造田神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "羽間字安造田２９７９番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "c6983bd0-3dd3-47db-945c-40f16d2b7676"
+    },
+    {
+        "name": "室塚神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町岡田上３５４番地１",
+        "latitude": 34.21301742,
+        "longitude": 133.84781684,
+        "id": "590e565a-b9cc-48b5-a01f-08e31eea4f03"
+    },
+    {
+        "name": "富丘八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡土庄町",
+        "streetName": "淵崎字小入部甲２４２１番地の内甲２４２２番地",
+        "latitude": 34.4860243,
+        "longitude": 134.1858093,
+        "id": "ce1cf37d-da5b-4531-8785-f9193fc9a1aa"
+    },
+    {
+        "name": "富田神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "大川町富田中１１４番地",
+        "latitude": 34.27570391,
+        "longitude": 134.2335662,
+        "id": "f344ac3d-3738-4725-ab57-bf061f2ddfa3"
+    },
+    {
+        "name": "富隈神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町富熊２８番地",
+        "latitude": 34.25652058,
+        "longitude": 133.86725577,
+        "id": "a98ccc35-8fc7-4e89-8c45-8bf95cd8a687"
+    },
+    {
+        "name": "富隈神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "公文字山内５８８番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "e1162f81-3b7d-436d-b30d-a669e46d0d5c"
+    },
+    {
+        "name": "小坂神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "坂元１０７２番地２",
+        "latitude": 34.20713902,
+        "longitude": 134.42628656,
+        "id": "0c495d59-20bc-4d76-af63-a6775d733e86"
+    },
+    {
+        "name": "小烏神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "詫間町松崎８６４番地",
+        "latitude": 34.2186705,
+        "longitude": 133.69662694,
+        "id": "2520e3d0-7c40-4419-8e2c-a36ca9e5d26a"
+    },
+    {
+        "name": "小田神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "川部町２１８０番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "4a5d854c-90f6-4d37-8d9e-5a380522cfb2"
+    },
+    {
+        "name": "小田神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "塩江町安原下３１３２番地",
+        "latitude": 34.20380793,
+        "longitude": 134.03683799,
+        "id": "d66c088a-5593-4434-9403-8264e973d830"
+    },
+    {
+        "name": "小野東神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所西１８８２番地",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "498f9422-6975-4f9c-a7fd-b0d3cc1fa796"
+    },
+    {
+        "name": "尾上神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "本島町笠島３８８番地",
+        "latitude": 34.3948627,
+        "longitude": 133.78631605,
+        "id": "1f7f3f08-f4ff-4f6e-b01f-0d0148b31f4e"
+    },
+    {
+        "name": "屋島神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "屋島中町１４０番地",
+        "latitude": 34.34514304,
+        "longitude": 134.1078872,
+        "id": "e709f609-6a73-408c-8b2b-205ffe39daf5"
+    },
+    {
+        "name": "山上神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田東甲３４８７番地",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "574408ba-6e1f-41a4-a1bd-7cec6d508d2a"
+    },
+    {
+        "name": "山之神神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "広島町甲路１８００番地３",
+        "latitude": 34.2895363,
+        "longitude": 133.7976689,
+        "id": "31a3221d-c215-4a1d-8793-d48ff7453db1"
+    },
+    {
+        "name": "山浦神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "西春日町１３８０番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "89a194c9-9de7-44a7-a424-1f5b2fbfffd5"
+    },
+    {
+        "name": "山熊神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "川東字中熊下１８０７番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "2c143299-8817-4023-9a50-7a5f8e8d91b7"
+    },
+    {
+        "name": "山王神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "塩江町安原下第２号８６９番地",
+        "latitude": 34.20380793,
+        "longitude": 134.03683799,
+        "id": "89ac58b7-f22f-49da-8a2a-ce4cc5ff8646"
+    },
+    {
+        "name": "山王神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西字大地山１１７２番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "eccfb8fc-019d-4737-a308-8ba5b0c8f8da"
+    },
+    {
+        "name": "山田神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "柞田町乙１９８２番地",
+        "latitude": 34.1284659,
+        "longitude": 133.6628138,
+        "id": "486a10c7-358b-4284-9bff-4ae104d285e6"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "川東字雨嶋１２７５番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "26f2de59-4c32-4c98-8f41-3e8a558bf5a9"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "中通字浦山４９０番地ノ内",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "826e69bd-5b78-4db8-89e3-85bc9dce79ed"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田西２９６９番地乙",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "2b18a926-4667-44c3-a53b-f9609e7f5756"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "中通字野口奥橋谷１０８８番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "92823f4b-e501-49ce-a255-01330273a6de"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "高屋町２７１５番地",
+        "latitude": 34.1284659,
+        "longitude": 133.6628138,
+        "id": "55958c41-ab3c-4701-a5d7-75351922906e"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "多和字菅谷１２８番地の１",
+        "latitude": 34.3252201,
+        "longitude": 134.1721302,
+        "id": "5d8c81d3-4ed4-48ef-9711-3985402a38fa"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "中通字地下清１７０番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "0b087a1d-20c2-46bd-94cb-599d098c4536"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "勝浦字横畑３２６３番地１",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "5912c01c-affd-4a85-b216-1c3522b047ce"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾名字土居９５１番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "caf29309-8d57-4d67-b634-2120147f96eb"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田西２９２６番地乙",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "fe73efed-a0ea-4886-a5b9-4489f0a01b45"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "吉野字五毛片山３７４０番地４・３７３８番地２",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "44499f62-b694-48cc-8f7e-9b91ca8115f9"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "中通字西桜３０６番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "a336aed9-f10b-4d95-87f0-bc5718fe15aa"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "川東字葛羅野２１７０番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "f816d4f0-b7bd-4ba5-869c-58182f2f8d47"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "川東字前の川１１６３番地１",
+        "latitude": 34.11122214,
+        "longitude": 133.9775937,
+        "id": "720e33a9-dfe3-4cbb-84bb-4e52fcf8dc22"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "中通字東桜４４番地乙",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "579ed921-69bd-415b-940c-e6afaf6e9c78"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾名１３７１番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "afdb0116-f24e-486a-89f3-b840f682e791"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田西３２１９番地",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "d6109ee5-b88d-4438-9fb8-1515192fd66b"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香川町川東下１８７８番地の３",
+        "latitude": 34.25369949,
+        "longitude": 134.02804227,
+        "id": "06b802d2-7f7a-438f-915c-1d2a1a1ff26c"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "川東字先猪鼻４５６番地",
+        "latitude": 34.11122214,
+        "longitude": 133.9775937,
+        "id": "b0548cdd-4dd8-452a-a2ab-f7c5c421624d"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "炭所西２８７５番地ノ１",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "8997cb18-5aa4-4905-be6c-13893aaa38ec"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西２５６６番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "6929b1f2-1154-413a-9d5c-e67c31bf9209"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町神前３９０９番地",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "97cc9370-c63b-40d8-99fd-acac50a22ebe"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田東甲２４４９番地",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "badc89e9-3572-4c93-a097-c504474a53b7"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香川町川東上５６０番地の１",
+        "latitude": 34.27033863,
+        "longitude": 134.01878145,
+        "id": "3854688a-2e4f-40db-887f-86c844563963"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "川東字沖野２９４４番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "911160a2-cfe1-4fcf-b343-8c433bd5b153"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "中通字本村寺谷４９０番地ノ内",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "38888568-3063-462c-9d67-11d2f6917235"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田東甲２０４４番地",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "1a4497f6-becb-4b4b-be8e-2b2def36022f"
+    },
+    {
+        "name": "岡田神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町岡田西１０８０番地",
+        "latitude": 34.22373001,
+        "longitude": 133.84832755,
+        "id": "af5050bd-d81d-447c-86f6-a8240eed70dd"
+    },
+    {
+        "name": "岩田神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "飯田町５１１番地",
+        "latitude": 34.32169689,
+        "longitude": 133.99709641,
+        "id": "8ebf1cf0-7d43-427f-8780-331ab33e0638"
+    },
+    {
+        "name": "峯内神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所西２８２０番地",
+        "latitude": 34.21347366,
+        "longitude": 133.98088718,
+        "id": "ac972e63-3172-4a1f-9529-ad80f1d4bb1f"
+    },
+    {
+        "name": "峰悧冨神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡小豆島町",
+        "streetName": "安田乙３１７番地の５",
+        "latitude": 34.50967176,
+        "longitude": 134.32585641,
+        "id": "8fc8d41f-41fe-4448-9db9-8c945eaf97f6"
+    },
+    {
+        "name": "川上神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香川町川東上１６９番地の１",
+        "latitude": 34.21475385,
+        "longitude": 134.03409939,
+        "id": "f0511853-0d19-498a-9623-934da9ea58bc"
+    },
+    {
+        "name": "川上神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所東１１８１番地",
+        "latitude": 34.20125938,
+        "longitude": 133.99196698,
+        "id": "31f75938-7488-48dc-a6c7-556a122f4443"
+    },
+    {
+        "name": "川上神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所東４０１８番地",
+        "latitude": 34.15924913,
+        "longitude": 134.01068938,
+        "id": "f51697b0-4818-4813-956e-730de06d57fb"
+    },
+    {
+        "name": "川東八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香川町川東下１１７５番地",
+        "latitude": 34.27033863,
+        "longitude": 134.01878145,
+        "id": "f2852601-bc9c-4d3e-a49c-b5bf3b3da209"
+    },
+    {
+        "name": "川股神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "川股１４９番地",
+        "latitude": 34.1920317,
+        "longitude": 134.40385852,
+        "id": "17663ad0-764f-4319-b939-ecd9db7756c2"
+    },
+    {
+        "name": "布勢神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田西乙３６４２番地",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "91c15fc7-a317-4b28-b63a-94c27b94f265"
+    },
+    {
+        "name": "幡羅八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "牟礼町原６５１番地",
+        "latitude": 34.33308011,
+        "longitude": 134.15516907,
+        "id": "fca03b44-9b1d-4351-b462-270390f6b240"
+    },
+    {
+        "name": "平尾八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香川町東谷１５５０番地",
+        "latitude": 34.20541345,
+        "longitude": 134.06840675,
+        "id": "9e619b04-2d1c-4e98-9e16-a57f64bc061d"
+    },
+    {
+        "name": "平石井神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "今里町２丁目１番地４",
+        "latitude": 34.3278168,
+        "longitude": 134.06160644,
+        "id": "b1aa5273-2e32-41ca-a4c7-85ce144c49ea"
+    },
+    {
+        "name": "平賀神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香西西町２１６番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "0bde5feb-5da7-4881-baae-0ec42b608bfd"
+    },
+    {
+        "name": "幸神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "広島町釜の越３１９５番地",
+        "latitude": 34.35587161,
+        "longitude": 133.70797831,
+        "id": "5db1114e-dba1-485e-acb8-b8be12ad7c0f"
+    },
+    {
+        "name": "庭日神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "本島町笠島５５３番地",
+        "latitude": 34.2895363,
+        "longitude": 133.7976689,
+        "id": "52333bf0-0a29-48bb-bdda-ea68b3fde914"
+    },
+    {
+        "name": "廣岡神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "炭所東字新開６４３番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "26b85821-bf7e-44a1-92c5-36ebbc318209"
+    },
+    {
+        "name": "廣島神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "広島町江の浦４３１番地",
+        "latitude": 34.36605363,
+        "longitude": 133.71400806,
+        "id": "5b4d5b58-7ee4-4c5a-be78-6ef31bdd04a2"
+    },
+    {
+        "name": "廣旗神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "円座町１３５２番地",
+        "latitude": 34.28519799,
+        "longitude": 134.01365334,
+        "id": "f4520df3-2c37-42f6-95a1-2c3b05335b1c"
+    },
+    {
+        "name": "廣田八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "太田上町１０３７番地",
+        "latitude": 34.30166634,
+        "longitude": 134.03866838,
+        "id": "c838f773-cbd0-4e42-8fc6-243eca52e940"
+    },
+    {
+        "name": "役戸神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "牟礼町大町２６３番地１",
+        "latitude": 34.3437677,
+        "longitude": 134.15007865,
+        "id": "6e727aed-9e30-49c5-952e-9b209977c366"
+    },
+    {
+        "name": "御先神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "中野町３６８番地先",
+        "latitude": 34.33319945,
+        "longitude": 134.04414063,
+        "id": "c895f811-3bcf-41e4-b337-ac65156911a8"
+    },
+    {
+        "name": "御先神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "中新町１２番地３２",
+        "latitude": 34.33661025,
+        "longitude": 134.04730143,
+        "id": "2d659380-4c2b-485d-9f81-ca7d0a84ae74"
+    },
+    {
+        "name": "御山八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "北６１６番地",
+        "latitude": 34.23491171,
+        "longitude": 133.92281334,
+        "id": "09cdf3ac-7d6e-4d52-8638-2d45a7607552"
+    },
+    {
+        "name": "御館神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "善通寺町字宮ケ尾３１５１番地",
+        "latitude": 34.2281849,
+        "longitude": 133.7869241,
+        "id": "6c74a02b-6f36-42d7-955b-50719927a7e2"
+    },
+    {
+        "name": "御﨑神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町上高野字福岡２５１２番地",
+        "latitude": 34.14006696,
+        "longitude": 133.69483862,
+        "id": "70c363ee-1160-4404-9433-3332521f0895"
+    },
+    {
+        "name": "徳玉神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "本島町甲生１８５番地",
+        "latitude": 34.38838055,
+        "longitude": 133.78902694,
+        "id": "00cb2e14-052f-49fa-8e61-1c4b6f4c4ef0"
+    },
+    {
+        "name": "德神神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "川部町１９６７番地の２",
+        "latitude": 34.2659056,
+        "longitude": 134.00438877,
+        "id": "da48358a-3689-475c-b6e0-3f3194581a2e"
+    },
+    {
+        "name": "忌部神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町笠田竹田２１４番地",
+        "latitude": 34.15295131,
+        "longitude": 133.69989074,
+        "id": "e275c738-c95c-4284-91b2-600bd7536bd9"
+    },
+    {
+        "name": "志太張神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "鴨部６４４９番地",
+        "latitude": 34.30837274,
+        "longitude": 134.22799458,
+        "id": "c306ea31-50fe-4a6b-9ffb-996b5d74acfe"
+    },
+    {
+        "name": "恵美須神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町岡田下６６３番地",
+        "latitude": 34.2560788,
+        "longitude": 133.88875146,
+        "id": "b4881fe3-bf8e-434d-9753-3d4a3c2bbd88"
+    },
+    {
+        "name": "惠比須神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "北浜町１２番１８号",
+        "latitude": 34.34951727,
+        "longitude": 134.05608923,
+        "id": "cd839827-3504-4f15-90f0-76f63934a7f6"
+    },
+    {
+        "name": "惠美須神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡多度津町",
+        "streetName": "東新町４番３号",
+        "latitude": 34.27753989,
+        "longitude": 133.75387368,
+        "id": "a1bd3cfb-f281-4be5-b234-4666b4690b3b"
+    },
+    {
+        "name": "愛宕神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "扇町１丁目２番３号",
+        "latitude": 34.34780065,
+        "longitude": 134.03756005,
+        "id": "e709c9ba-e67f-4794-88ae-af10b7a6417a"
+    },
+    {
+        "name": "成合神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "成合町１３１８番地",
+        "latitude": 34.29766906,
+        "longitude": 134.01890775,
+        "id": "e66559a1-72b5-4058-8508-7e0f6f726575"
+    },
+    {
+        "name": "成松神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "小海９２８番地",
+        "latitude": 34.22049196,
+        "longitude": 134.38304594,
+        "id": "7fc45d9d-5634-433f-a0ea-d42109cf871b"
+    },
+    {
+        "name": "戸隠神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "古馬場町１５番地５",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "0e1ea966-fbc1-4a35-8b0f-806efb4ff08c"
+    },
+    {
+        "name": "所主神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "川東字渕野８２１番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "b5536d01-7e21-439e-ade0-a11afe1bac76"
+    },
+    {
+        "name": "拝師神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "上林町５７２番地",
+        "latitude": 34.28929298,
+        "longitude": 134.06383045,
+        "id": "ea46707a-3fe1-4fce-a232-53deae02d423"
+    },
+    {
+        "name": "新名神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所西７１７番地",
+        "latitude": 34.16660603,
+        "longitude": 133.97423296,
+        "id": "4e59a63d-a718-4b4d-90f3-e91e30f0d2cb"
+    },
+    {
+        "name": "新川神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町神前２２５０番地",
+        "latitude": 34.27962502,
+        "longitude": 134.20086635,
+        "id": "bda30701-78b0-44b9-954e-8e83ee8e565d"
+    },
+    {
+        "name": "新田神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町上高瀬６４６番地",
+        "latitude": 34.1949801,
+        "longitude": 133.72333448,
+        "id": "35d4b2cf-5d2e-423d-abe5-93d5fceba57f"
+    },
+    {
+        "name": "新羅神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "金蔵寺町１１６５番地",
+        "latitude": 34.24913807,
+        "longitude": 133.7808161,
+        "id": "79a3ea62-f242-40ee-890c-077faac4fbd5"
+    },
+    {
+        "name": "新羅神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "木徳町字松浦５８１番地の２",
+        "latitude": 34.2281849,
+        "longitude": 133.7869241,
+        "id": "9a0a104c-87e0-45d5-919e-fd44fb58423d"
+    },
+    {
+        "name": "於爾神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "造田是弘字東下所２９５番地甲",
+        "latitude": 34.3252201,
+        "longitude": 134.1721302,
+        "id": "ef91f8e7-2c01-46e7-bea5-70a5d94c3640"
+    },
+    {
+        "name": "於神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "粟井町２０５４番地の１",
+        "latitude": 34.09830537,
+        "longitude": 133.702056,
+        "id": "aec1b4a0-d466-4f86-88b0-76d764d916b2"
+    },
+    {
+        "name": "日吉神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "飯山町川原１９０７番地",
+        "latitude": 34.26760556,
+        "longitude": 133.87846566,
+        "id": "1fee2718-3985-47b8-a6dc-8ceb42bf974a"
+    },
+    {
+        "name": "日吉神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "三条町５１５番地",
+        "latitude": 34.2895363,
+        "longitude": 133.7976689,
+        "id": "644393cd-970e-497f-97dd-6688de90483f"
+    },
+    {
+        "name": "日吉神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町神前３５２６番地",
+        "latitude": 34.29038194,
+        "longitude": 134.20560166,
+        "id": "d00d6d9f-2538-452d-b3f6-f6f33a0b93cf"
+    },
+    {
+        "name": "日和山神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "錦町１丁目９番２２号",
+        "latitude": 34.34728688,
+        "longitude": 134.04409017,
+        "id": "c0747000-bf71-49c0-b829-f25443d3e01f"
+    },
+    {
+        "name": "日抱神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "国分寺町福家甲２４７０番地",
+        "latitude": 34.28089844,
+        "longitude": 133.97052393,
+        "id": "435cc3c3-26f0-4b0a-8387-e4795f3a53e9"
+    },
+    {
+        "name": "日枝神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "柞田町丙１０７４番地",
+        "latitude": 34.10373816,
+        "longitude": 133.66442764,
+        "id": "47745ede-afe0-4245-9625-452e48e463f6"
+    },
+    {
+        "name": "日枝神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "仁尾町仁尾甲５４４番地",
+        "latitude": 34.17456756,
+        "longitude": 133.65945816,
+        "id": "a8cb91f2-94ea-4733-89ef-27db9ee35f13"
+    },
+    {
+        "name": "日枝神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "三野町大見甲２８７５番地甲、乙",
+        "latitude": 34.2197481,
+        "longitude": 133.71011973,
+        "id": "c0e838ec-1cf6-4c2f-96e3-c238e6062cae"
+    },
+    {
+        "name": "日枝神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町上勝間字山王１３５番地",
+        "latitude": 34.19407192,
+        "longitude": 133.71999597,
+        "id": "ec456958-6587-4729-9dd4-b2bbc838b9cc"
+    },
+    {
+        "name": "日枝神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "財田町財田上２７０４番地",
+        "latitude": 34.12013145,
+        "longitude": 133.77907029,
+        "id": "d8a0f4e3-4791-403b-8978-fa440004733b"
+    },
+    {
+        "name": "日枝神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町上勝間字西の脇４２２８番地",
+        "latitude": 34.17569785,
+        "longitude": 133.72923471,
+        "id": "50b1ce6a-9b43-4053-b6fa-5f9a4b139643"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "川西町北６２７番地",
+        "latitude": 34.26636388,
+        "longitude": 133.82493934,
+        "id": "8579491a-fd5a-4d8d-9e23-e8e52eaa4bb5"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "国分寺町新名１５４１番地",
+        "latitude": 34.27086887,
+        "longitude": 133.9814126,
+        "id": "bfcf7fe4-eed4-4f01-b40f-bf36020915a2"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "千疋２０５２番地",
+        "latitude": 34.22506973,
+        "longitude": 133.98986406,
+        "id": "f914b08f-ce2c-4aec-b3cf-bc7f76cd3091"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "七箇字中春日１７３７番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "74482fe3-6329-43cb-bec4-84710e6d8c7c"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡土庄町",
+        "streetName": "豊島家浦字今宮９８２番地甲",
+        "latitude": 34.4860243,
+        "longitude": 134.1858093,
+        "id": "8eb2193e-2e58-4a00-8f62-9e9e6661b231"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡多度津町",
+        "streetName": "堀江３丁目１０番４号",
+        "latitude": 34.27789824,
+        "longitude": 133.7590204,
+        "id": "1775735c-030b-46bd-a7a9-a3d8fcf71f10"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "原田町字西宮９６４番地",
+        "latitude": 34.2281849,
+        "longitude": 133.7869241,
+        "id": "2b9eeab7-e10c-46da-b080-ee3e9f548943"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "春日町７３６番地",
+        "latitude": 34.32523945,
+        "longitude": 134.09028139,
+        "id": "f1b7497f-cbe8-42df-a297-0a37a2970e40"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "塩江町安原下第３号２０９７番地",
+        "latitude": 34.20380793,
+        "longitude": 134.03683799,
+        "id": "10f190db-655d-4ded-9ddc-be9d35a9f46d"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "弘田町字甲山１８１１番地",
+        "latitude": 34.2281849,
+        "longitude": 133.7869241,
+        "id": "4e2f080e-2562-4ca0-9556-5618a09a22b0"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町比地中２４２２番地",
+        "latitude": 34.19407192,
+        "longitude": 133.71999597,
+        "id": "ad639568-21ae-47bf-94b2-f7fdcfaf2757"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡琴平町",
+        "streetName": "榎井字籏岡８８番地の１",
+        "latitude": 34.1912168,
+        "longitude": 133.8235082,
+        "id": "ca24728d-82bb-41d3-a395-b78995226f5c"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "川津町３０９０番地",
+        "latitude": 34.29276062,
+        "longitude": 133.85636102,
+        "id": "98ee2b1e-001f-40a0-b0a0-8fca11185a49"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町神前２６番地",
+        "latitude": 34.28032263,
+        "longitude": 134.22404468,
+        "id": "1cff474d-a0a7-43b8-902a-105ed0b867f0"
+    },
+    {
+        "name": "曉神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "長尾字暁７３３番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "3dc04784-b928-408f-9490-f5e0b90d90d0"
+    },
+    {
+        "name": "曲木神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "西分字宮前２４７５番地２",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "e4f5e426-ee2d-4d63-af4f-b77f371b8bb3"
+    },
+    {
+        "name": "會下天満神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "中府町５丁目１４番１３号",
+        "latitude": 34.28715036,
+        "longitude": 133.79183073,
+        "id": "d7a502db-137d-440a-af59-26d654c2412a"
+    },
+    {
+        "name": "月見神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "陶６６０６番地１",
+        "latitude": 34.23933075,
+        "longitude": 133.9517803,
+        "id": "89c347c8-d47e-43e3-9aa6-2c6d77f6a9e8"
+    },
+    {
+        "name": "朝倉神社",
+        "prefectureName": "香川県",
+        "cityName": "木田郡三木町",
+        "streetName": "大字朝倉１２５７番地",
+        "latitude": 34.2682863,
+        "longitude": 134.1342931,
+        "id": "1fbd564c-e5f9-4c4b-81d5-14c1ba3d042c"
+    },
+    {
+        "name": "木熊野神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "生野町字原７２９番地の１",
+        "latitude": 34.21925532,
+        "longitude": 133.79013504,
+        "id": "54089c8b-c205-4945-b802-6a851527a2ea"
+    },
+    {
+        "name": "木熊野神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "山脇字川北中平３９０番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "b07354fb-e348-4870-acea-9329be90c888"
+    },
+    {
+        "name": "木熊野神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "生野町字西岡２４４１番地",
+        "latitude": 34.21925532,
+        "longitude": 133.79013504,
+        "id": "742c15e1-fe21-450d-b252-33bcadbc4e5b"
+    },
+    {
+        "name": "木熊野神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "中村町字宮東１３７番地",
+        "latitude": 34.2281849,
+        "longitude": 133.7869241,
+        "id": "d0f573b6-76a2-497f-9db5-bfb0aee0593d"
+    },
+    {
+        "name": "木熊野神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "善通寺町字瓦谷２８７２番地",
+        "latitude": 34.2281849,
+        "longitude": 133.7869241,
+        "id": "e589e3a7-8ac1-4a8b-ba0e-606441591cae"
+    },
+    {
+        "name": "木里神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "郷東町７６０番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "4a3a3b08-2e88-405b-bc2d-fac67bcbc35b"
+    },
+    {
+        "name": "木鳥神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "本島町泊６７０番地",
+        "latitude": 34.38185409,
+        "longitude": 133.77973638,
+        "id": "c8c4057d-1cac-48f1-959c-9b0b3964ef61"
+    },
+    {
+        "name": "本谷神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所東６９１番地",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "13f886b8-2181-40d0-bd8d-c8dfccd70147"
+    },
+    {
+        "name": "朽木神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所西１５８０番地",
+        "latitude": 34.20008701,
+        "longitude": 133.98624797,
+        "id": "d1ef6c77-2a23-49c8-8e5b-a3f5b589c635"
+    },
+    {
+        "name": "杉尾神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "川東字明神川原２７４８番地１",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "b8e0f604-3df9-4b14-a8d9-4e06c510af7a"
+    },
+    {
+        "name": "杉尾神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "南野６０４番地",
+        "latitude": 34.20938855,
+        "longitude": 134.41995937,
+        "id": "5526293c-81af-4eb4-a979-08d621c09c73"
+    },
+    {
+        "name": "来栖神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "前山字来栖１６１６番地",
+        "latitude": 34.3252201,
+        "longitude": 134.1721302,
+        "id": "85083e33-e0d4-4282-a077-94e5408799d3"
+    },
+    {
+        "name": "東山神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "川東中道６１６番地",
+        "latitude": 34.2437996,
+        "longitude": 134.3588228,
+        "id": "4de8927f-67c0-4373-88ad-9d3e89192e9c"
+    },
+    {
+        "name": "東濱恵美須神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "城東町２丁目４番３号",
+        "latitude": 34.34873403,
+        "longitude": 134.058003,
+        "id": "8e3ada93-4836-417a-a63c-5f7fe63cc430"
+    },
+    {
+        "name": "東西神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "吉原町字北山２９００番地の２",
+        "latitude": 34.2281849,
+        "longitude": 133.7869241,
+        "id": "d79589b5-b3ab-4ec9-a154-12792d16939d"
+    },
+    {
+        "name": "松井神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "牟礼町牟礼１８１３番地",
+        "latitude": 34.35116413,
+        "longitude": 134.13358312,
+        "id": "98d44fad-5ae0-4044-87eb-2459987791d6"
+    },
+    {
+        "name": "松宇神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "川島東町１４０６番地",
+        "latitude": 34.26852656,
+        "longitude": 134.09632578,
+        "id": "bcc586a4-165f-495e-bbf6-3a4130f41a29"
+    },
+    {
+        "name": "松尾神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "炭所東字長通２４３６番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "91afc4c7-2e18-4d99-9549-049bf887510d"
+    },
+    {
+        "name": "松尾神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "加茂町２０１番地",
+        "latitude": 34.30232982,
+        "longitude": 133.92488008,
+        "id": "cd03aaed-ac94-4c33-afe9-3d265585d13b"
+    },
+    {
+        "name": "松島神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "松島町２丁目１８番６号",
+        "latitude": 34.33739084,
+        "longitude": 134.06631662,
+        "id": "502d5e8f-9740-42b2-a25e-20dccd9cbd42"
+    },
+    {
+        "name": "松本神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾名字松本７３８番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "554c699f-21d0-41a0-8ccd-630ab10d38a6"
+    },
+    {
+        "name": "松谷神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "小野甲７０９番地",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "e1268efd-7d78-42b8-9cf6-3fa40e473d9c"
+    },
+    {
+        "name": "板屋神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "飯野町東二６５２番地",
+        "latitude": 34.26390582,
+        "longitude": 133.83306648,
+        "id": "a247e053-b02f-4c10-935e-c92d64acba98"
+    },
+    {
+        "name": "枚岳神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町岡田上９２４番地",
+        "latitude": 34.2560788,
+        "longitude": 133.88875146,
+        "id": "50af1d0b-f14a-4cd5-a08f-0652addfc84d"
+    },
+    {
+        "name": "桜木神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "多肥上町１５２１番地",
+        "latitude": 34.29228147,
+        "longitude": 134.05783971,
+        "id": "de9d2846-d5ad-4a30-a25f-32791c112ddd"
+    },
+    {
+        "name": "梅之神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町上麻乙６４０番地の２",
+        "latitude": 34.19407192,
+        "longitude": 133.71999597,
+        "id": "617ee4b5-f756-4bdb-85cc-3eb54732bb55"
+    },
+    {
+        "name": "梅宮八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "王越町乃生乙１７８０番地",
+        "latitude": 34.3163188,
+        "longitude": 133.8605098,
+        "id": "6d5e19f4-1901-4a9b-bfb6-e70ad577eef5"
+    },
+    {
+        "name": "梛木神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西字辛立１１３９番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "63e288f4-9390-4030-a5a0-e7c53e7e02c2"
+    },
+    {
+        "name": "梶洲神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "造田字梶洲７４１番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "314ab70b-8489-4e8c-adeb-ef4e54c7774e"
+    },
+    {
+        "name": "棒賀神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "大野原町海老済乙７５番地の４",
+        "latitude": 34.03253553,
+        "longitude": 133.69164379,
+        "id": "0a11aac8-70fc-4062-9a87-5386657007ae"
+    },
+    {
+        "name": "森神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町比地２０７１番地",
+        "latitude": 34.18104134,
+        "longitude": 133.68639094,
+        "id": "3e09cb8a-faaf-4f14-b432-7920357f882d"
+    },
+    {
+        "name": "椋神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町岡田西１９３８番地",
+        "latitude": 34.2560788,
+        "longitude": 133.88875146,
+        "id": "32afdbaf-a2ec-409c-8cfa-66fb5c1f15ce"
+    },
+    {
+        "name": "椎尾八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "西分１１２７番地",
+        "latitude": 34.20052202,
+        "longitude": 133.94857612,
+        "id": "29643614-e3da-47f2-a9f4-a4edca10682e"
+    },
+    {
+        "name": "椎尾神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町岡田東１２８２番地",
+        "latitude": 34.23089307,
+        "longitude": 133.86994227,
+        "id": "bc836ab4-b247-4a19-8b35-0a11425a881a"
+    },
+    {
+        "name": "楠尾神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "国分寺町新居３３７２番地",
+        "latitude": 34.27086887,
+        "longitude": 133.9814126,
+        "id": "7651520d-a867-47d8-8320-2927a5386084"
+    },
+    {
+        "name": "楠川神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "楠上町６６１番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "db74e196-641a-4be5-b7a0-3269f26778d1"
+    },
+    {
+        "name": "楠神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "西植田町７０９３番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "81efa249-8039-4248-b0dc-f6e34d077d6c"
+    },
+    {
+        "name": "楢ノ木神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "勝浦字奈良ノ木２９７９番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "d127d1d0-8fba-4619-a267-325af1b2d7a6"
+    },
+    {
+        "name": "榺神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "仏生山町甲２５６６番地",
+        "latitude": 34.27469711,
+        "longitude": 134.04949834,
+        "id": "f6d2ba1f-67a9-412f-9a1b-a4806e867c0e"
+    },
+    {
+        "name": "槻本神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "藤塚町２番地",
+        "latitude": 34.33433828,
+        "longitude": 134.05037911,
+        "id": "04977789-6c45-45d4-84e5-d61c96b74177"
+    },
+    {
+        "name": "権現神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "高屋町２５８９番地の１",
+        "latitude": 34.13788961,
+        "longitude": 133.66551898,
+        "id": "ff0e3a81-5e81-4e87-b2e4-803f6d7ea8a8"
+    },
+    {
+        "name": "横山神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町富熊３５３２番地甲の２",
+        "latitude": 34.26210873,
+        "longitude": 133.89755064,
+        "id": "5bc3087f-51d6-4000-810b-f41dc3144b4f"
+    },
+    {
+        "name": "横山神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町新名１２５番地",
+        "latitude": 34.19474436,
+        "longitude": 133.70886077,
+        "id": "8e70bca1-bef0-41b1-9f2c-7ec2e46f89e6"
+    },
+    {
+        "name": "櫛梨神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡琴平町",
+        "streetName": "下櫛梨字船磐２８０番地",
+        "latitude": 34.1912168,
+        "longitude": 133.8235082,
+        "id": "2411e65a-5042-46ce-87bc-2b8aca4b1c58"
+    },
+    {
+        "name": "櫻八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "庵治町１５２１番地",
+        "latitude": 34.38259019,
+        "longitude": 134.13787498,
+        "id": "4024dfd5-020b-4f1a-910d-46a9f2b9defd"
+    },
+    {
+        "name": "正八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "三野町大見字深尾末７４６１番地",
+        "latitude": 34.1824989,
+        "longitude": 133.7152582,
+        "id": "3d7bb6e8-4894-49e6-8f44-3a8725dfd64e"
+    },
+    {
+        "name": "毘沙門神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西字筒井９５７番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "e64060d3-16cf-414f-a010-fb664dca15ff"
+    },
+    {
+        "name": "水主神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "水主１４１８番地",
+        "latitude": 34.22395309,
+        "longitude": 134.29892635,
+        "id": "f9286eea-3268-46a7-b590-584fde8b1080"
+    },
+    {
+        "name": "水分神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "中通字西桜２６６番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "9a0b6e8f-b9a2-4e95-abec-49a592022311"
+    },
+    {
+        "name": "水分神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町岡田上３１５番地",
+        "latitude": 34.2560788,
+        "longitude": 133.88875146,
+        "id": "736a3d81-4acd-4671-ab72-ef4c638dff0d"
+    },
+    {
+        "name": "水分神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "吉原町字水分１２０５番地",
+        "latitude": 34.2281849,
+        "longitude": 133.7869241,
+        "id": "53fe844c-82b3-4627-bd90-bfd64e0295e9"
+    },
+    {
+        "name": "水分神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "炭所西３４５６番地ノ１",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "3ef146f3-f6fb-428c-9f86-02d2355aa9e0"
+    },
+    {
+        "name": "水神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "鍛冶屋町５番地の７",
+        "latitude": 34.34247631,
+        "longitude": 134.04901776,
+        "id": "339567a3-05a5-4bcb-ac03-2c7ce44ecd03"
+    },
+    {
+        "name": "永富神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "大字枌所東３２８３番地",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "569368a1-7226-4cc5-ac9d-4b6d9f79e262"
+    },
+    {
+        "name": "池八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町下麻字上荘田４８７番地",
+        "latitude": 34.19407192,
+        "longitude": 133.71999597,
+        "id": "47b3ddad-7007-4285-80c9-494360c5c29d"
+    },
+    {
+        "name": "池宮神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "室本町４２５番地",
+        "latitude": 34.1284659,
+        "longitude": 133.6628138,
+        "id": "c68f8d8c-da8b-4ac5-969e-103bdacd318e"
+    },
+    {
+        "name": "池宮神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "萱原１０８９番地",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "39d84892-6ff0-426a-bcc6-553af22e2169"
+    },
+    {
+        "name": "池宮神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町岡田上７３０番地",
+        "latitude": 34.2560788,
+        "longitude": 133.88875146,
+        "id": "35a478f1-cd4b-4fff-ba87-1a5daf02185d"
+    },
+    {
+        "name": "池神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "本島町牛島字西山５５６番地",
+        "latitude": 34.2895363,
+        "longitude": 133.7976689,
+        "id": "0d4531d5-3255-4422-9d79-a829fb1dc96d"
+    },
+    {
+        "name": "池谷神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香南町由佐２８７４番地",
+        "latitude": 34.23912709,
+        "longitude": 134.02044426,
+        "id": "1699df26-e382-4061-b706-f3d77805b288"
+    },
+    {
+        "name": "河上神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "三野町大見乙１３４番地の１",
+        "latitude": 34.1824989,
+        "longitude": 133.7152582,
+        "id": "d9ae4d5a-ad88-47a8-861a-36ac3fd82dde"
+    },
+    {
+        "name": "河内神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "山本町河内２８８７番地の１",
+        "latitude": 34.11690597,
+        "longitude": 133.72564546,
+        "id": "5ab8dd3c-6ebe-4d30-a15b-f4f8bfe02d44"
+    },
+    {
+        "name": "津嶋神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "三野町大見７４６３番地",
+        "latitude": 34.23934647,
+        "longitude": 133.70494834,
+        "id": "b30c7952-14e4-4b74-bbf1-af1d8ad3c1ad"
+    },
+    {
+        "name": "浜神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "牟礼町原字山田１４２番地",
+        "latitude": 34.34493735,
+        "longitude": 134.12204186,
+        "id": "190e690e-0a3d-4d33-be87-954adb4a4ac2"
+    },
+    {
+        "name": "浪打八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "詫間町詫間１３７６番地",
+        "latitude": 34.21946244,
+        "longitude": 133.67150497,
+        "id": "efdfbba6-9ffc-4dc6-9270-907e46751591"
+    },
+    {
+        "name": "浪指神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "上福岡町１２５１番地",
+        "latitude": 34.33150532,
+        "longitude": 134.06264781,
+        "id": "3e08954d-70a1-46b1-ba68-4de09b4b8700"
+    },
+    {
+        "name": "清水神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "由良町１０５０番地",
+        "latitude": 34.28490208,
+        "longitude": 134.08409144,
+        "id": "ca7ee080-f0a3-4b71-863f-cbc71dff1501"
+    },
+    {
+        "name": "清水神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡土庄町",
+        "streetName": "豊島唐櫃字東状１２６１番地２",
+        "latitude": 34.4860243,
+        "longitude": 134.1858093,
+        "id": "da3d402e-38b7-4194-8a17-102c13d52181"
+    },
+    {
+        "name": "溪道神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "財田町財田上２３３６番地",
+        "latitude": 34.11581239,
+        "longitude": 133.77313482,
+        "id": "612d3faa-3683-47fc-bd05-8e541ad35505"
+    },
+    {
+        "name": "澳津彦神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香西西町９９番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "86332d17-ef0d-408a-8eda-1e72a2b3b7d7"
+    },
+    {
+        "name": "澳津神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "鬼無町佐料１５３番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "4e6259c2-3283-4b70-aa6e-9f929ceb89fe"
+    },
+    {
+        "name": "澳津神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "中山町６３２番地",
+        "latitude": 34.35761723,
+        "longitude": 133.97116132,
+        "id": "4446fde8-93b2-4e26-be2b-6ce7bcd25f23"
+    },
+    {
+        "name": "澳津神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "神在川窪町５４７番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "381719f7-511d-4545-bfe5-d2452da5aefb"
+    },
+    {
+        "name": "澳津神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "植松町１９７番地",
+        "latitude": 34.35290154,
+        "longitude": 133.98396786,
+        "id": "6a651bd0-87f8-48a7-aa25-d8026ba08bd8"
+    },
+    {
+        "name": "瀧の宮神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "伊吹町１６１０番地",
+        "latitude": 34.12858325,
+        "longitude": 133.53525439,
+        "id": "59cc326f-fed7-44d2-b018-2751d4dcb5d3"
+    },
+    {
+        "name": "瀧宮神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "滝宮１３４７番地",
+        "latitude": 34.2496684,
+        "longitude": 133.91909093,
+        "id": "e64df231-2042-4a44-a03f-e8d2dc7e03f8"
+    },
+    {
+        "name": "瀧宮神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "大野原町井関２４０番地",
+        "latitude": 34.06122361,
+        "longitude": 133.68970171,
+        "id": "1d31b379-988b-4264-b180-691504bfa526"
+    },
+    {
+        "name": "瀧鼻神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "羽間字羽間２９１３番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "71e0daac-6da8-4a0e-b337-0be6c2c005ff"
+    },
+    {
+        "name": "照内神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "川東字中熊上２０７０番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "65a91098-40f9-4a28-b3da-d4cf4a923318"
+    },
+    {
+        "name": "熊岡八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町比地大字宮ノ下３２７９番地",
+        "latitude": 34.14006696,
+        "longitude": 133.69483862,
+        "id": "974d941e-5e3d-4b7a-84b8-db4d259d5ec9"
+    },
+    {
+        "name": "熊野神社",
+        "prefectureName": "香川県",
+        "cityName": "木田郡三木町",
+        "streetName": "大字奥山２８６３番地",
+        "latitude": 34.2682863,
+        "longitude": 134.1342931,
+        "id": "4235dffd-687c-486e-95da-8d8a9eec4b21"
+    },
+    {
+        "name": "熊野神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "菅沢町４３２番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "39eb0998-ceb4-4fff-87e2-5d7f5cb3042a"
+    },
+    {
+        "name": "熊野神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "鬼無町鬼無８４８番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "4c1a3af0-2ecc-4bbf-a645-e4a8084dd9d1"
+    },
+    {
+        "name": "熊野神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "出作町１９１番地１",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "bfaaad53-fc97-4bd8-8cc8-a08e7339bfa8"
+    },
+    {
+        "name": "熊野神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "塩江町安原下第１号１５７９番地",
+        "latitude": 34.20380793,
+        "longitude": 134.03683799,
+        "id": "fe99197a-003c-4516-a5b4-168b45f5948b"
+    },
+    {
+        "name": "熊野神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "松縄町１０５３番地２",
+        "latitude": 34.32085084,
+        "longitude": 134.06345949,
+        "id": "77608156-f74c-4365-8a73-dc93961d4823"
+    },
+    {
+        "name": "熊野神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町下麻３６５３番地の１",
+        "latitude": 34.19407192,
+        "longitude": 133.71999597,
+        "id": "68f3e4f0-a58c-47ec-a99d-91010aa7fdc4"
+    },
+    {
+        "name": "熊野神社",
+        "prefectureName": "香川県",
+        "cityName": "木田郡三木町",
+        "streetName": "大字小蓑１３２５番地",
+        "latitude": 34.18490523,
+        "longitude": 134.11824412,
+        "id": "69308aba-d636-48f1-8acb-574c63d80e85"
+    },
+    {
+        "name": "片山神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町岡田上６２３番地",
+        "latitude": 34.2560788,
+        "longitude": 133.88875146,
+        "id": "d0660e7a-ff61-4316-9524-d49e82daceea"
+    },
+    {
+        "name": "猿田彦神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町上高野３４４２番地",
+        "latitude": 34.14653295,
+        "longitude": 133.71152044,
+        "id": "fcd7d927-a0b5-419c-93ea-880a87542263"
+    },
+    {
+        "name": "猿田神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "公文字本村下３４０番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "7860f8ab-8d42-4f87-ab64-9694fc1caf62"
+    },
+    {
+        "name": "猿養神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所東３０７２番地",
+        "latitude": 34.18311529,
+        "longitude": 134.0067135,
+        "id": "99cfad9d-2f88-40d9-8c9a-f85f0cf86909"
+    },
+    {
+        "name": "王子神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "櫃石町５６４番地",
+        "latitude": 34.3163188,
+        "longitude": 133.8605098,
+        "id": "96be866f-d220-4377-ad73-0b5f898aca67"
+    },
+    {
+        "name": "王子神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "牟礼町原字上井手西２５１９番地の２",
+        "latitude": 34.34493735,
+        "longitude": 134.12204186,
+        "id": "48d3fff9-6ac4-45a3-b937-89dea5558ac1"
+    },
+    {
+        "name": "王子神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "飯山町西坂元９９７番地",
+        "latitude": 34.26760556,
+        "longitude": 133.87846566,
+        "id": "2691f4e5-ceac-446d-8a8b-5ce8e0bb782d"
+    },
+    {
+        "name": "王子神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "飯山町上法軍寺１５４５番地",
+        "latitude": 34.24416925,
+        "longitude": 133.86086766,
+        "id": "9486e633-7b0c-48eb-80ff-1b0ce4f55426"
+    },
+    {
+        "name": "琴平神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "塩上町１００４番地１２",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "2342df21-f363-4ee1-b089-00cf5100ef5d"
+    },
+    {
+        "name": "琴平神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "西浜新町６５０番地の２",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "b3b3b5e7-ac20-437c-a7ce-7df322859de4"
+    },
+    {
+        "name": "琴平神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "観光通１丁目１番地２０",
+        "latitude": 34.33712965,
+        "longitude": 134.04936793,
+        "id": "eb1f98b4-e225-4c1f-b4f8-e11c824d5979"
+    },
+    {
+        "name": "琴平神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "西浜町４４１番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "52644d52-312b-4c08-8baa-678e9e5c2c61"
+    },
+    {
+        "name": "生目神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町笠田笠岡字原谷１９１番地",
+        "latitude": 34.14006696,
+        "longitude": 133.69483862,
+        "id": "9c8cb085-a54e-4fdb-b36c-1f7bf68bbfae"
+    },
+    {
+        "name": "産巣日神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町上高瀬３９１６番地",
+        "latitude": 34.19685287,
+        "longitude": 133.73622177,
+        "id": "a6bf8d60-a6be-4ead-a641-08a2694efe6e"
+    },
+    {
+        "name": "田井神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町上高野４８番地",
+        "latitude": 34.1336179,
+        "longitude": 133.71457052,
+        "id": "9f9f88e0-0e93-4d79-897e-c4f7202e7dba"
+    },
+    {
+        "name": "田所神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "陶６７８５番地",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "53a2fbef-c2c9-474a-a25b-6052e4df272c"
+    },
+    {
+        "name": "田村神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "一宮町２８６番地",
+        "latitude": 34.28423165,
+        "longitude": 134.02471385,
+        "id": "3c6a09b4-98ed-4832-a349-9d9e6106eb02"
+    },
+    {
+        "name": "田潮八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "土器町東５丁目５６２番地",
+        "latitude": 34.29575238,
+        "longitude": 133.81823042,
+        "id": "e55c5615-1fa6-4a02-b69c-a03737ae9c64"
+    },
+    {
+        "name": "男山神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町神前３９６７番地",
+        "latitude": 34.2900241,
+        "longitude": 134.2179006,
+        "id": "6fc7ea41-f288-441a-881d-0b9e9f32076b"
+    },
+    {
+        "name": "瘡神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西２２３０番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "594d085f-0a38-48f4-aed5-dd5962f1d087"
+    },
+    {
+        "name": "白人神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "塩江町安原上東１５１１番地の１",
+        "latitude": 34.16302201,
+        "longitude": 134.10309656,
+        "id": "7287f8e0-7918-403e-a35c-92bad50152e7"
+    },
+    {
+        "name": "白山神社",
+        "prefectureName": "香川県",
+        "cityName": "木田郡三木町",
+        "streetName": "大字下高岡字白山９７３番地",
+        "latitude": 34.2682863,
+        "longitude": 134.1342931,
+        "id": "0dc3531e-6f3c-495d-b00f-3daecc0d8a79"
+    },
+    {
+        "name": "白羽神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "牟礼町牟礼１３５４番地",
+        "latitude": 34.34604539,
+        "longitude": 134.13202748,
+        "id": "85e199b6-1026-4451-a192-338b95d8ba37"
+    },
+    {
+        "name": "白鬚神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所西９２６番地",
+        "latitude": 34.17439926,
+        "longitude": 133.98065449,
+        "id": "e5a670e3-32d0-4284-877b-7e867a56bb32"
+    },
+    {
+        "name": "白鳥神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "松原字新町６９番地",
+        "latitude": 34.24518853,
+        "longitude": 134.36642194,
+        "id": "dbb270b8-d5b5-4288-a59b-c39438904f36"
+    },
+    {
+        "name": "白鳥神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "七箇字葛神東山３４５６・４２２９番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "dbb234c7-caf0-4896-8958-39f76991a470"
+    },
+    {
+        "name": "皇太子神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "室本町３１１番地の２",
+        "latitude": 34.15366523,
+        "longitude": 133.6456792,
+        "id": "5a6ff549-0610-4a24-9f67-36d8954dc306"
+    },
+    {
+        "name": "皇子神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町岡田上１７４３番地",
+        "latitude": 34.2195472,
+        "longitude": 133.85646038,
+        "id": "95947e74-6964-4d88-b3aa-ae58c7ebbe3c"
+    },
+    {
+        "name": "皇子神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町岡田西２０１６番地",
+        "latitude": 34.22455485,
+        "longitude": 133.83990041,
+        "id": "e19c1e71-4254-4e19-877d-cbaad81c5006"
+    },
+    {
+        "name": "皇子神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "中通字名頃１５７２番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "f5581379-f0ba-42f7-bd66-533007af4b65"
+    },
+    {
+        "name": "皇子神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "山本町神田４１８９番地",
+        "latitude": 34.11690597,
+        "longitude": 133.72564546,
+        "id": "2f3946e8-c555-479d-95c5-1e06ed8d2dfa"
+    },
+    {
+        "name": "皇美屋神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "与北町９５９番地",
+        "latitude": 34.23764764,
+        "longitude": 133.81294398,
+        "id": "261d6300-3d13-471b-8815-153a9e7df199"
+    },
+    {
+        "name": "相口神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所西４３７番地",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "e100f95e-489e-4c7a-8676-255bfe8c29ff"
+    },
+    {
+        "name": "相津神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所東２３９３番地２",
+        "latitude": 34.18078257,
+        "longitude": 134.01869897,
+        "id": "a6ec7b8a-a97f-4814-9901-5d4aaf47971f"
+    },
+    {
+        "name": "石上神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "川股１０６０番地２",
+        "latitude": 34.3401099,
+        "longitude": 134.0434737,
+        "id": "49d19bfc-cbd6-4d92-9bc0-e7516ddacf2d"
+    },
+    {
+        "name": "石上神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "引田１８２５番地",
+        "latitude": 34.22393638,
+        "longitude": 134.4061466,
+        "id": "8b35842d-12c6-4fdf-953d-5c1fea10a431"
+    },
+    {
+        "name": "石上神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾名１８２５番地の３",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "206f744f-3945-453d-8dea-847eaf5fa9b8"
+    },
+    {
+        "name": "石井神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡琴平町",
+        "streetName": "苗田字古川９３２番地の１",
+        "latitude": 34.1912168,
+        "longitude": 133.8235082,
+        "id": "e9856600-a752-420e-83a1-262ea6d498b7"
+    },
+    {
+        "name": "石清尾八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "宮脇町１丁目３０番３号",
+        "latitude": 34.33704064,
+        "longitude": 134.0346465,
+        "id": "101f0df8-2777-40b8-9c52-a4a6033d0aa2"
+    },
+    {
+        "name": "石清水八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香川町大野１５２０番地",
+        "latitude": 34.26149269,
+        "longitude": 134.0235341,
+        "id": "69fd748b-3f8b-4b2d-94ed-17481326f7d8"
+    },
+    {
+        "name": "石清水八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "入野山字下山１８５６番地",
+        "latitude": 34.2437996,
+        "longitude": 134.3588228,
+        "id": "b0cdc262-de68-4dd8-9067-a19ea503e719"
+    },
+    {
+        "name": "石清水神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "津田町津田１０６番地",
+        "latitude": 34.28580327,
+        "longitude": 134.25283996,
+        "id": "771444b8-d882-41e5-98ec-25f8ee1adb36"
+    },
+    {
+        "name": "石清水神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "東山崎町１０９８番地",
+        "latitude": 34.31108815,
+        "longitude": 134.10044741,
+        "id": "fb764d23-b2b8-4453-ab4c-1b7881f765ea"
+    },
+    {
+        "name": "石清水神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "大谷４１７番地、４７８番地",
+        "latitude": 34.25196928,
+        "longitude": 134.30717233,
+        "id": "bf0f399a-f00a-4f69-9cc4-41dcb924bfe0"
+    },
+    {
+        "name": "石田神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田東甲７３６番地",
+        "latitude": 34.25903367,
+        "longitude": 134.2069134,
+        "id": "7aee7cc6-de04-4f43-a22a-80d232b88786"
+    },
+    {
+        "name": "石町神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "村黒町４３６番地",
+        "latitude": 34.1284659,
+        "longitude": 133.6628138,
+        "id": "3f4bbbe4-ec9c-434d-802e-05c9d879a91e"
+    },
+    {
+        "name": "石神神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "下吉田町字本村東３２０番地",
+        "latitude": 34.2281849,
+        "longitude": 133.7869241,
+        "id": "ddf3e989-f67a-454d-a6e8-f7830aec59ff"
+    },
+    {
+        "name": "神ノ木神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "栗林町２丁目１６番２９号",
+        "latitude": 34.33002204,
+        "longitude": 134.04865722,
+        "id": "ea76ec75-8d5b-4a12-9414-be6258127290"
+    },
+    {
+        "name": "神前神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町神前１６２３番地",
+        "latitude": 34.28407736,
+        "longitude": 134.20966257,
+        "id": "a5e44ebd-efd0-488a-920d-b0415ffe1283"
+    },
+    {
+        "name": "神掛神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "府中町甲１５７３番地",
+        "latitude": 34.29118382,
+        "longitude": 133.93102149,
+        "id": "cdc6eed7-f044-4de2-9333-4d05d8093e08"
+    },
+    {
+        "name": "神明神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "扇町３丁目３４３番地",
+        "latitude": 34.34656743,
+        "longitude": 134.03572963,
+        "id": "d50c507b-32c9-4c4d-9a49-39535497084a"
+    },
+    {
+        "name": "神明神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "鬼無町是竹４９８番地",
+        "latitude": 34.33884776,
+        "longitude": 133.99183877,
+        "id": "b2de9b4a-0c6b-438d-86ef-230e9fd49693"
+    },
+    {
+        "name": "神明神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田東甲３４２６番地",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "5380b232-1823-44fd-96d5-48cc5525f774"
+    },
+    {
+        "name": "神明神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "川東４９４番地",
+        "latitude": 34.24276275,
+        "longitude": 134.32801206,
+        "id": "8d050f2e-fe52-4117-a596-6d109a1459b6"
+    },
+    {
+        "name": "神櫛神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "上吉田町字皇子６６３番地",
+        "latitude": 34.2281849,
+        "longitude": 133.7869241,
+        "id": "ea2af24a-73b7-4fd1-a79c-5f5777c37514"
+    },
+    {
+        "name": "神田神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "豊浜町箕浦甲１９９番地",
+        "latitude": 34.03986251,
+        "longitude": 133.61155136,
+        "id": "aac59ecb-964c-4a1c-aaad-d8055e09001b"
+    },
+    {
+        "name": "神谷神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "神谷町６２１番地",
+        "latitude": 34.32481565,
+        "longitude": 133.91675019,
+        "id": "7abf471c-eb8f-48d7-9529-cb9e3c927cad"
+    },
+    {
+        "name": "神野神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "神野字神野１６８番地２",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "c2b59a9a-9ccf-46b6-b421-51de64510708"
+    },
+    {
+        "name": "神野神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "郡家町２３３７番地",
+        "latitude": 34.25279311,
+        "longitude": 133.80657761,
+        "id": "aad5734f-04e1-4b2d-9d88-9e29ee4be785"
+    },
+    {
+        "name": "福宮神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "府中町甲５９６０番地",
+        "latitude": 34.29118382,
+        "longitude": 133.93102149,
+        "id": "709d796c-820d-4b0a-8ff5-566824963d1c"
+    },
+    {
+        "name": "福宮神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "東分１７３４番地１",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "008a857c-cff6-4171-b961-4e502c42c497"
+    },
+    {
+        "name": "福家神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "勝浦字下福家１０３１番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "816c5797-2b2c-4084-b30e-e1e377eb485d"
+    },
+    {
+        "name": "福岡神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町上高野３３６０番地",
+        "latitude": 34.14006696,
+        "longitude": 133.69483862,
+        "id": "d558c816-1b79-41b2-a1e9-70dea591b4ef"
+    },
+    {
+        "name": "秋葉神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "上之町１丁目３番地２５",
+        "latitude": 34.32212281,
+        "longitude": 134.04593844,
+        "id": "ef9954f0-8b3e-4eda-9c0d-74f98cd63c74"
+    },
+    {
+        "name": "秋葉神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡小豆島町",
+        "streetName": "片城甲６５０番地甲６５５番地",
+        "latitude": 34.4796901,
+        "longitude": 134.3089328,
+        "id": "111b1068-7dfb-4915-9a50-9850fc13960e"
+    },
+    {
+        "name": "種子神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "炭所東字宮の前１３７２番地",
+        "latitude": 34.18713992,
+        "longitude": 133.90274403,
+        "id": "b6939807-3d17-4076-ac4c-b6986822f20b"
+    },
+    {
+        "name": "稲生神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡琴平町",
+        "streetName": "苗田字古川９２３番地",
+        "latitude": 34.1912168,
+        "longitude": 133.8235082,
+        "id": "3f3dbd4d-fdcc-479f-b5a0-1e8932e86f32"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "川部町２０１番地",
+        "latitude": 34.27430464,
+        "longitude": 134.00641298,
+        "id": "323cad74-bc74-427e-a140-ba603f139bdf"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "仁尾町仁尾丁８５５番地の１",
+        "latitude": 34.2005982,
+        "longitude": 133.64703621,
+        "id": "b1d59d19-f845-46b5-ab2c-ba27fdfdff2a"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡土庄町",
+        "streetName": "淵崎字與九郎谷甲２３５７番地２",
+        "latitude": 34.4860243,
+        "longitude": 134.1858093,
+        "id": "afeddb3e-35e5-4f5c-882a-e2fef0fe6e8c"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "中野町３４番１号",
+        "latitude": 34.33370771,
+        "longitude": 134.0417796,
+        "id": "b5f28df3-4357-4670-aeaf-e06c2c2e2908"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "高屋町２５８９番地の１",
+        "latitude": 34.13788961,
+        "longitude": 133.66551898,
+        "id": "410c44a1-53f0-4f09-b1b5-b7e50a0e3bbb"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町上高野２５１２番地",
+        "latitude": 34.14596632,
+        "longitude": 133.70922897,
+        "id": "9d0c2143-641c-45c6-8ec1-5f2faa5a5ac3"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "詫間町積９番地",
+        "latitude": 34.22080395,
+        "longitude": 133.67285755,
+        "id": "978efdef-717c-479b-957d-bad2457354a1"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡多度津町",
+        "streetName": "西浜４番１－６号",
+        "latitude": 34.27062953,
+        "longitude": 133.74597459,
+        "id": "1be2b79a-87b6-495f-acf7-78ffda5ab396"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "香川県",
+        "cityName": "香川郡直島町",
+        "streetName": "８４０番地",
+        "latitude": 34.4598279,
+        "longitude": 133.9956947,
+        "id": "84856461-8f94-46c1-883d-6f8760964bdd"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "新瓦町第３６番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "3d3a2b11-e8f8-4acd-bd5e-7cfe92990fd0"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西２５６４番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "c586dcb2-3690-40b7-8959-4c973071a3e2"
+    },
+    {
+        "name": "立割伊勢神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "大川町田面６６０番地甲の２",
+        "latitude": 34.26236665,
+        "longitude": 134.23599681,
+        "id": "581cea37-2b4d-4b3c-b6c5-2fd622604f91"
+    },
+    {
+        "name": "竜王神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "川西町北１８９２番地",
+        "latitude": 34.26636388,
+        "longitude": 133.82493934,
+        "id": "cbde838c-ccee-460f-a485-84a231f3acd1"
+    },
+    {
+        "name": "竹本神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所東１２４番地",
+        "latitude": 34.20674498,
+        "longitude": 133.99643056,
+        "id": "ce0016d6-b34c-4350-bd41-c6590bea0d81"
+    },
+    {
+        "name": "粟井神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "粟井町１７１６番地",
+        "latitude": 34.1284659,
+        "longitude": 133.6628138,
+        "id": "890c34c5-392a-4344-b81f-676c1d992490"
+    },
+    {
+        "name": "總倉神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "林田町１８８１番地",
+        "latitude": 34.32570189,
+        "longitude": 133.88470755,
+        "id": "51cc9ec3-2c15-4bf6-8452-43439dd9fc27"
+    },
+    {
+        "name": "總社神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "林田町３００１番地",
+        "latitude": 34.3163188,
+        "longitude": 133.8605098,
+        "id": "b500e109-bf1e-47eb-bd41-e8d47c3f8d95"
+    },
+    {
+        "name": "美古神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町岡田上１６１８番地",
+        "latitude": 34.22298012,
+        "longitude": 133.85664636,
+        "id": "6933e093-5648-4d32-8fc4-dc1e201c7b9d"
+    },
+    {
+        "name": "羽間神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "牟礼町大町１９８５番地",
+        "latitude": 34.3307305,
+        "longitude": 134.13660453,
+        "id": "ff9db903-5698-4229-aacc-33d6afec420c"
+    },
+    {
+        "name": "聖神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "牛島１４９番地",
+        "latitude": 34.2895363,
+        "longitude": 133.7976689,
+        "id": "95c5cd9a-f078-43ec-874a-303bcdd86114"
+    },
+    {
+        "name": "脇神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "小野甲２６８番地１",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "f48be36b-03e6-491e-81f7-b7094bcfdc1b"
+    },
+    {
+        "name": "與田神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "与田山字森兼３８０番地",
+        "latitude": 34.2437996,
+        "longitude": 134.3588228,
+        "id": "14630dda-9b8d-493b-b7de-92ecef61d596"
+    },
+    {
+        "name": "船山神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "仏生山町甲１１４７番地",
+        "latitude": 34.27652708,
+        "longitude": 134.03509655,
+        "id": "ba9ab3b5-28d5-4e77-810e-d8283b7e6323"
+    },
+    {
+        "name": "船玉神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "生島町６８５番地３９",
+        "latitude": 34.36282201,
+        "longitude": 133.96628158,
+        "id": "d6c270dd-10a8-4973-a785-4e7bd19841df"
+    },
+    {
+        "name": "船玉神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香西本町７５１番地",
+        "latitude": 34.3509106,
+        "longitude": 134.00009375,
+        "id": "1686c024-239d-4b92-b80f-11a98ece582c"
+    },
+    {
+        "name": "艪掛神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "馬篠４４０番地、４４３番地",
+        "latitude": 34.27140547,
+        "longitude": 134.2902873,
+        "id": "bfb2cbd0-1c7f-4270-bc71-5011992883a9"
+    },
+    {
+        "name": "若宮神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "出作町８４５番地",
+        "latitude": 34.11963909,
+        "longitude": 133.67565433,
+        "id": "a25209aa-4b40-42fc-a51e-be520640aacd"
+    },
+    {
+        "name": "若林神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "吉野下字川原添３９４番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "5e07418b-871c-4e89-880e-d6ba68556fa2"
+    },
+    {
+        "name": "荒多神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "女木町１８９２番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "9be6d1dd-7627-40dc-8475-75ad0fada1c6"
+    },
+    {
+        "name": "荒神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "勝浦字𣜿２１５８番地",
+        "latitude": 34.10048995,
+        "longitude": 133.97185254,
+        "id": "18b2f033-3124-4f0c-930c-a00505b9c257"
+    },
+    {
+        "name": "荒神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西字辛立１８３０番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "39ec2a85-8b55-4aec-b67b-49ddf06748f8"
+    },
+    {
+        "name": "荒神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "上福岡町８１０番地",
+        "latitude": 34.33119703,
+        "longitude": 134.06445044,
+        "id": "bb054478-5e47-40d3-aa93-042614d220da"
+    },
+    {
+        "name": "荒神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "川部町８１６番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "c43f5327-0deb-4d00-bfe8-f327abdc3210"
+    },
+    {
+        "name": "荒神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾東字川西１０９１番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "b3993dd6-630d-419a-88fd-dbbb50a08fb6"
+    },
+    {
+        "name": "荒神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾名字中村８６９番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "838317c5-d052-4e78-a3fb-55a7eecc8bb7"
+    },
+    {
+        "name": "荒神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾東字本村４６１番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "60dfa24e-2021-47a3-8f8f-98695e7c285b"
+    },
+    {
+        "name": "荒神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西字筒井１３８８番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "59cb153c-10ad-4e3e-ad01-be201d328bc9"
+    },
+    {
+        "name": "荒神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西字仲１００９番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "210e8389-1618-44ee-be79-c4ee3b3083d1"
+    },
+    {
+        "name": "荒神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾名字辻３６８番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "e9cb6276-5063-4e2f-873a-86d0c30a490e"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "室本町１６２番地",
+        "latitude": 34.1284659,
+        "longitude": 133.6628138,
+        "id": "2348b202-6f3d-42cc-83a3-ce90a1cdfa64"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡小豆島町",
+        "streetName": "草壁本町２６９番地２７０番地",
+        "latitude": 34.4796901,
+        "longitude": 134.3089328,
+        "id": "fae2be9c-1a36-4e1e-9a4a-0099b21f5999"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "室本町４４番地",
+        "latitude": 34.1284659,
+        "longitude": 133.6628138,
+        "id": "8b264a5a-38ef-465c-813b-f568ee77914f"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "新田町２１３８番地",
+        "latitude": 34.10446575,
+        "longitude": 133.70396967,
+        "id": "09ef5f3b-1b11-41ed-ab89-daedd6ed93ab"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡小豆島町",
+        "streetName": "西村字西原甲１１８１番地",
+        "latitude": 34.4796901,
+        "longitude": 134.3089328,
+        "id": "70308e39-7242-487f-9e71-ef686a211e1a"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "高屋町２４６５番地の２",
+        "latitude": 34.1284659,
+        "longitude": 133.6628138,
+        "id": "855320b1-2e67-4d7c-bc2d-35be6427d4df"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町上高野３８１１番地",
+        "latitude": 34.14006696,
+        "longitude": 133.69483862,
+        "id": "0d8fc47a-85a7-423b-886d-9a6bfa5f9d54"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡小豆島町",
+        "streetName": "西村字芹甲２１９１番地",
+        "latitude": 34.4796901,
+        "longitude": 134.3089328,
+        "id": "f9f33a6d-83d5-4f3c-8b69-32ee4f121381"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町新名１２４３番地",
+        "latitude": 34.19407192,
+        "longitude": 133.71999597,
+        "id": "b0dab01c-d68b-48c8-bfc9-6334a5909587"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡小豆島町",
+        "streetName": "西村字久徳甲３６０番地",
+        "latitude": 34.4796901,
+        "longitude": 134.3089328,
+        "id": "2a0411cf-ec87-4016-8419-d4d8ecf046d7"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡多度津町",
+        "streetName": "北鴨１丁目１３番２２号",
+        "latitude": 34.27451266,
+        "longitude": 133.76622256,
+        "id": "3f2f3eba-544a-430e-81d1-fefc2efc6873"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "三野町吉津乙２４４７番地",
+        "latitude": 34.1824989,
+        "longitude": 133.7152582,
+        "id": "45346ec8-fb69-43cb-b03d-9b737304a178"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "古川町６０１番地",
+        "latitude": 34.12674645,
+        "longitude": 133.70044413,
+        "id": "6feb4041-12bb-4fe2-87a0-9812e9aa2ada"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡小豆島町",
+        "streetName": "西村字清水甲３１番地",
+        "latitude": 34.4796901,
+        "longitude": 134.3089328,
+        "id": "31a209ec-7ccb-467a-94c3-65716e2da038"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡多度津町",
+        "streetName": "大字道福寺７３５番地",
+        "latitude": 34.27134075,
+        "longitude": 133.76032043,
+        "id": "ea1948be-a8e4-4068-857c-867584b5fbc5"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "仁尾町仁尾２４６９番地",
+        "latitude": 34.2005982,
+        "longitude": 133.64703621,
+        "id": "e1f22845-5fd4-46df-bf28-c5e677fb5e21"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "伊吹町１０７１番地",
+        "latitude": 34.12858325,
+        "longitude": 133.53525439,
+        "id": "3c3d9d30-0589-4ffa-9bb2-67e57a1c4c84"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "財田町財田中２８３８番地",
+        "latitude": 34.12013145,
+        "longitude": 133.77907029,
+        "id": "058ca3a2-7ff5-4b36-8876-9095967ed9d9"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡小豆島町",
+        "streetName": "西村字荒神甲２０８２番地",
+        "latitude": 34.4796901,
+        "longitude": 134.3089328,
+        "id": "b6cbfe08-20f0-4c29-8d2a-392556f3898d"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "村黒町７７２番地",
+        "latitude": 34.1284659,
+        "longitude": 133.6628138,
+        "id": "5c7a54af-1d8d-4743-a4a3-18f60c23ac1c"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "財田町財田中３１１５番地",
+        "latitude": 34.12013145,
+        "longitude": 133.77907029,
+        "id": "3aa1ab3e-85a9-43aa-aefb-a15652d9ee4e"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田東甲５８６番地",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "5ae567b2-31fd-43b7-ac94-1fbc2b79cc14"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡小豆島町",
+        "streetName": "坂手字灘上甲７７４番地",
+        "latitude": 34.4796901,
+        "longitude": 134.3089328,
+        "id": "d948ad49-f7fe-42fb-92be-8c768e648415"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "村黒町３０３番地",
+        "latitude": 34.1284659,
+        "longitude": 133.6628138,
+        "id": "3f5eb1b4-23e0-482f-ae10-80a033ee6143"
+    },
+    {
+        "name": "荒魂神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡小豆島町",
+        "streetName": "木庄字谷甲２５７番地",
+        "latitude": 34.4796901,
+        "longitude": 134.3089328,
+        "id": "2f8b06fc-e9bf-4765-aaea-619350ee80c7"
+    },
+    {
+        "name": "荒＿神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "中府町２丁目２番２９号",
+        "latitude": 34.27921522,
+        "longitude": 133.79554449,
+        "id": "a2bbe68f-be69-4baf-8972-81343336bb03"
+    },
+    {
+        "name": "荒＿神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "中府町３丁目６番２６号",
+        "latitude": 34.28185934,
+        "longitude": 133.7937807,
+        "id": "f2c1a21e-14f1-4759-828f-7590e3b2b755"
+    },
+    {
+        "name": "菅原神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡琴平町",
+        "streetName": "苗田字古川８０１番地",
+        "latitude": 34.1912168,
+        "longitude": 133.8235082,
+        "id": "4f040c98-2922-4700-b71e-331c25c8699e"
+    },
+    {
+        "name": "菅原神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "碑殿町字雨霧３４番地",
+        "latitude": 34.2281849,
+        "longitude": 133.7869241,
+        "id": "8277e71d-2585-4320-b091-4833fa336675"
+    },
+    {
+        "name": "菅原神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾名１３９４番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "7c397191-c140-420f-8b23-139f4740bbd5"
+    },
+    {
+        "name": "菅原神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "小海３０９０番地",
+        "latitude": 34.21964759,
+        "longitude": 134.38147941,
+        "id": "d37ef314-2c41-4476-b1cc-f0846a7dd603"
+    },
+    {
+        "name": "菅原神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "大野原町中姫１８８６番地",
+        "latitude": 34.09661656,
+        "longitude": 133.67191061,
+        "id": "6447731d-5e8d-4636-8f19-d58cdbfb17b5"
+    },
+    {
+        "name": "菅原神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "詫間町香田３３２番地",
+        "latitude": 34.22080395,
+        "longitude": 133.67285755,
+        "id": "a1bbf674-236b-4caf-b126-d64111e846e5"
+    },
+    {
+        "name": "菅原神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香西南町７２２番地",
+        "latitude": 34.3460083,
+        "longitude": 133.99822992,
+        "id": "3e115aca-2071-40b0-a681-3f223a4d9408"
+    },
+    {
+        "name": "菅生神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "山本町辻１４３３番地",
+        "latitude": 34.11573384,
+        "longitude": 133.71986829,
+        "id": "c076a413-0c8c-4fb0-a77c-783ef4730d49"
+    },
+    {
+        "name": "菅神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町神前１２６６番地の２",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "7f5924ae-89e6-4eb2-ac0a-7044a48afa89"
+    },
+    {
+        "name": "菜切神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "牟礼町牟礼２２７８番地２",
+        "latitude": 34.3408961,
+        "longitude": 134.12468617,
+        "id": "ea624391-e9c1-4937-8777-cd277dc008e9"
+    },
+    {
+        "name": "萃下天満神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "片原町８番地２",
+        "latitude": 34.34544547,
+        "longitude": 134.05305069,
+        "id": "9963f441-960c-435c-b5f5-a36a1f65195b"
+    },
+    {
+        "name": "萬燈神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "国分寺町新居８６０番地",
+        "latitude": 34.29649666,
+        "longitude": 133.96938678,
+        "id": "3efdcaf5-be6b-435a-be65-7d10f85e9085"
+    },
+    {
+        "name": "落合神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "勝浦字長谷２３４９番地１",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "59b4373f-aafe-4d12-98a1-09f4153c47fc"
+    },
+    {
+        "name": "落合神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香川町東谷３２２７番地",
+        "latitude": 34.27033863,
+        "longitude": 134.01878145,
+        "id": "379b9eeb-cf9e-44b9-a2ff-d654d8b357f8"
+    },
+    {
+        "name": "葛城神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "買田字小倉１８１番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "f8d13807-e81c-4f6c-b980-c8c66b360c2d"
+    },
+    {
+        "name": "蔵王神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "由良町１００番地",
+        "latitude": 34.28457443,
+        "longitude": 134.09224038,
+        "id": "10680ef6-44aa-43d1-8bba-8937a7abfe11"
+    },
+    {
+        "name": "薄木神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "生島町５４番地の４",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "cbadf201-eec3-4966-85c1-8804d3fda44b"
+    },
+    {
+        "name": "藤ノ木神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "花ノ宮町９１２番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "a168798f-b3a7-42fc-8fc3-5ce964d37fb4"
+    },
+    {
+        "name": "藤尾八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "西植田町５９６９番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "cb283615-6069-4fbf-8c76-38817850cecd"
+    },
+    {
+        "name": "藤尾神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "七箇字下本目５４８番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "4f62571e-556a-4202-87e0-b7f984f7d232"
+    },
+    {
+        "name": "藤森神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "磨屋町１０番地５",
+        "latitude": 34.34488162,
+        "longitude": 134.04907322,
+        "id": "64e8fd3e-4cb6-47dd-b949-7ec93ceedbb9"
+    },
+    {
+        "name": "蛭子神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾東１１０１番地",
+        "latitude": 34.26503261,
+        "longitude": 134.18128797,
+        "id": "9a0ae1da-9276-4bbc-a773-1fc9e8670630"
+    },
+    {
+        "name": "蛭子神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "引田２７２０番地",
+        "latitude": 34.22393638,
+        "longitude": 134.4061466,
+        "id": "dad3ce0f-44b8-4f48-bab0-b8ce0497ef6e"
+    },
+    {
+        "name": "蛭子神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "小磯２５８番地の１",
+        "latitude": 34.26705112,
+        "longitude": 134.31979845,
+        "id": "6e1f300b-b2be-4496-b40c-ed62988f9212"
+    },
+    {
+        "name": "蜂穴神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "宮脇町１丁目２８番２９号",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "d908cc02-80ac-411d-a03b-f2c150a7db73"
+    },
+    {
+        "name": "西宮神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所西２４３４番地",
+        "latitude": 34.20623046,
+        "longitude": 133.98512304,
+        "id": "50f7f4b2-757e-42eb-a9b9-c8a32cbf1c4b"
+    },
+    {
+        "name": "西山神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "府中町４８４８番地",
+        "latitude": 34.29389183,
+        "longitude": 133.91339822,
+        "id": "054b8266-da98-46a1-8a80-aa441041a266"
+    },
+    {
+        "name": "西浜神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "扇町１丁目１９番２号",
+        "latitude": 34.34621467,
+        "longitude": 134.03439639,
+        "id": "c8ef1ea2-132f-4c1c-aed1-bea654305e8f"
+    },
+    {
+        "name": "西股神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町佐股甲８９番地の１",
+        "latitude": 34.17016924,
+        "longitude": 133.76192585,
+        "id": "88b2ccd1-5068-4f03-bc16-242197ed9453"
+    },
+    {
+        "name": "西谷八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "塩江町安原下第２号１４８４番地",
+        "latitude": 34.20380793,
+        "longitude": 134.03683799,
+        "id": "3dafa738-a0ba-4253-818b-d0a31f0ae286"
+    },
+    {
+        "name": "誉田神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "引田２８７３番地",
+        "latitude": 34.23150206,
+        "longitude": 134.40354661,
+        "id": "932e1d32-e34b-4af6-97af-99e924b12f16"
+    },
+    {
+        "name": "諏訪神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "真野１５２６番地１",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "6ec3dc94-f4cb-432f-9b8d-aa0511ec4127"
+    },
+    {
+        "name": "諏訪神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町栗熊西１４１７番地",
+        "latitude": 34.23555632,
+        "longitude": 133.87653337,
+        "id": "52c7c56b-3733-43ac-99ee-3319ef3207c4"
+    },
+    {
+        "name": "諏訪神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "川部町２３８４番地",
+        "latitude": 34.25848437,
+        "longitude": 134.00355317,
+        "id": "1686e1f0-b6ab-4bd6-92f1-29d218da926a"
+    },
+    {
+        "name": "諏訪神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "栗林町１丁目８番１号",
+        "latitude": 34.32961929,
+        "longitude": 134.04655181,
+        "id": "7bec5884-b969-444d-966c-a32d3eb0c78d"
+    },
+    {
+        "name": "護王神社",
+        "prefectureName": "香川県",
+        "cityName": "香川郡直島町",
+        "streetName": "８１４番地",
+        "latitude": 34.4598279,
+        "longitude": 133.9956947,
+        "id": "2fe133e9-fd47-4947-b8af-7d8bb1978c2f"
+    },
+    {
+        "name": "譽田神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "横内３０７番地",
+        "latitude": 34.25822466,
+        "longitude": 134.3270702,
+        "id": "cad60088-5385-4854-8bb1-4f3cdd05ba53"
+    },
+    {
+        "name": "讃王神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "飯山町東坂元３６７９番地",
+        "latitude": 34.26760556,
+        "longitude": 133.87846566,
+        "id": "7dfe4f20-9e8c-406c-a633-a9c854c1a042"
+    },
+    {
+        "name": "豊姫神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町上高野８４２番地",
+        "latitude": 34.14010599,
+        "longitude": 133.71261213,
+        "id": "dadae07a-8d0a-469a-a18a-01b84082db67"
+    },
+    {
+        "name": "豊姫神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾名字亀鶴山１６７１番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "c5e9a37e-dabb-4ef9-adc5-88585ef7ba4c"
+    },
+    {
+        "name": "豊浜八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "豊浜町和田浜１５７７番地１",
+        "latitude": 34.07200833,
+        "longitude": 133.63745603,
+        "id": "7c5b3a95-78d8-4b5b-a770-0f168f71e9e6"
+    },
+    {
+        "name": "豊玉依姫神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "女木町２３６番地",
+        "latitude": 34.39141791,
+        "longitude": 134.05279165,
+        "id": "b944b105-8114-419f-b0aa-33c9ab589a47"
+    },
+    {
+        "name": "豊玉姫神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "男木町１９０３番地１９０４番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "a11d9cb6-6929-4d3b-aa1f-269d2e06c267"
+    },
+    {
+        "name": "貞重神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所東３２９１番地",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "1a5c7c5d-e1c7-45db-97d0-a839811dc8a1"
+    },
+    {
+        "name": "貴船神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "牟礼町原字竽田１５７５番地",
+        "latitude": 34.3226843,
+        "longitude": 134.16240936,
+        "id": "a55016df-72ad-41ac-8ee2-01f105c64808"
+    },
+    {
+        "name": "貴船神社",
+        "prefectureName": "香川県",
+        "cityName": "香川郡直島町",
+        "streetName": "２１２８番地",
+        "latitude": 34.4526172,
+        "longitude": 133.97789339,
+        "id": "eaef209a-0740-48ca-9d84-6cbfb2d7321b"
+    },
+    {
+        "name": "賀茂神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香西本町２９４番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "c8b6d8f0-c2cb-4af2-b445-a40e75904bd4"
+    },
+    {
+        "name": "賀茂神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "広島町市井３３番地",
+        "latitude": 34.37823004,
+        "longitude": 133.69778091,
+        "id": "dc1ecd43-9686-49fa-88d0-67849080ac30"
+    },
+    {
+        "name": "賀茂神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "仁尾町仁尾丁１０４６番地",
+        "latitude": 34.20398401,
+        "longitude": 133.64351146,
+        "id": "466963f8-52a5-48cd-bd1f-c6bd1fec29b6"
+    },
+    {
+        "name": "赤松神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所西１１４５番地",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "6fdd9940-59d9-4dd3-a562-ad2b8728d18a"
+    },
+    {
+        "name": "赤羽神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "枌所西２６０番地",
+        "latitude": 34.17771252,
+        "longitude": 133.97198564,
+        "id": "57850b51-dccd-4d86-9bc8-3a5acabb393c"
+    },
+    {
+        "name": "造田神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "造田是弘１９６９番地、１９７１番地",
+        "latitude": 34.3252201,
+        "longitude": 134.1721302,
+        "id": "eb82b71d-6ed3-4ff7-8ac5-2b22d70a9705"
+    },
+    {
+        "name": "進男神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "仁尾町仁尾乙２４５番地",
+        "latitude": 34.19144627,
+        "longitude": 133.65212208,
+        "id": "a97cc4c5-dd47-47c1-8b10-aa3f98f34f84"
+    },
+    {
+        "name": "道祖神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "室本町３７８番地",
+        "latitude": 34.15472897,
+        "longitude": 133.64542921,
+        "id": "ba3ad31c-e100-40f0-956c-4f7bb0c66cb4"
+    },
+    {
+        "name": "道祖神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "新田町甲１５２８番地",
+        "latitude": 34.32387575,
+        "longitude": 134.10537982,
+        "id": "2ef563e7-5edb-4997-b081-ba21e876cac9"
+    },
+    {
+        "name": "野田森神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町上高野９３３番地",
+        "latitude": 34.14006696,
+        "longitude": 133.69483862,
+        "id": "9d0c73d9-44fd-43a7-90a6-a2a7008ae27a"
+    },
+    {
+        "name": "野田神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "勝浦字野田小屋３３１番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "82163abc-4a8a-4862-be59-9a41c73fa498"
+    },
+    {
+        "name": "金刀比羅神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "香川町川東上１５７９番地",
+        "latitude": 34.27033863,
+        "longitude": 134.01878145,
+        "id": "def7c83c-5801-4e65-819f-b346fa7f70c3"
+    },
+    {
+        "name": "金刀比羅神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾町東字将基２１番地",
+        "latitude": 34.3252201,
+        "longitude": 134.1721302,
+        "id": "58c23422-242b-414d-8fa8-02496fb706a8"
+    },
+    {
+        "name": "金刀比羅神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "多和経座東１１番地",
+        "latitude": 34.3252201,
+        "longitude": 134.1721302,
+        "id": "df3fe3a3-526f-4a24-a5f7-833ffb664bac"
+    },
+    {
+        "name": "金刀比羅神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田西２８３１番地の乙第１",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "a8ff8d6e-82ef-4eb1-9b81-7de52649c637"
+    },
+    {
+        "name": "金刀比羅神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田西３３６０番地の乙",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "19204e5b-d972-493c-a742-e90e9b96d77f"
+    },
+    {
+        "name": "金刀比羅神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡小豆島町",
+        "streetName": "片城甲３９９番地",
+        "latitude": 34.4796901,
+        "longitude": 134.3089328,
+        "id": "17ce89cb-13af-4a07-a50f-ade73cac6fb2"
+    },
+    {
+        "name": "金刀比羅神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西字大地山１２３７番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "9e9d335a-5802-4354-bc22-a6346e2f72e8"
+    },
+    {
+        "name": "金刀比羅神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西字千原１４６３番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "8f690040-9ab0-480f-8d95-b12af9aa0edc"
+    },
+    {
+        "name": "金安神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "新田町９１３番地",
+        "latitude": 34.10454074,
+        "longitude": 133.70450298,
+        "id": "aa535859-a5ef-4bdc-9bed-783b8f378f25"
+    },
+    {
+        "name": "金山神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "栗林町２丁目７番１５号",
+        "latitude": 34.33160522,
+        "longitude": 134.05045425,
+        "id": "c9360521-5ba6-4068-8f35-76cdec910d7b"
+    },
+    {
+        "name": "金山神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "炭所東字奥佐古１８００番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "7664aa61-26c7-4985-a4ee-3c323fefb3be"
+    },
+    {
+        "name": "金山神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田西１６番地乙",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "66331456-9d99-4c1d-94f2-63024655ce2e"
+    },
+    {
+        "name": "鉾八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "財田町財田上２３３６番地",
+        "latitude": 34.11581239,
+        "longitude": 133.77313482,
+        "id": "89d0f85d-ca53-4bb9-8159-ad0c11aec787"
+    },
+    {
+        "name": "鎌倉神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "大野原町田野々２０２番地",
+        "latitude": 34.08430414,
+        "longitude": 133.66423655,
+        "id": "74a899ce-74a8-49a2-9e0a-9e8d069f9cbd"
+    },
+    {
+        "name": "鎭主神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町栗熊東乙２２５３番地",
+        "latitude": 34.2560788,
+        "longitude": 133.88875146,
+        "id": "adecfe22-776c-43b7-b26c-76f2364df8e3"
+    },
+    {
+        "name": "鎭守神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "落合３２８番地",
+        "latitude": 34.25363044,
+        "longitude": 134.31573811,
+        "id": "6cbf419b-1783-475c-b431-3b239c2c23c4"
+    },
+    {
+        "name": "長峰神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町佐股１７６１番地の甲",
+        "latitude": 34.19407192,
+        "longitude": 133.71999597,
+        "id": "21a3b4c9-b7c9-4aa6-af25-7d3bed6b43d3"
+    },
+    {
+        "name": "長柄神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "東分乙５９１番地１０",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "040cd4e1-2c40-43af-bbce-5cd21c63d4eb"
+    },
+    {
+        "name": "長行神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "造田宮西字長行甲１７７７番地２",
+        "latitude": 34.3252201,
+        "longitude": 134.1721302,
+        "id": "20902a9c-7510-47b1-81d6-7e6c5fc40033"
+    },
+    {
+        "name": "阿豆枳神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡小豆島町",
+        "streetName": "片城乙３７５番地１",
+        "latitude": 34.4796901,
+        "longitude": 134.3089328,
+        "id": "20e3d6df-d694-45e9-b857-95ff35f9f24e"
+    },
+    {
+        "name": "離宮八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡土庄町",
+        "streetName": "肥土山字東甲２３０３番地",
+        "latitude": 34.4860243,
+        "longitude": 134.1858093,
+        "id": "82846843-60a9-4472-9d96-f47aa0836bf7"
+    },
+    {
+        "name": "雨の宮神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "財田町財田中５９８番地",
+        "latitude": 34.10840745,
+        "longitude": 133.76168883,
+        "id": "56990c7f-352b-4e9b-9505-66890922a9ea"
+    },
+    {
+        "name": "雨之宮神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "大野原町丸井１０４８番地",
+        "latitude": 34.08768438,
+        "longitude": 133.69605361,
+        "id": "86c60d21-70c4-4f18-ad1d-e35c9069e45c"
+    },
+    {
+        "name": "雨龍神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町上高野２９３１番地",
+        "latitude": 34.14006696,
+        "longitude": 133.69483862,
+        "id": "c5c8eb1b-09ca-45db-98ff-138e2c8a9808"
+    },
+    {
+        "name": "雲氣神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "弘田町字鬼塚１１０５番地",
+        "latitude": 34.2281849,
+        "longitude": 133.7869241,
+        "id": "0cd6fb88-320b-4349-a508-f9bc23c8e125"
+    },
+    {
+        "name": "雷八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "木田郡三木町",
+        "streetName": "大字田中４１８２番地",
+        "latitude": 34.24510558,
+        "longitude": 134.11657057,
+        "id": "e41fd1ec-87c1-4e78-9b19-f56169f4c877"
+    },
+    {
+        "name": "靇神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町栗熊東３３０９番地",
+        "latitude": 34.2560788,
+        "longitude": 133.88875146,
+        "id": "a420c88c-450c-4d16-83f0-45d393299a2f"
+    },
+    {
+        "name": "靇神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "川東字三角２３４７番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "339ce98f-3c2f-446e-9909-8760c3e77519"
+    },
+    {
+        "name": "青山神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "飯野町東分字山下６２１番地",
+        "latitude": 34.27816536,
+        "longitude": 133.82839687,
+        "id": "59b169c7-4969-4565-891c-6fd05db0e3d4"
+    },
+    {
+        "name": "青木神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "前山２７３１番地の２",
+        "latitude": 34.3252201,
+        "longitude": 134.1721302,
+        "id": "7be5329b-9556-4ca4-beb5-df5417f3804a"
+    },
+    {
+        "name": "青海神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "青海町７５９番地",
+        "latitude": 34.33894423,
+        "longitude": 133.92467639,
+        "id": "6cf4f9ab-7e52-4b71-bef9-3b67a2a3b60f"
+    },
+    {
+        "name": "青野神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "広島町青木字北５２４番地",
+        "latitude": 34.2895363,
+        "longitude": 133.7976689,
+        "id": "062e641a-dab8-4a02-9d17-db1ecb7b809f"
+    },
+    {
+        "name": "頂懸神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "大野原町福田原４３８番地",
+        "latitude": 34.08430414,
+        "longitude": 133.66423655,
+        "id": "04ee559b-7a4b-4d0b-8570-231ec307c230"
+    },
+    {
+        "name": "頂懸神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "大野原町青岡字天神１７８番地",
+        "latitude": 34.08430414,
+        "longitude": 133.66423655,
+        "id": "2225e18e-2989-4105-a32b-20e9840d7476"
+    },
+    {
+        "name": "須賀神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "木之郷町１６４０番地",
+        "latitude": 34.10096336,
+        "longitude": 133.67596578,
+        "id": "0e1c737c-40b8-4d14-83a7-68991c2b39e2"
+    },
+    {
+        "name": "須賀神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "柞田町丙１５２６番地",
+        "latitude": 34.10983205,
+        "longitude": 133.66132483,
+        "id": "b7348c59-ef37-4a89-8419-83bcef839672"
+    },
+    {
+        "name": "飛渡神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "綾歌町富熊８９６番地３",
+        "latitude": 34.2560788,
+        "longitude": 133.88875146,
+        "id": "0bcf23f0-cbc0-4d81-85b9-a18d3a87c07a"
+    },
+    {
+        "name": "飯神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "飯野町東二字山根２０番地",
+        "latitude": 34.27816536,
+        "longitude": 133.82839687,
+        "id": "86da1de6-1d37-469a-a28f-2c61e8a85ceb"
+    },
+    {
+        "name": "高室神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "帆山字枝折５１２番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "59c7c705-db5e-4adb-bd24-2ceab01007ba"
+    },
+    {
+        "name": "高家神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "高屋町８７８番地",
+        "latitude": 34.335942,
+        "longitude": 133.91310225,
+        "id": "f0aa1e6c-bf3a-4ce3-b79b-5f9d4ec10355"
+    },
+    {
+        "name": "高屋神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "高屋町２７３０番地",
+        "latitude": 34.1284659,
+        "longitude": 133.6628138,
+        "id": "cbbdc587-cdf9-41ce-a33f-a4704a29cbc2"
+    },
+    {
+        "name": "高幢神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "柞原町２９５番地",
+        "latitude": 34.26943577,
+        "longitude": 133.80449951,
+        "id": "32ec5bb9-942b-4af9-890e-e27495da45b9"
+    },
+    {
+        "name": "高木神社",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "土居町２丁目４番１７号",
+        "latitude": 34.29048068,
+        "longitude": 133.8044515,
+        "id": "2e531e88-1b19-4ce9-9933-1d76e9a8780b"
+    },
+    {
+        "name": "高津神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "財田町財田中４７１１番地",
+        "latitude": 34.12013145,
+        "longitude": 133.77907029,
+        "id": "cf852e6f-ece6-4277-94c7-acf8add647c3"
+    },
+    {
+        "name": "高津神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "三野町吉津甲５３７番地",
+        "latitude": 34.19809739,
+        "longitude": 133.69653622,
+        "id": "b621feee-0b5f-4940-a900-18e9dc27f3fc"
+    },
+    {
+        "name": "高津神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町下勝間２２７１番地",
+        "latitude": 34.17855249,
+        "longitude": 133.71474451,
+        "id": "5bdb1f38-2b74-488a-9a03-aa2607453556"
+    },
+    {
+        "name": "高結神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "国分寺町国分２９５０番地",
+        "latitude": 34.31626672,
+        "longitude": 133.93137373,
+        "id": "ac52f739-3758-45cd-b2e8-253537ef2fd6"
+    },
+    {
+        "name": "高良神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町本山甲１４４８番地",
+        "latitude": 34.14043358,
+        "longitude": 133.69366648,
+        "id": "661995b8-69ef-49ae-868d-e945d7c3b986"
+    },
+    {
+        "name": "高見峯神社",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "羽床下１４７７番地",
+        "latitude": 34.2496601,
+        "longitude": 133.9230906,
+        "id": "5d14e1ea-1940-4816-becb-daf741e1a4ce"
+    },
+    {
+        "name": "高都神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町上高野字高沢５０８番地",
+        "latitude": 34.14006696,
+        "longitude": 133.69483862,
+        "id": "8382076f-fe41-4244-837f-8bd002033d81"
+    },
+    {
+        "name": "鰐河神社",
+        "prefectureName": "香川県",
+        "cityName": "木田郡三木町",
+        "streetName": "大字下高岡１８４３番地１",
+        "latitude": 34.25622488,
+        "longitude": 134.1475276,
+        "id": "976f57b5-9ddf-4c12-ac65-d443a8f66525"
+    },
+    {
+        "name": "鰹宇神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "十川西町１０１４番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "c382340f-b060-43da-bf34-b2eaccbc4657"
+    },
+    {
+        "name": "鳩八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "豊中町岡本５８０番地",
+        "latitude": 34.1489018,
+        "longitude": 133.67758162,
+        "id": "82b751fb-d4d8-4f59-8a1a-3d6b447fcd81"
+    },
+    {
+        "name": "鳩峯八幡神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "炭所西字八幡岡５７１番地",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "7a4819f0-4f36-41c6-bd8d-9a192dafe03f"
+    },
+    {
+        "name": "鴨神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "加茂町５４０番地",
+        "latitude": 34.31127587,
+        "longitude": 133.90890375,
+        "id": "8ef2b7ac-8eca-4ada-9a97-8ec75d331d8f"
+    },
+    {
+        "name": "鴨神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "加茂町９９２番地",
+        "latitude": 34.31213406,
+        "longitude": 133.91566149,
+        "id": "2f757502-3496-4167-bbd5-2006d5e340e7"
+    },
+    {
+        "name": "鴨部神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "鴨部２７９１番地",
+        "latitude": 34.30826872,
+        "longitude": 134.20904525,
+        "id": "57e96239-598a-4e92-9f2a-3d749a99ecd8"
+    },
+    {
+        "name": "鵜羽神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "屋島西町２９８番地",
+        "latitude": 34.36583764,
+        "longitude": 134.09274403,
+        "id": "6c77a50b-0bcd-4c38-a9d5-3cbc4fac9b1e"
+    },
+    {
+        "name": "鶴尾神社",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "西春日町１０６６番地",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "4e0183a2-3d20-47c6-91ca-05be79492c34"
+    },
+    {
+        "name": "鷲尾神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "新目１６８０番地１",
+        "latitude": 34.1351106,
+        "longitude": 133.82585682,
+        "id": "3ca80d44-6cd7-4a74-bcff-6ab77ee8cfa7"
+    },
+    {
+        "name": "鷺井神社",
+        "prefectureName": "香川県",
+        "cityName": "善通寺市",
+        "streetName": "吉原町字鷺井１７０５番地",
+        "latitude": 34.2281849,
+        "longitude": 133.7869241,
+        "id": "23ff7f9f-65b9-47fb-84bc-0cd28976e420"
+    },
+    {
+        "name": "鹿島神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西字市１８７２番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "517254d6-e988-4ddc-880d-c2b81cf8cc24"
+    },
+    {
+        "name": "鹿島神社",
+        "prefectureName": "香川県",
+        "cityName": "小豆郡土庄町",
+        "streetName": "字鹿島甲２２６８番地",
+        "latitude": 34.4860243,
+        "longitude": 134.1858093,
+        "id": "7d73f68d-452b-42e4-8737-b8d0a6a30e88"
+    },
+    {
+        "name": "麻部神社",
+        "prefectureName": "香川県",
+        "cityName": "三豊市",
+        "streetName": "高瀬町上麻１７８１番地",
+        "latitude": 34.1732077,
+        "longitude": 133.77479384,
+        "id": "2951c3c5-0653-4557-a186-57e925490870"
+    },
+    {
+        "name": "黒島神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "池之尻町２８１番地の１",
+        "latitude": 34.11890575,
+        "longitude": 133.69306155,
+        "id": "94d32474-e88d-402a-970f-b3225c12bb56"
+    },
+    {
+        "name": "黒羽神社",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "黒羽１１５番地２",
+        "latitude": 34.2437996,
+        "longitude": 134.3588228,
+        "id": "c3d293b9-f78a-4ba6-8aaf-01974c86dd36"
+    },
+    {
+        "name": "黒見神社",
+        "prefectureName": "香川県",
+        "cityName": "仲多度郡まんのう町",
+        "streetName": "吉野字黒見３２３７番地甲",
+        "latitude": 34.1923086,
+        "longitude": 133.8413901,
+        "id": "a441f74b-ec9c-4755-843a-65bd6a68f00b"
+    },
+    {
+        "name": "鼓岡神社",
+        "prefectureName": "香川県",
+        "cityName": "坂出市",
+        "streetName": "府中町乙５１１６番地",
+        "latitude": 34.29118382,
+        "longitude": 133.93102149,
+        "id": "6e79375c-6e02-4069-b932-32328f66fbe7"
+    },
+    {
+        "name": "龍王神社",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "室本町２８４番地",
+        "latitude": 34.1284659,
+        "longitude": 133.6628138,
+        "id": "87cf076d-8451-4715-afae-cf3550c6b710"
+    },
+    {
+        "name": "龍王神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "長尾西字千原２５６０番地",
+        "latitude": 34.26590181,
+        "longitude": 134.1729054,
+        "id": "1efd68bd-1279-4545-b698-6ecc111dd7aa"
+    },
+    {
+        "name": "龍神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "寒川町石田西２７４１番地",
+        "latitude": 34.28186928,
+        "longitude": 134.20790726,
+        "id": "781d0f75-8b98-40b6-ae33-8661abb11fda"
+    },
+    {
+        "name": "地神宮",
+        "prefectureName": "香川県",
+        "cityName": "観音寺市",
+        "streetName": "出作町４０４番地",
+        "latitude": 34.11752824,
+        "longitude": 133.6736406,
+        "id": "eb5c9357-e433-4c4a-ac25-e6e43aa80b82"
+    },
+    {
+        "name": "城山太神宮",
+        "prefectureName": "香川県",
+        "cityName": "綾歌郡綾川町",
+        "streetName": "山田下２４３８番地",
+        "latitude": 34.22994575,
+        "longitude": 133.94959198,
+        "id": "bf9cb748-d9a4-4fe3-9acf-aaefd695af56"
+    },
+    {
+        "name": "大川町天神宮神社",
+        "prefectureName": "香川県",
+        "cityName": "さぬき市",
+        "streetName": "大川町富田中９１７番地１",
+        "latitude": 34.26236665,
+        "longitude": 134.23599681,
+        "id": "4e954548-c848-48fa-8830-8da4e34ea9dc"
+    },
+    {
+        "name": "日本一桃太郎神宮",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "女木町青木２３２４番地の１",
+        "latitude": 34.3427346,
+        "longitude": 134.0468124,
+        "id": "f23ba4e8-63e3-43b4-a77a-f9cb430a4ed8"
+    },
+    {
+        "name": "本町大神宮",
+        "prefectureName": "香川県",
+        "cityName": "丸亀市",
+        "streetName": "本町７９番地",
+        "latitude": 34.29015556,
+        "longitude": 133.79138624,
+        "id": "49319627-dbbe-4595-8d82-554ea99ca8dc"
+    },
+    {
+        "name": "篠姫龍神宮",
+        "prefectureName": "香川県",
+        "cityName": "東かがわ市",
+        "streetName": "馬篠８９７番地１",
+        "latitude": 34.2437996,
+        "longitude": 134.3588228,
+        "id": "14b3b6ed-c610-410d-a5ef-441a6ba4eab2"
+    },
+    {
+        "name": "香川大神宮",
+        "prefectureName": "香川県",
+        "cityName": "高松市",
+        "streetName": "丸の内６番２７号",
+        "latitude": 34.34775078,
+        "longitude": 134.05261455,
+        "id": "50ffd94b-a19e-48a4-b5da-0dfc47f0b855"
+    }
+]

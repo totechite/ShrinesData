@@ -1,0 +1,3818 @@
+[
+    {
+        "name": "一言主神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "山田６２６番地",
+        "latitude": 34.33947109,
+        "longitude": 135.57010961,
+        "id": "c5bbd2f9-6328-427d-b83d-ffa6a478f046"
+    },
+    {
+        "name": "一言主神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字平１３１４番地",
+        "latitude": 34.3400345,
+        "longitude": 135.45193934,
+        "id": "cf56e199-2d69-4074-9be3-a7e8781a0dc6"
+    },
+    {
+        "name": "丁ノ町八王子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字丁ノ町１７７８番地",
+        "latitude": 34.296395,
+        "longitude": 135.5038359,
+        "id": "63352b5e-a672-454a-963d-1de0b05e4ab9"
+    },
+    {
+        "name": "七山八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "七山４４３番地",
+        "latitude": 34.19431252,
+        "longitude": 135.30751376,
+        "id": "2d1311eb-da4b-4220-b278-c9d50bf34fd4"
+    },
+    {
+        "name": "三大神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡有田川町",
+        "streetName": "大字板尾１３５番地",
+        "latitude": 34.12149068,
+        "longitude": 135.49547875,
+        "id": "c9c944dc-1303-46a6-b455-8e9826b94243"
+    },
+    {
+        "name": "三船神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "桃山町神田１０１番地",
+        "latitude": 34.23086997,
+        "longitude": 135.35415237,
+        "id": "dbae2c95-ece3-4a54-9060-4e75779c1f0e"
+    },
+    {
+        "name": "三豊神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "面川１４１９番地",
+        "latitude": 33.7280137,
+        "longitude": 135.377726,
+        "id": "0067b2bd-ff70-4b48-ae8a-3d4c59617ba9"
+    },
+    {
+        "name": "三郷八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "下津町黒田２６９番地",
+        "latitude": 34.12120761,
+        "longitude": 135.160766,
+        "id": "65f05bc0-0a69-44e9-a999-16351a5005d1"
+    },
+    {
+        "name": "三里神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "本宮町伏拝１４５２番地の４",
+        "latitude": 33.86652649,
+        "longitude": 135.75931542,
+        "id": "669e711d-9925-4760-8d75-6147a22a357c"
+    },
+    {
+        "name": "三須和神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡白浜町",
+        "streetName": "安居８３４番地",
+        "latitude": 33.60827097,
+        "longitude": 135.48035276,
+        "id": "52107dda-06dd-491f-ac81-c7a07e243617"
+    },
+    {
+        "name": "上小倉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "下三毛５０８番地",
+        "latitude": 34.24495071,
+        "longitude": 135.29707504,
+        "id": "a14c115e-6af6-44b7-ac6d-43bc9f8bccb8"
+    },
+    {
+        "name": "上岩出神社",
+        "prefectureName": "和歌山県",
+        "cityName": "岩出市",
+        "streetName": "北大池３９６番地",
+        "latitude": 34.28293894,
+        "longitude": 135.32635985,
+        "id": "b1005edb-c9cf-4fb3-9fa4-90eac124aba0"
+    },
+    {
+        "name": "上花園神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字花園中南字東寺２９７番地",
+        "latitude": 34.296395,
+        "longitude": 135.5038359,
+        "id": "c47b2cf5-81aa-4269-b713-ed5ac8bb818e"
+    },
+    {
+        "name": "上阿田木神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡日高川町",
+        "streetName": "大字初湯川２１２番地",
+        "latitude": 33.95943411,
+        "longitude": 135.38249742,
+        "id": "86f9452b-da7f-41aa-b3b8-e2356e682c3a"
+    },
+    {
+        "name": "下花園神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字花園梁瀬２６４番地",
+        "latitude": 34.13668921,
+        "longitude": 135.51675991,
+        "id": "9eb350d2-f7f2-49ed-b3a4-f5974e588647"
+    },
+    {
+        "name": "下里神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字下里１２３番地",
+        "latitude": 33.58490917,
+        "longitude": 135.9186391,
+        "id": "83beadd5-5aa1-49cd-b3af-662685e53bf4"
+    },
+    {
+        "name": "下阿田木神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡日高川町",
+        "streetName": "大字皆瀬３０２番地",
+        "latitude": 33.98122041,
+        "longitude": 135.36265987,
+        "id": "f39a14a8-d140-4816-9204-82db7e0e91c9"
+    },
+    {
+        "name": "且来八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "且来１２１９番地",
+        "latitude": 34.1576163,
+        "longitude": 135.2397364,
+        "id": "ecfd382b-887c-4200-a8f0-31918ced7026"
+    },
+    {
+        "name": "中山神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡すさみ町",
+        "streetName": "佐本中１９６番地",
+        "latitude": 33.59181315,
+        "longitude": 135.62588016,
+        "id": "6717f053-a0eb-48e4-a864-fd7424f189d4"
+    },
+    {
+        "name": "中玉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "成川７５８番地",
+        "latitude": 33.64441095,
+        "longitude": 135.71552556,
+        "id": "f8054151-2521-4984-9d24-38a9bd92f745"
+    },
+    {
+        "name": "中言神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "黒江９３３番地",
+        "latitude": 34.16429484,
+        "longitude": 135.20593107,
+        "id": "49e27a7b-2763-4a8e-9d27-84a5eae680be"
+    },
+    {
+        "name": "丸山神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "西川６２１番地",
+        "latitude": 33.63791158,
+        "longitude": 135.70833167,
+        "id": "e7594550-5616-4717-a35f-91cbfd965028"
+    },
+    {
+        "name": "丹生官省符神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡九度山町",
+        "streetName": "大字慈尊院８３５番地",
+        "latitude": 34.29430951,
+        "longitude": 135.54942659,
+        "id": "840f4633-ad80-4418-aa47-dcbc66385fa2"
+    },
+    {
+        "name": "丹生狩場神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海草郡紀美野町",
+        "streetName": "毛原宮２４１番地",
+        "latitude": 34.16021708,
+        "longitude": 135.46084265,
+        "id": "550ee8e7-d7c9-4c82-9169-36568f12824e"
+    },
+    {
+        "name": "丹生狩場神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字平沼田５５番地の１",
+        "latitude": 34.28203565,
+        "longitude": 135.49397274,
+        "id": "a05da8f5-35af-4392-8974-7c5ff599b314"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "栗栖１番地",
+        "latitude": 34.23787806,
+        "longitude": 135.22309267,
+        "id": "1623674c-a496-41f5-9139-0f4703d5aafe"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡高野町",
+        "streetName": "大字下筒香続５０４番地",
+        "latitude": 34.2162239,
+        "longitude": 135.5865663,
+        "id": "021e1c11-02f1-4d71-abeb-5aae036581b4"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海草郡紀美野町",
+        "streetName": "真国宮１３６番地",
+        "latitude": 34.16989255,
+        "longitude": 135.37995396,
+        "id": "75a5d92e-4018-4ee2-b21d-16a6ff50f44f"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "貴志川町西山３０１番地",
+        "latitude": 34.22315849,
+        "longitude": 135.28865409,
+        "id": "c33f4e08-e125-4449-bb6c-0225194940e5"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海草郡紀美野町",
+        "streetName": "長谷宮２３８番地",
+        "latitude": 34.18260308,
+        "longitude": 135.48038709,
+        "id": "24605326-df95-4f91-b9f8-1ad6ddf516a1"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "桃山町垣内２７８番地",
+        "latitude": 34.18987504,
+        "longitude": 135.4212458,
+        "id": "fcd9b4e8-dd1c-48a5-8f82-dd509d019543"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "上丹生谷１０５０番地",
+        "latitude": 34.29623576,
+        "longitude": 135.41931517,
+        "id": "e6cb05fd-9993-4c72-8ada-601ba822ed04"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡高野町",
+        "streetName": "大字西富貴３４８番地",
+        "latitude": 34.26080951,
+        "longitude": 135.69247747,
+        "id": "ea66f0d0-286d-40a4-a76b-20b0d5819780"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字宮本１番地",
+        "latitude": 34.296395,
+        "longitude": 135.5038359,
+        "id": "553717c9-2a50-44f1-919e-fd30f4387abd"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "貴志川町北９１８番地",
+        "latitude": 34.2112108,
+        "longitude": 135.33149693,
+        "id": "d08a3611-8250-46a4-88d2-5fd4e87a64d0"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "名手下６８２番地",
+        "latitude": 34.269524,
+        "longitude": 135.3625902,
+        "id": "cca1eee5-b6e2-42c7-a7e8-4e63d843ceba"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡高野町",
+        "streetName": "大字東富貴２００番地",
+        "latitude": 34.26212329,
+        "longitude": 135.70050155,
+        "id": "ea2e2dcf-10be-40d3-8197-8a62981d0993"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字西飯降２７３番地",
+        "latitude": 34.30769385,
+        "longitude": 135.52552564,
+        "id": "f3e209f9-0da9-44cb-8ab0-54d443cee62d"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡高野町",
+        "streetName": "大字西ケ峰１８３番地",
+        "latitude": 34.23576641,
+        "longitude": 135.62309566,
+        "id": "4168cc44-62f2-49c0-9980-453d8496b7e5"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字志賀１２２３番地",
+        "latitude": 34.296395,
+        "longitude": 135.5038359,
+        "id": "701c062c-b615-42b8-bcce-476307cff80c"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海草郡紀美野町",
+        "streetName": "西野７１７番地",
+        "latitude": 34.16953074,
+        "longitude": 135.35266764,
+        "id": "e912052c-23a3-4bf4-b48a-fb5a0dae35c8"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡高野町",
+        "streetName": "大字相ノ浦１３８番地",
+        "latitude": 34.16915845,
+        "longitude": 135.59004726,
+        "id": "184e92c5-025c-4a6a-8522-821bc2fa637c"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡高野町",
+        "streetName": "大字杖ケ薮９２番地",
+        "latitude": 34.23869166,
+        "longitude": 135.6442266,
+        "id": "81281e77-b79e-4a5f-b75f-f8c732275026"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "龍神村東２２４番地",
+        "latitude": 33.88909238,
+        "longitude": 135.49247325,
+        "id": "5742755b-12c0-4e97-9467-9f7b11dd67e7"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡九度山町",
+        "streetName": "大字丹生川５８０番地",
+        "latitude": 34.27663685,
+        "longitude": 135.60647405,
+        "id": "a24aeb9e-8ff2-4ea3-be7e-b0d65d2cd4bb"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡高野町",
+        "streetName": "大字湯川３９９ノ４番地、４０１番地",
+        "latitude": 34.2162239,
+        "longitude": 135.5865663,
+        "id": "94d0adea-38a0-45cb-85d3-e2b2290b1422"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字花園久木２９１番地",
+        "latitude": 34.296395,
+        "longitude": 135.5038359,
+        "id": "d97b8ba0-45bc-4a93-b03a-e0cf89075e81"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡日高川町",
+        "streetName": "大字江川１９５６番地",
+        "latitude": 33.911771,
+        "longitude": 135.1858713,
+        "id": "787f6451-75c8-41cb-be6a-56f778b772ca"
+    },
+    {
+        "name": "丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡高野町",
+        "streetName": "大字上筒香３３０番地",
+        "latitude": 34.24012044,
+        "longitude": 135.6956638,
+        "id": "cc7fbb69-1e0e-4898-b076-6712f315f356"
+    },
+    {
+        "name": "丹生都比賣神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字上天野２３０番地",
+        "latitude": 34.26272692,
+        "longitude": 135.52201236,
+        "id": "6b28a23a-8b81-4e80-a6a0-b468668e9ed3"
+    },
+    {
+        "name": "丹生酒殿神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字三谷６３１番地",
+        "latitude": 34.28920999,
+        "longitude": 135.52001233,
+        "id": "9e6922d9-0d1f-4f94-9116-7b824eb5fee8"
+    },
+    {
+        "name": "九頭東屋神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "杉原８０３番地",
+        "latitude": 34.269524,
+        "longitude": 135.3625902,
+        "id": "a2c9b799-e54b-4b04-9040-37418b9ce7d6"
+    },
+    {
+        "name": "九頭神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "麻生津中１番地",
+        "latitude": 34.26403412,
+        "longitude": 135.44407185,
+        "id": "8d358ca8-a5fe-47c4-aa23-f2d8fec7fb86"
+    },
+    {
+        "name": "九頭神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "荒見２９４番地",
+        "latitude": 34.25472634,
+        "longitude": 135.42019997,
+        "id": "92062ba8-f15c-40e7-83e3-8a43e2445f35"
+    },
+    {
+        "name": "二河諏訪神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字二河３６９番地",
+        "latitude": 33.6259491,
+        "longitude": 135.9410691,
+        "id": "1b5fde47-f7f9-4319-93ff-3f144bbd2d4a"
+    },
+    {
+        "name": "五名生石神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡有田川町",
+        "streetName": "大字本堂６７番地",
+        "latitude": 34.09097851,
+        "longitude": 135.29633496,
+        "id": "81b1891a-9176-4f32-8322-585b74de0dc4"
+    },
+    {
+        "name": "五郷神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡有田川町",
+        "streetName": "大字中原５１６番地",
+        "latitude": 34.0575158,
+        "longitude": 135.2161375,
+        "id": "3c7663b9-caaa-4888-8097-4ee8d7818ebc"
+    },
+    {
+        "name": "伊久比売神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "市小路３３０番地",
+        "latitude": 34.25634996,
+        "longitude": 135.17155704,
+        "id": "1b280bf6-a677-4dcd-ba6d-20cdc21b7064"
+    },
+    {
+        "name": "伊勢部柿本神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "日方１３３８番地",
+        "latitude": 34.15997626,
+        "longitude": 135.21339982,
+        "id": "70879af0-868a-4660-bccf-81d2410d1f1f"
+    },
+    {
+        "name": "伊太祁曽神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "伊太祈曽５５８番地",
+        "latitude": 34.20169078,
+        "longitude": 135.24991902,
+        "id": "c4ef238c-ae99-47ee-86f8-1d061b6026ce"
+    },
+    {
+        "name": "伊達神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "園部１５８０番地",
+        "latitude": 34.26466935,
+        "longitude": 135.19595803,
+        "id": "2f5c7c49-3c46-46dd-8db7-7926cdc18b50"
+    },
+    {
+        "name": "伏原大神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "高野口町伏原１５３番地",
+        "latitude": 34.30716631,
+        "longitude": 135.54468792,
+        "id": "0fb17c3f-be0e-4d90-a6f5-0ad30d279450"
+    },
+    {
+        "name": "住吉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "北島１５８番地",
+        "latitude": 34.24085405,
+        "longitude": 135.16077805,
+        "id": "442b391b-1b1c-4a73-865a-170b0e7480c6"
+    },
+    {
+        "name": "住吉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "梶取２３１番地",
+        "latitude": 34.24921983,
+        "longitude": 135.15793044,
+        "id": "bccfac27-31e4-4d84-a1b0-af62eda1dafa"
+    },
+    {
+        "name": "住吉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "西浜１２７４番地",
+        "latitude": 34.1996114,
+        "longitude": 135.15326525,
+        "id": "2819b961-fb19-45ef-8115-736235a21c0f"
+    },
+    {
+        "name": "住吉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "中辺路町小松原１３２番地の２",
+        "latitude": 33.81505756,
+        "longitude": 135.60826939,
+        "id": "f3e44fc4-64b3-4c83-a608-34e6ee3da705"
+    },
+    {
+        "name": "住吉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "赤沼田３１３番地",
+        "latitude": 34.25510255,
+        "longitude": 135.46192807,
+        "id": "aefcb1ed-32de-4b70-bdda-506d0b90542b"
+    },
+    {
+        "name": "住吉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "鮎川１５１２番地",
+        "latitude": 33.73063108,
+        "longitude": 135.49276226,
+        "id": "ff92474d-c736-4787-8ace-2f3654562536"
+    },
+    {
+        "name": "住吉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "高野口町名古曽４８２番地",
+        "latitude": 34.31048012,
+        "longitude": 135.56278929,
+        "id": "e956cfd8-67c8-42af-bf83-5cc174da87ea"
+    },
+    {
+        "name": "住吉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "蔵土４５０番地",
+        "latitude": 33.5316585,
+        "longitude": 135.8146355,
+        "id": "d843e353-b596-4254-be3f-54d662c01a7e"
+    },
+    {
+        "name": "信太神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "高野口町九重２８３番地",
+        "latitude": 34.33645185,
+        "longitude": 135.5536836,
+        "id": "3a487ed5-7b8f-42a6-a230-a1e6d52db65a"
+    },
+    {
+        "name": "八上神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡上富田町",
+        "streetName": "岡１３８２番地",
+        "latitude": 33.72628933,
+        "longitude": 135.43997323,
+        "id": "8bc1c5d8-f5ed-4bc0-9fb3-6409eb32f9bd"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字平６７２番地",
+        "latitude": 34.34410926,
+        "longitude": 135.48302547,
+        "id": "47ad4df2-3c57-4681-9d47-4b3cf2cca30d"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "伊串１６６番地",
+        "latitude": 33.50586108,
+        "longitude": 135.80479654,
+        "id": "859527fd-b4a7-4867-a008-8d5b3af0e804"
+    },
+    {
+        "name": "八坂神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "池野山１７８４番地",
+        "latitude": 33.53727455,
+        "longitude": 135.81737978,
+        "id": "b877bc59-2605-4bf6-bf64-f991bcbc93e1"
+    },
+    {
+        "name": "八太神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字妙寺１３０８番地",
+        "latitude": 34.30742997,
+        "longitude": 135.52188431,
+        "id": "9ec50a62-ee3e-4fc7-b7c7-6735dc0d5185"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "相坂６７１番地",
+        "latitude": 34.19469128,
+        "longitude": 135.2310039,
+        "id": "66a63805-29cc-44b1-9d91-56f015770a0d"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字下天野９４０番地",
+        "latitude": 34.296395,
+        "longitude": 135.5038359,
+        "id": "4882978e-e0b4-44ab-ba3b-b68af6f4196c"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "新宮市",
+        "streetName": "三輪崎１５１２番地",
+        "latitude": 33.68914534,
+        "longitude": 135.98290849,
+        "id": "d9b0312b-f961-4e3d-acfe-61b4ed2acd3d"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字教良寺３１５番地",
+        "latitude": 34.296395,
+        "longitude": 135.5038359,
+        "id": "db7f522d-4891-4297-b550-df16c3b771a2"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "三尾川３９１番地",
+        "latitude": 33.55115366,
+        "longitude": 135.67945203,
+        "id": "2f882e8c-0524-47d8-9741-ad6797d9529f"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡有田川町",
+        "streetName": "大字清水２７２番地",
+        "latitude": 34.0575158,
+        "longitude": 135.2161375,
+        "id": "bb0b69d5-e0e3-404b-b631-7c911ab58447"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "小川５７５番地",
+        "latitude": 33.5316585,
+        "longitude": 135.8146355,
+        "id": "03bb71bb-5a4d-488f-9052-9a44467aec68"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡すさみ町",
+        "streetName": "防己５５６番地",
+        "latitude": 33.5499621,
+        "longitude": 135.496695,
+        "id": "388a3cbd-7ed2-468b-af53-6b7ae661adcd"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "津荷８８６番地",
+        "latitude": 33.4725198,
+        "longitude": 135.7814526,
+        "id": "f7fbd521-f806-41be-946c-fd9b83affb98"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡みなべ町",
+        "streetName": "東岩代５６１番地",
+        "latitude": 33.7722991,
+        "longitude": 135.3209369,
+        "id": "f6db9f1b-46e6-46a0-942a-81b14b555af0"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "高野口町名倉１３７０番地",
+        "latitude": 34.30716631,
+        "longitude": 135.54468792,
+        "id": "dee9d18d-c788-40f2-9c9f-07b266b31974"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "冷水９４０番地",
+        "latitude": 34.1576163,
+        "longitude": 135.2397364,
+        "id": "990f86f6-0028-4a43-a930-449c22f78fde"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "中芳養８０３番地",
+        "latitude": 33.77098834,
+        "longitude": 135.35593648,
+        "id": "b95925ee-63e4-4665-ab24-297943cf3134"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字勝浦８５９番地",
+        "latitude": 33.6259491,
+        "longitude": 135.9410691,
+        "id": "40b0efef-2e1f-4a04-8fd9-74cea2cfb921"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "和深１１２３番地",
+        "latitude": 33.50800352,
+        "longitude": 135.65615252,
+        "id": "e9f7b6ff-73ae-43ef-ab84-74b392f809bd"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "上田井２６７番地",
+        "latitude": 34.26518291,
+        "longitude": 135.38575796,
+        "id": "f590a1a1-3a37-4760-bdb6-33cf95fde905"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "北馬場２７４番地",
+        "latitude": 34.3149052,
+        "longitude": 135.6053236,
+        "id": "5f3ccfe2-ccfd-45e5-8b29-75056a49de45"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡高野町",
+        "streetName": "大字西郷５６９番地",
+        "latitude": 34.2162239,
+        "longitude": 135.5865663,
+        "id": "5b3c0039-7232-478e-85db-9b89a50b8101"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "府中４３９番地",
+        "latitude": 34.27141117,
+        "longitude": 135.22547811,
+        "id": "aaa835f8-c573-4f47-8570-e65ec9b9cf92"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "中鞆渕５８番地",
+        "latitude": 34.21974606,
+        "longitude": 135.45940181,
+        "id": "fb58ca48-8192-43f1-81b9-6e052e9fc779"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡日高川町",
+        "streetName": "大字土生６２９０番地",
+        "latitude": 33.911771,
+        "longitude": 135.1858713,
+        "id": "448a02cd-8cdf-4107-b18c-77a92c9ad649"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡印南町",
+        "streetName": "大字山口１１９８番地",
+        "latitude": 33.83193796,
+        "longitude": 135.22086941,
+        "id": "f0b6b9fd-504c-40cf-a11b-b967a047a965"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "野崎２５７番地",
+        "latitude": 34.24405088,
+        "longitude": 135.15578363,
+        "id": "2f9ebb26-df44-4d1b-abb8-eb2a1a15070d"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "御坊市",
+        "streetName": "藤田町吉田２２６８番地",
+        "latitude": 33.91312869,
+        "longitude": 135.16946154,
+        "id": "91df0afa-a845-47d5-9dca-e1c0621b28f3"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡印南町",
+        "streetName": "大字古屋４８７番地",
+        "latitude": 33.81643727,
+        "longitude": 135.25728924,
+        "id": "acd531cc-2d36-4bca-9618-edb6c9ac8428"
+    },
+    {
+        "name": "八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "新宮市",
+        "streetName": "相賀１８６番地",
+        "latitude": 33.73155889,
+        "longitude": 135.93044047,
+        "id": "1dacce35-2ae7-4ee3-986e-5ba093d769a4"
+    },
+    {
+        "name": "八王子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字星川１番地",
+        "latitude": 34.26108534,
+        "longitude": 135.48335412,
+        "id": "793395fc-110f-41cc-82c8-6f301610623a"
+    },
+    {
+        "name": "八王子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "東畑１４１７番地",
+        "latitude": 34.13004238,
+        "longitude": 135.25993274,
+        "id": "618e0182-9add-4c5d-ad2d-fa915901f013"
+    },
+    {
+        "name": "八王子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字丁ノ町９０２番地",
+        "latitude": 34.296395,
+        "longitude": 135.5038359,
+        "id": "896fc5db-9e3a-4bc8-87fc-8ef8b63d412f"
+    },
+    {
+        "name": "八立稲神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "古尾１７番５号",
+        "latitude": 33.73638476,
+        "longitude": 135.37082944,
+        "id": "efee36d6-106f-4eb8-8ad6-79b5397ddb73"
+    },
+    {
+        "name": "八阪神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "桃山町段４２５番地",
+        "latitude": 34.24744554,
+        "longitude": 135.34510853,
+        "id": "92e5c9fb-c0a6-4a0c-ba91-c629e4cd33b2"
+    },
+    {
+        "name": "八阪神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡高野町",
+        "streetName": "大字細川８２６番地",
+        "latitude": 34.23448594,
+        "longitude": 135.55232414,
+        "id": "d406f2d6-35dd-4296-8cdc-624390edf6b8"
+    },
+    {
+        "name": "内原王子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡日高町",
+        "streetName": "大字萩原１６７０番地",
+        "latitude": 33.93452834,
+        "longitude": 135.14022762,
+        "id": "5e93de57-329d-4538-84f3-cba6813eecec"
+    },
+    {
+        "name": "内原神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "内原１４３７番地",
+        "latitude": 34.17777029,
+        "longitude": 135.19363752,
+        "id": "48791d61-0d09-47f2-9127-6024220b3a16"
+    },
+    {
+        "name": "切目神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡印南町",
+        "streetName": "大字西ノ地３２８番地",
+        "latitude": 33.80265207,
+        "longitude": 135.23167807,
+        "id": "5da13c12-1632-4d88-9bb7-62394f67059a"
+    },
+    {
+        "name": "刺田比古神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "片岡町２丁目９番地",
+        "latitude": 34.22379751,
+        "longitude": 135.17408798,
+        "id": "b4c92341-d7d6-4e3a-9129-21fe163d5b80"
+    },
+    {
+        "name": "力侍神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "川辺６１番地",
+        "latitude": 34.26173528,
+        "longitude": 135.26170012,
+        "id": "f0ab0c68-5744-450e-8b7c-0c86cc90d2c8"
+    },
+    {
+        "name": "加太春日神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "加太１３４３番地",
+        "latitude": 34.27518007,
+        "longitude": 135.07467569,
+        "id": "b808fa0f-d15f-4ca6-b2d1-5b9a04405b29"
+    },
+    {
+        "name": "加茂神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "下津町下５６７番地",
+        "latitude": 34.13123711,
+        "longitude": 135.16882341,
+        "id": "27199ca2-510d-4bc0-b535-53aabb3ca174"
+    },
+    {
+        "name": "勝神神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "勝神３２５番地",
+        "latitude": 34.23890859,
+        "longitude": 135.39920511,
+        "id": "56a43b9c-c49c-4940-98fe-681100c06604"
+    },
+    {
+        "name": "北辰妙見神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字滝９４６番地",
+        "latitude": 34.32748042,
+        "longitude": 135.49689727,
+        "id": "31eeebb3-d1cf-4004-a0ea-0e90a9945842"
+    },
+    {
+        "name": "十三神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海草郡紀美野町",
+        "streetName": "野中４９３番地",
+        "latitude": 34.14729738,
+        "longitude": 135.35118467,
+        "id": "77f8a4e3-ef0b-4d20-acd5-955e15513af7"
+    },
+    {
+        "name": "十五社神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "松島４５番地",
+        "latitude": 34.24800453,
+        "longitude": 135.21006007,
+        "id": "69d57db6-c484-4fc2-910f-61027ad2b8fb"
+    },
+    {
+        "name": "千種神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "重根１１２５番地",
+        "latitude": 34.15297551,
+        "longitude": 135.25509113,
+        "id": "a9741a62-381e-4e47-a1f8-193154da5d0d"
+    },
+    {
+        "name": "印南八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡印南町",
+        "streetName": "大字印南２６５７番地",
+        "latitude": 33.81688653,
+        "longitude": 135.22115886,
+        "id": "20840544-6c3d-4005-896c-276ce8ec880c"
+    },
+    {
+        "name": "原谷皇太神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡日高町",
+        "streetName": "大字原谷４０７番地",
+        "latitude": 33.9257294,
+        "longitude": 135.140886,
+        "id": "adcb1a9c-523b-4d61-80a5-26e3e7689d74"
+    },
+    {
+        "name": "古座神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "古座３４６番地・３４７番地・４９７番地",
+        "latitude": 33.51458547,
+        "longitude": 135.82977037,
+        "id": "a8e2b814-2dd8-4eb9-91a9-7adeba831d8b"
+    },
+    {
+        "name": "古澤嚴島神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡九度山町",
+        "streetName": "大字上古沢４１番地",
+        "latitude": 34.26009694,
+        "longitude": 135.54785735,
+        "id": "0226796a-e0d6-4ebc-8f19-1933128a231e"
+    },
+    {
+        "name": "名手八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "穴伏４６３番地",
+        "latitude": 34.27896,
+        "longitude": 135.44136925,
+        "id": "f53c8fe6-ce19-448e-909e-6f94d10a87ed"
+    },
+    {
+        "name": "名草神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "冬野２１０７番地",
+        "latitude": 34.1850837,
+        "longitude": 135.21404413,
+        "id": "33ec67f5-8300-48d9-8257-94bf35ca7285"
+    },
+    {
+        "name": "和歌山県護国神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "一番丁３番地",
+        "latitude": 34.22658877,
+        "longitude": 135.17056045,
+        "id": "086dd170-2a12-45a7-987c-cab0db0df035"
+    },
+    {
+        "name": "嚴島神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字島４４７番地",
+        "latitude": 34.27900193,
+        "longitude": 135.45451799,
+        "id": "b0c94562-f1ef-4990-9537-e203797831b0"
+    },
+    {
+        "name": "嚴島神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "高野口町大野第１８２９番地",
+        "latitude": 34.30716631,
+        "longitude": 135.54468792,
+        "id": "be12b0c4-67a0-443d-a036-6232fdc7f1cd"
+    },
+    {
+        "name": "嚴島神社",
+        "prefectureName": "和歌山県",
+        "cityName": "新宮市",
+        "streetName": "熊野川町九重１１０４番地１",
+        "latitude": 33.80579397,
+        "longitude": 135.87269675,
+        "id": "e0ccf34c-6dfd-4351-a23a-457141b125b5"
+    },
+    {
+        "name": "四十八所神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "下津町下津１６０６番地",
+        "latitude": 34.10858086,
+        "longitude": 135.13732169,
+        "id": "cb9ee099-7e1b-48a8-afca-19c0f28be992"
+    },
+    {
+        "name": "四村神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "本宮町下湯川１２６番地",
+        "latitude": 33.83781925,
+        "longitude": 135.77415845,
+        "id": "9f5ac35f-1aa6-485b-90c5-93d07b87aceb"
+    },
+    {
+        "name": "国主神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "多田７１４番地",
+        "latitude": 34.17760791,
+        "longitude": 135.24015326,
+        "id": "e43349da-edc0-4391-a006-45f68b2fa164"
+    },
+    {
+        "name": "國主神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田市",
+        "streetName": "初島町里１５２３番地",
+        "latitude": 34.09618234,
+        "longitude": 135.12328467,
+        "id": "5b3e6f73-a2e6-4943-9db2-7cdabd25cdcc"
+    },
+    {
+        "name": "國津神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡湯浅町",
+        "streetName": "大字田６３番地",
+        "latitude": 34.05488842,
+        "longitude": 135.14765854,
+        "id": "8898fd5b-2407-42b6-aa4c-6af5f164e3bc"
+    },
+    {
+        "name": "地主神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "古田４７８番地",
+        "latitude": 33.5326388,
+        "longitude": 135.80976076,
+        "id": "6a87da4f-e9e1-48f6-9c08-80cf35dff01f"
+    },
+    {
+        "name": "地主神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "神野川１９２番地",
+        "latitude": 33.51489921,
+        "longitude": 135.81816824,
+        "id": "69213109-d82b-4761-a8ec-f21adbcfc2d6"
+    },
+    {
+        "name": "坂本神社",
+        "prefectureName": "和歌山県",
+        "cityName": "岩出市",
+        "streetName": "根来１７６４番地",
+        "latitude": 34.28315272,
+        "longitude": 135.30577904,
+        "id": "89b5d473-08c6-449b-88bd-8af1ff0f7896"
+    },
+    {
+        "name": "城山神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字中飯降４６１番地",
+        "latitude": 34.30794384,
+        "longitude": 135.53094736,
+        "id": "a45ce92b-2d38-4df0-8422-0e2841c9603f"
+    },
+    {
+        "name": "城山神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡有田川町",
+        "streetName": "大字二川３２１番地",
+        "latitude": 34.06905078,
+        "longitude": 135.3587019,
+        "id": "210e83e9-2c27-4431-9c99-b782a9071f41"
+    },
+    {
+        "name": "堅田八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡白浜町",
+        "streetName": "堅田２７３１番地",
+        "latitude": 33.67041805,
+        "longitude": 135.38862767,
+        "id": "3fdf1e67-565b-4ed0-a02e-2912705d33a1"
+    },
+    {
+        "name": "塩屋王子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "御坊市",
+        "streetName": "塩屋町北塩屋１１４４番地",
+        "latitude": 33.86983608,
+        "longitude": 135.16229574,
+        "id": "f1fe655c-dfea-4c2a-81ee-7434306d3137"
+    },
+    {
+        "name": "塩竃神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "和歌浦中３丁目４番２９号",
+        "latitude": 34.1870992,
+        "longitude": 135.17285284,
+        "id": "c12b57cf-b888-4c8e-91e0-c844fda28008"
+    },
+    {
+        "name": "塩野神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "加納１９番地",
+        "latitude": 34.25042642,
+        "longitude": 135.20616308,
+        "id": "4a824603-80c5-4e33-9a53-99578b0d7044"
+    },
+    {
+        "name": "多賀神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "十番丁１０１番地",
+        "latitude": 34.23052176,
+        "longitude": 135.1747434,
+        "id": "a0cac971-a861-444e-9250-1c2c6701bbf1"
+    },
+    {
+        "name": "大原神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字庄２７０番地",
+        "latitude": 33.58353397,
+        "longitude": 135.90256314,
+        "id": "a815bfdd-41b7-4932-b7ab-471d1ab2ca0a"
+    },
+    {
+        "name": "大國主神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "貴志川町国主１番地",
+        "latitude": 34.2040169,
+        "longitude": 135.31087994,
+        "id": "2001ee6a-a9b1-4180-bb51-0e0f298448ab"
+    },
+    {
+        "name": "大多羅乳女神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "貴志川町丸栖６４１番地",
+        "latitude": 34.21805685,
+        "longitude": 135.31554306,
+        "id": "2dffa514-4c90-444a-8028-c9880e58fd68"
+    },
+    {
+        "name": "大宮神社",
+        "prefectureName": "和歌山県",
+        "cityName": "岩出市",
+        "streetName": "宮７５番地",
+        "latitude": 34.25424153,
+        "longitude": 135.31242867,
+        "id": "63163004-396d-4239-b579-6c06435b0a53"
+    },
+    {
+        "name": "大宮神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字広口１１２６番地",
+        "latitude": 34.32566656,
+        "longitude": 135.47919864,
+        "id": "12707279-0563-4ceb-bc31-0124610059f1"
+    },
+    {
+        "name": "大屋都姫神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "宇田森５９番地",
+        "latitude": 34.26099625,
+        "longitude": 135.24972901,
+        "id": "0db1a6d1-87d6-418a-b431-8197ad57f2b4"
+    },
+    {
+        "name": "大川八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "大川４８番地",
+        "latitude": 34.30691581,
+        "longitude": 135.08677812,
+        "id": "295f8233-d645-4d4e-bc58-8c9e0f7b33f5"
+    },
+    {
+        "name": "大年神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "梅原４０３番地",
+        "latitude": 34.26288766,
+        "longitude": 135.14282253,
+        "id": "c0b50a98-8f8b-484e-9532-37e87517ee25"
+    },
+    {
+        "name": "大年神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "桃山町調月１１１０番地",
+        "latitude": 34.22760593,
+        "longitude": 135.33087439,
+        "id": "890a52e2-1569-4896-aafc-3f82b467f5ef"
+    },
+    {
+        "name": "大徳神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字狗子ノ川３３５番地",
+        "latitude": 33.65841246,
+        "longitude": 135.95270906,
+        "id": "aaefd94e-c021-44e8-bfd9-cb0790aeae08"
+    },
+    {
+        "name": "大歳神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡印南町",
+        "streetName": "大字印南原３５５１番地",
+        "latitude": 33.87056797,
+        "longitude": 135.24240298,
+        "id": "7c70f9c4-ae46-45d1-b461-a13f6202df34"
+    },
+    {
+        "name": "大潟神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "新庄町１４４１番地",
+        "latitude": 33.7206649,
+        "longitude": 135.40178772,
+        "id": "ea1e3119-be27-44b0-95d3-51803a277e7e"
+    },
+    {
+        "name": "大神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "下津町鰈川７１０番地",
+        "latitude": 34.09987095,
+        "longitude": 135.14240198,
+        "id": "f69bab4c-ab6f-4047-abf3-1163f49e7fd4"
+    },
+    {
+        "name": "大神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "芳養松原１丁目１９番１２号",
+        "latitude": 33.74830238,
+        "longitude": 135.35233132,
+        "id": "6ad2b771-bc9f-485e-8389-03278952461a"
+    },
+    {
+        "name": "大神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "粉河２０９０番地",
+        "latitude": 34.27307935,
+        "longitude": 135.40440072,
+        "id": "2b2a8682-6148-4bfa-8f04-38dc158e80e9"
+    },
+    {
+        "name": "大神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "山手８７０番地",
+        "latitude": 33.5316585,
+        "longitude": 135.8146355,
+        "id": "71197926-7d21-4d5e-87ed-23ea116038e8"
+    },
+    {
+        "name": "大谷神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字大谷１９６番地",
+        "latitude": 34.29746429,
+        "longitude": 135.49540321,
+        "id": "240a4e6e-58ae-4c20-9b47-7491ac9845b0"
+    },
+    {
+        "name": "天光神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡すさみ町",
+        "streetName": "小河内５２５番地",
+        "latitude": 33.55510868,
+        "longitude": 135.5787743,
+        "id": "ce15285c-79f5-42de-ae6b-939eac7d8cd3"
+    },
+    {
+        "name": "天寳神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡みなべ町",
+        "streetName": "高野２４４番地",
+        "latitude": 33.85204007,
+        "longitude": 135.34182868,
+        "id": "c5b79901-9e45-48be-9809-85f74c3041a7"
+    },
+    {
+        "name": "天寳神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡みなべ町",
+        "streetName": "清川１３６７番地",
+        "latitude": 33.85176839,
+        "longitude": 135.3977926,
+        "id": "4774b6ad-54b5-45d9-8010-b75d42b9678f"
+    },
+    {
+        "name": "天已大神神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "中鞆淵２０２４番地の１",
+        "latitude": 34.24414275,
+        "longitude": 135.45355454,
+        "id": "fa5921eb-5548-4736-99bf-5e44706d385a"
+    },
+    {
+        "name": "天御中主神社",
+        "prefectureName": "和歌山県",
+        "cityName": "新宮市",
+        "streetName": "佐野１０６５番地",
+        "latitude": 33.68549546,
+        "longitude": 135.9649882,
+        "id": "932cbbe2-eff3-403b-86da-3910531e9d76"
+    },
+    {
+        "name": "天満天神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字下里２６１０番地",
+        "latitude": 33.6259491,
+        "longitude": 135.9410691,
+        "id": "7578c34b-afbf-46ca-bb9d-8ad8cd5eef5e"
+    },
+    {
+        "name": "天満神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "南馬場８２１番地",
+        "latitude": 34.29952057,
+        "longitude": 135.59248087,
+        "id": "fe5e9e91-5d5a-4a7b-893f-03cd6da81aed"
+    },
+    {
+        "name": "天満神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "姫１４４番地",
+        "latitude": 33.50105311,
+        "longitude": 135.79689128,
+        "id": "d495eac4-af8d-4374-803d-ac21fd015306"
+    },
+    {
+        "name": "天満神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "和歌浦西２丁目１番２４号",
+        "latitude": 34.19161516,
+        "longitude": 135.16423679,
+        "id": "2ccfb6b5-008b-4b1c-b0eb-fcbbf00fc30d"
+    },
+    {
+        "name": "天満神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "田並上５番地",
+        "latitude": 33.4725198,
+        "longitude": 135.7814526,
+        "id": "fa7fa63d-01aa-407d-9498-bb495263ab24"
+    },
+    {
+        "name": "天王神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "矢倉脇１８７番地",
+        "latitude": 34.36778489,
+        "longitude": 135.59874818,
+        "id": "86c3b72a-ef86-422e-9760-1f40649789dd"
+    },
+    {
+        "name": "天王神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "御幸辻５１５番地",
+        "latitude": 34.33634993,
+        "longitude": 135.60400672,
+        "id": "9d7e89c2-cf6a-43e2-923a-fbf7d32f53ab"
+    },
+    {
+        "name": "天石神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡有田川町",
+        "streetName": "大字上六川１４０番地",
+        "latitude": 34.0575158,
+        "longitude": 135.2161375,
+        "id": "24f5dcdf-aa42-4b0d-8fe4-422c736f040f"
+    },
+    {
+        "name": "天神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田市",
+        "streetName": "初島町浜１５１番地",
+        "latitude": 34.10429784,
+        "longitude": 135.12217354,
+        "id": "b756d0a4-c63e-4b64-a170-df06a5b5d34b"
+    },
+    {
+        "name": "天神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字天満３０８番地",
+        "latitude": 33.6259491,
+        "longitude": 135.9410691,
+        "id": "c358eedf-d0af-4a94-8769-48247f82cc62"
+    },
+    {
+        "name": "太田神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字市屋８７５番地",
+        "latitude": 33.59004996,
+        "longitude": 135.91045653,
+        "id": "7442e31b-3bb4-4874-aa4c-d9bc87540deb"
+    },
+    {
+        "name": "太神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字新田１２３番地",
+        "latitude": 34.296395,
+        "longitude": 135.5038359,
+        "id": "14ebbd38-29ce-43eb-9477-b5e525a604ba"
+    },
+    {
+        "name": "奥安楽川神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "桃山町善田１１９０番地",
+        "latitude": 34.22690884,
+        "longitude": 135.33352686,
+        "id": "f9f74668-0055-47f9-8d54-b61c40cf5d3a"
+    },
+    {
+        "name": "姫神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "榎原３３２番地",
+        "latitude": 34.25662981,
+        "longitude": 135.1333428,
+        "id": "e637e954-f0ce-4530-a646-c750c7982d81"
+    },
+    {
+        "name": "宇久井神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字宇久井２３３番地",
+        "latitude": 33.65980717,
+        "longitude": 135.97104366,
+        "id": "a9bfa2df-0dd1-4770-af05-456c87433068"
+    },
+    {
+        "name": "宇佐八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "上田原１９３１番地",
+        "latitude": 33.54600235,
+        "longitude": 135.86895909,
+        "id": "d8a9f91a-e216-43b1-ae9a-f6ad64f91cc2"
+    },
+    {
+        "name": "宇佐八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡由良町",
+        "streetName": "大字里１６９番地",
+        "latitude": 33.96131711,
+        "longitude": 135.12203999,
+        "id": "e193eafa-d79b-4f80-9bfe-6d88a121047c"
+    },
+    {
+        "name": "宇治神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "新魚町１５番地",
+        "latitude": 34.24261233,
+        "longitude": 135.17346009,
+        "id": "472fc658-0f0f-408e-a532-866e8bfea2bc"
+    },
+    {
+        "name": "宇賀部神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "小野田９１７番地",
+        "latitude": 34.17343681,
+        "longitude": 135.25845751,
+        "id": "a5572992-8f59-43eb-b60c-384be4da54de"
+    },
+    {
+        "name": "宇須井原神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "宇須２丁目１番１７号",
+        "latitude": 34.21165744,
+        "longitude": 135.1751631,
+        "id": "185b8824-2c1c-41b4-aae5-399502a15ed8"
+    },
+    {
+        "name": "宝來山神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字萩原５６番地",
+        "latitude": 34.29166732,
+        "longitude": 135.46882777,
+        "id": "55bea7e5-1f54-483d-b00f-f454b47f5498"
+    },
+    {
+        "name": "宝神社",
+        "prefectureName": "和歌山県",
+        "cityName": "御坊市",
+        "streetName": "湯川町大字財部８６５番地",
+        "latitude": 33.8914918,
+        "longitude": 135.1523466,
+        "id": "4e6854e1-e314-4a40-a456-c026a6b9ea1a"
+    },
+    {
+        "name": "宮原神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田市",
+        "streetName": "宮原町道字辻貝３５９番地",
+        "latitude": 34.083098,
+        "longitude": 135.1276347,
+        "id": "201f2c0d-d807-40cf-ad33-e96fe3f07a8f"
+    },
+    {
+        "name": "富士橋神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "鬮野川７５８番地",
+        "latitude": 33.48927357,
+        "longitude": 135.78173651,
+        "id": "2ec8462e-b60e-47ce-98cf-e96b847da933"
+    },
+    {
+        "name": "富源神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "中辺路町川合１９５３番地",
+        "latitude": 33.79848941,
+        "longitude": 135.52186776,
+        "id": "20b9e6ff-7a5b-42d3-9425-08159bd47ee8"
+    },
+    {
+        "name": "寒川神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡日高川町",
+        "streetName": "大字寒川２８４番地",
+        "latitude": 33.9566268,
+        "longitude": 135.46636562,
+        "id": "a0cf5fad-6303-421c-88a5-eda66bdc650d"
+    },
+    {
+        "name": "射矢止神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "六十谷３８１番地",
+        "latitude": 34.26217535,
+        "longitude": 135.20447693,
+        "id": "64ccbba1-4a67-420f-b785-d6f5996c33d7"
+    },
+    {
+        "name": "射箭頭八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "本脇２６０番地の１",
+        "latitude": 34.26092349,
+        "longitude": 135.10069745,
+        "id": "48b3b767-acfd-45c5-86ca-ebd06aa930bf"
+    },
+    {
+        "name": "小中王子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡日高町",
+        "streetName": "大字小中８６２番地",
+        "latitude": 33.92484319,
+        "longitude": 135.13426987,
+        "id": "8f429b02-b4db-4b70-8011-5a572eb973e6"
+    },
+    {
+        "name": "小倉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "金谷６９２番地",
+        "latitude": 34.23212681,
+        "longitude": 135.27732738,
+        "id": "f24b9e03-0909-4ca5-8fb8-3e9c4ad06213"
+    },
+    {
+        "name": "小川八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海草郡紀美野町",
+        "streetName": "福井１５３９番地",
+        "latitude": 34.1672215,
+        "longitude": 135.3074808,
+        "id": "2081af87-4100-450e-afb4-7ee656f49b2b"
+    },
+    {
+        "name": "小田神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "高野口町小田７６番地",
+        "latitude": 34.30012027,
+        "longitude": 135.56463113,
+        "id": "57a2b8ef-ebfd-41ea-a829-27192fbbaa06"
+    },
+    {
+        "name": "小竹八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "御坊市",
+        "streetName": "薗６４２番地",
+        "latitude": 33.88526199,
+        "longitude": 135.15373531,
+        "id": "effef797-12aa-4069-8a50-54c491f42459"
+    },
+    {
+        "name": "尾崎神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "西赤木８９番地",
+        "latitude": 33.5316585,
+        "longitude": 135.8146355,
+        "id": "9afb9c76-bebc-491a-9afd-b6515c3b3ed0"
+    },
+    {
+        "name": "山口神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "谷３７７番地",
+        "latitude": 34.27710588,
+        "longitude": 135.26810545,
+        "id": "e19cf296-4bf4-4f4c-afcb-a5f04c8120ae"
+    },
+    {
+        "name": "山崎丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字山崎２７４番地",
+        "latitude": 34.296395,
+        "longitude": 135.5038359,
+        "id": "fcad3cbc-b695-4144-a82c-eed19c3d546e"
+    },
+    {
+        "name": "山崎神社",
+        "prefectureName": "和歌山県",
+        "cityName": "岩出市",
+        "streetName": "赤垣内１０８番地",
+        "latitude": 34.26851508,
+        "longitude": 135.29661084,
+        "id": "fef0b843-265c-490b-87cd-2cd463d46d68"
+    },
+    {
+        "name": "山神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡白浜町",
+        "streetName": "３０３５番地",
+        "latitude": 33.67399764,
+        "longitude": 135.3469788,
+        "id": "2197b6ea-148c-4ce6-95c0-324a59f8e559"
+    },
+    {
+        "name": "山路王子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "下津町市坪２６９番地",
+        "latitude": 34.10996143,
+        "longitude": 135.14556793,
+        "id": "b82cadf8-1241-4a97-8e4d-56c302821d8e"
+    },
+    {
+        "name": "岡田八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "岡田２９番地",
+        "latitude": 34.17357437,
+        "longitude": 135.21918813,
+        "id": "2d03e68f-a34c-4443-ac40-a6f960a077d4"
+    },
+    {
+        "name": "岩倉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡有田川町",
+        "streetName": "大字粟生７４２番地",
+        "latitude": 34.0575158,
+        "longitude": 135.2161375,
+        "id": "b7342b8f-3f88-4de2-a3b7-e0c8579487ad"
+    },
+    {
+        "name": "岩田神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡上富田町",
+        "streetName": "岩田２５４３番地の２",
+        "latitude": 33.70705036,
+        "longitude": 135.44558084,
+        "id": "bb4afd67-79d8-4507-8ebd-771377e429a2"
+    },
+    {
+        "name": "岸本神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "粉河４６６０番地",
+        "latitude": 34.27584026,
+        "longitude": 135.40645595,
+        "id": "28f07de3-bdfe-46f0-8b67-a88691153d44"
+    },
+    {
+        "name": "嵓上神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡印南町",
+        "streetName": "大字古井８１８番地の３",
+        "latitude": 33.85244778,
+        "longitude": 135.26772632,
+        "id": "dbf71efd-4fcf-4cf8-b3cf-9148033ab23d"
+    },
+    {
+        "name": "川上神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "上秋津１５０９番地",
+        "latitude": 33.76595651,
+        "longitude": 135.41376125,
+        "id": "d4b3857d-a9df-43b8-8bad-9ea8cbd992fe"
+    },
+    {
+        "name": "川岸神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "松根１１７８番地",
+        "latitude": 33.5316585,
+        "longitude": 135.8146355,
+        "id": "00a0e4a5-67d3-4e1f-a0ba-8c098b6fec33"
+    },
+    {
+        "name": "平和神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "下露３８９番地",
+        "latitude": 33.5316585,
+        "longitude": 135.8146355,
+        "id": "7a4651bf-e010-4998-99a7-01bd00347cb3"
+    },
+    {
+        "name": "平間神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡白浜町",
+        "streetName": "十九渕１４５番地",
+        "latitude": 33.663547,
+        "longitude": 135.40117669,
+        "id": "90ab8928-44c9-4389-8fa8-8a13f57c1d4e"
+    },
+    {
+        "name": "府守神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "府中１０８９番地",
+        "latitude": 34.2679868,
+        "longitude": 135.23369416,
+        "id": "22a70b01-b562-4368-acb6-a26d50f9cbc4"
+    },
+    {
+        "name": "廣八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡広川町",
+        "streetName": "大字上中野２０６番地",
+        "latitude": 34.01770292,
+        "longitude": 135.17529481,
+        "id": "3e9e1f00-6221-49ea-9ded-ea1674506a9b"
+    },
+    {
+        "name": "御霊神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡有田川町",
+        "streetName": "大字庄３２番地",
+        "latitude": 34.06465701,
+        "longitude": 135.24127703,
+        "id": "360aaa20-536a-40b8-a6b3-8ee2f2b97aaf"
+    },
+    {
+        "name": "御靈神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡日高町",
+        "streetName": "大字小浦１７４番地",
+        "latitude": 33.92881479,
+        "longitude": 135.07711329,
+        "id": "947c98d8-8128-4e31-a1d1-9a48e9585210"
+    },
+    {
+        "name": "御﨑神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡美浜町",
+        "streetName": "大字和田１７８８番地の内１号",
+        "latitude": 33.89627417,
+        "longitude": 135.12002137,
+        "id": "3285511d-0ac8-4345-888c-43da4aaf00ff"
+    },
+    {
+        "name": "志磨神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "中之島６７７番地",
+        "latitude": 34.24022661,
+        "longitude": 135.18088451,
+        "id": "9577f3a8-1bfd-4938-9676-49e123778dda"
+    },
+    {
+        "name": "志賀王子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡日高町",
+        "streetName": "大字志賀９０１番地",
+        "latitude": 33.91710232,
+        "longitude": 135.12444296,
+        "id": "54e40ff3-5c04-426e-a3c5-36bed60fb1b2"
+    },
+    {
+        "name": "志野神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "北志野５５７番地",
+        "latitude": 34.2901831,
+        "longitude": 135.38473516,
+        "id": "b023eb41-7fe5-4af0-852f-67dd6edd7bf1"
+    },
+    {
+        "name": "応其太神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "高野口町応其４１７番地",
+        "latitude": 34.31324384,
+        "longitude": 135.57337157,
+        "id": "6b5741b6-3ca8-4306-81e8-279f7ae81184"
+    },
+    {
+        "name": "惠美須神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡白浜町",
+        "streetName": "６２３番地",
+        "latitude": 33.6782527,
+        "longitude": 135.3481981,
+        "id": "05864ccc-575d-45bd-a5ed-aeb89d8872da"
+    },
+    {
+        "name": "新宮神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "細川３７番地",
+        "latitude": 34.34669905,
+        "longitude": 135.62076341,
+        "id": "a2ab089c-74d0-45f4-8045-8461cf8c2d3a"
+    },
+    {
+        "name": "日出神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡白浜町",
+        "streetName": "日置４３６番地",
+        "latitude": 33.56672306,
+        "longitude": 135.44788109,
+        "id": "6107f482-744e-49ee-82df-58e85a89edfc"
+    },
+    {
+        "name": "日吉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "高池７２２番地",
+        "latitude": 33.53255281,
+        "longitude": 135.814691,
+        "id": "a9103e88-4703-4054-8d52-87973626d7dc"
+    },
+    {
+        "name": "日吉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "東国分７３４番地",
+        "latitude": 34.26960138,
+        "longitude": 135.3404447,
+        "id": "9fc4fcc7-fd06-48b0-abce-3389e976a79d"
+    },
+    {
+        "name": "日吉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡上富田町",
+        "streetName": "生馬１４０３番地",
+        "latitude": 33.68837781,
+        "longitude": 135.42791614,
+        "id": "6f7f6169-114e-4665-ae06-33776287cced"
+    },
+    {
+        "name": "日吉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "下津町小畑１０５２番地",
+        "latitude": 34.10996143,
+        "longitude": 135.14556793,
+        "id": "12f2c9ec-7389-465d-852e-becda3d0a4ac"
+    },
+    {
+        "name": "日吉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "磯間２３番３３号",
+        "latitude": 33.72146739,
+        "longitude": 135.38368655,
+        "id": "d0bf9678-2658-48ac-8b20-464286c1e0ef"
+    },
+    {
+        "name": "日神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡白浜町",
+        "streetName": "十九渕１１７７番地",
+        "latitude": 33.6543954,
+        "longitude": 135.40262942,
+        "id": "cd6cfb78-1c3d-48c3-bcd3-21852d0d8f2e"
+    },
+    {
+        "name": "明神崎神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "佐田７４番地",
+        "latitude": 33.59972379,
+        "longitude": 135.69452994,
+        "id": "2c306f67-ee79-4bd4-9116-643b84b89f7b"
+    },
+    {
+        "name": "明神神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "川口４４４番地",
+        "latitude": 33.54174497,
+        "longitude": 135.77163071,
+        "id": "38b32548-ad56-4fac-a902-f95c89399360"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡上富田町",
+        "streetName": "市ノ瀬１９９９番地",
+        "latitude": 33.7173047,
+        "longitude": 135.46883398,
+        "id": "ec680212-91fa-407e-8aa3-0efd466ac37a"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "下川下８９６番地",
+        "latitude": 33.74294172,
+        "longitude": 135.58600871,
+        "id": "4ee0831c-e360-4a95-a4b3-8bdca75752d5"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "松江中３丁目１番２３号",
+        "latitude": 34.24738081,
+        "longitude": 135.13317084,
+        "id": "572e45e9-4fc5-426d-a71c-089e535f2bbf"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "大野中１０５６番地",
+        "latitude": 34.15666876,
+        "longitude": 135.22445433,
+        "id": "5ca98137-7809-460e-a0d6-2d3dc3ddd91c"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "中辺路町大川６８６番地",
+        "latitude": 33.81134059,
+        "longitude": 135.55073125,
+        "id": "0a71af78-56af-44c7-a563-a2eb04aa8a6e"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡すさみ町",
+        "streetName": "江住１５５番地",
+        "latitude": 33.50150951,
+        "longitude": 135.5907824,
+        "id": "e43b7f41-eb96-44bf-b8f1-fe0d4f6b4d17"
+    },
+    {
+        "name": "春日神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "中三谷８０８番地",
+        "latitude": 34.2913354,
+        "longitude": 135.344283,
+        "id": "3f794d54-0968-4a6f-a791-1ede1ea41c3f"
+    },
+    {
+        "name": "有田神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "有田上１６５番地",
+        "latitude": 33.4949031,
+        "longitude": 135.73138562,
+        "id": "7f09cdc5-ec3e-402b-866b-14aa58560c59"
+    },
+    {
+        "name": "朝椋神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "鷺ノ森明神丁２２番地",
+        "latitude": 34.23682115,
+        "longitude": 135.17198811,
+        "id": "56a8404a-a10d-4ecd-ba4f-e5fa3ff34896"
+    },
+    {
+        "name": "朝貴神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "出雲５８番地",
+        "latitude": 33.4505947,
+        "longitude": 135.7952608,
+        "id": "694fb306-d91e-4cf1-934e-ff0e05f1a9b6"
+    },
+    {
+        "name": "木村神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "下津町大窪６７４番地",
+        "latitude": 34.11167396,
+        "longitude": 135.21030367,
+        "id": "5f792965-51f1-4253-9d76-4e9e616a2410"
+    },
+    {
+        "name": "木葉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "田原５５１番地",
+        "latitude": 33.53729223,
+        "longitude": 135.86872877,
+        "id": "cd9b8308-b137-4924-bc65-0aef83958e2b"
+    },
+    {
+        "name": "杉尾神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "阪井１８５８番地",
+        "latitude": 34.16196896,
+        "longitude": 135.26332937,
+        "id": "48889bdb-f7da-4e7e-80e9-6f262a234a40"
+    },
+    {
+        "name": "杉尾神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡有田川町",
+        "streetName": "大字修理川８８７番地",
+        "latitude": 34.03194498,
+        "longitude": 135.29238193,
+        "id": "e08f382c-ba45-4129-9888-21371beb4396"
+    },
+    {
+        "name": "杉本神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字口色川１２９７番地・１２９８番地合併",
+        "latitude": 33.67956904,
+        "longitude": 135.85692896,
+        "id": "9bd795eb-114e-4b71-8159-8f6b8d63b971"
+    },
+    {
+        "name": "東の宮神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "吉田４９５番地",
+        "latitude": 34.23533835,
+        "longitude": 135.18785902,
+        "id": "c469d058-80cd-4878-9ec3-b33f17e6fe10"
+    },
+    {
+        "name": "東山神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "大桑７８番地",
+        "latitude": 33.60090753,
+        "longitude": 135.73273022,
+        "id": "5910d2cc-fc08-43b2-bd78-42fd7ca8887c"
+    },
+    {
+        "name": "東田中神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "打田５７７番地",
+        "latitude": 34.25990856,
+        "longitude": 135.373045,
+        "id": "5c485c61-c948-4bb1-b1ef-9ed8ebcd6466"
+    },
+    {
+        "name": "東郷丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡九度山町",
+        "streetName": "大字東郷５９番地",
+        "latitude": 34.25530857,
+        "longitude": 135.59085661,
+        "id": "5db6b690-ae9c-4db2-8f6a-7d01c97db99b"
+    },
+    {
+        "name": "松原王子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡美浜町",
+        "streetName": "大字吉原７７１番地",
+        "latitude": 33.89015008,
+        "longitude": 135.14483335,
+        "id": "c69ade85-4847-4df9-9b4f-53f1ea7670d7"
+    },
+    {
+        "name": "椙吉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字小阪１８０８番地・１８０９番地合併",
+        "latitude": 33.65890533,
+        "longitude": 135.87587732,
+        "id": "c865732f-ff2e-46af-ae58-fcafafb03051"
+    },
+    {
+        "name": "楠神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "遠方２８０番地",
+        "latitude": 34.269524,
+        "longitude": 135.3625902,
+        "id": "fcfa1391-f6ee-4143-834c-fcd2adc7c279"
+    },
+    {
+        "name": "橘本神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "下津町橘本７７９番地",
+        "latitude": 34.12433881,
+        "longitude": 135.19576011,
+        "id": "8b1a0e52-90ee-4177-9dcc-0da7d66832e3"
+    },
+    {
+        "name": "櫟原神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡上富田町",
+        "streetName": "朝来２８２３番地",
+        "latitude": 33.69580176,
+        "longitude": 135.41988352,
+        "id": "d917c559-d0ea-4b25-ac42-9fe8bf3ca010"
+    },
+    {
+        "name": "氏神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "姫川１００番地",
+        "latitude": 33.50578024,
+        "longitude": 135.78762548,
+        "id": "723b1784-b645-4daa-92d5-e57c59a1a840"
+    },
+    {
+        "name": "氣比神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "猪垣１９１番地",
+        "latitude": 34.28466427,
+        "longitude": 135.39613705,
+        "id": "25e59e09-6510-433d-9b95-c5dc7be8531d"
+    },
+    {
+        "name": "氣鎭神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "貴志川町丸栖６４２番地",
+        "latitude": 34.2328163,
+        "longitude": 135.32569434,
+        "id": "fff5a66e-3a63-4b0e-a8c8-a32e5da2fd8f"
+    },
+    {
+        "name": "水門吹上神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "小野町２丁目１番地",
+        "latitude": 34.23223268,
+        "longitude": 135.16494721,
+        "id": "6eb5e410-8839-4275-806c-a577a4342d9d"
+    },
+    {
+        "name": "水門神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "大島７３番地の２",
+        "latitude": 33.47152841,
+        "longitude": 135.80470332,
+        "id": "e5511ba8-71b5-461a-980c-bfbe86095763"
+    },
+    {
+        "name": "沙＿神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡日高町",
+        "streetName": "大字志賀４００１番地",
+        "latitude": 33.9257294,
+        "longitude": 135.140886,
+        "id": "8b5e9462-4147-417f-a012-0cefe47d9c10"
+    },
+    {
+        "name": "河内神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "宇津木１７１番地",
+        "latitude": 33.5316585,
+        "longitude": 135.8146355,
+        "id": "89d6f12f-0e1e-4aa9-bf81-895900e0ac03"
+    },
+    {
+        "name": "河根丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡九度山町",
+        "streetName": "大字河根１番地",
+        "latitude": 34.27634225,
+        "longitude": 135.57900179,
+        "id": "04263980-1332-4a73-99cf-9f0b206bf597"
+    },
+    {
+        "name": "津木八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡広川町",
+        "streetName": "大字前田３１５番地",
+        "latitude": 34.0297512,
+        "longitude": 135.1730949,
+        "id": "fb3f6dd9-3cd3-4372-8775-4b5adc64245c"
+    },
+    {
+        "name": "浦上神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "神通３４番地",
+        "latitude": 34.32086074,
+        "longitude": 135.37411134,
+        "id": "e2750f9f-8028-4876-a93b-c83622e0b2b6"
+    },
+    {
+        "name": "浦安神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "湊１番地",
+        "latitude": 33.73261327,
+        "longitude": 135.38453921,
+        "id": "71ed4d77-7f58-4512-b77e-ad42863b305e"
+    },
+    {
+        "name": "浦島稲荷神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字勝浦１１６９番地の２",
+        "latitude": 33.62228587,
+        "longitude": 135.95223202,
+        "id": "b120ae4a-ae9b-4827-a3b3-1b8815a899b2"
+    },
+    {
+        "name": "海神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "神領２７２番地",
+        "latitude": 34.28762212,
+        "longitude": 135.36325649,
+        "id": "06ed4e68-5110-4bbd-85b6-a26aff93b192"
+    },
+    {
+        "name": "湯川神社",
+        "prefectureName": "和歌山県",
+        "cityName": "御坊市",
+        "streetName": "湯川町小松原８９番地",
+        "latitude": 33.90629871,
+        "longitude": 135.1629233,
+        "id": "6f0ffb33-c342-4ddb-9db9-add90d4fdb51"
+    },
+    {
+        "name": "湯川諏訪神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字湯川１６９番地",
+        "latitude": 33.62164653,
+        "longitude": 135.92670683,
+        "id": "2f3158b6-56a6-4c46-8175-0deeefff3d7d"
+    },
+    {
+        "name": "滝尻王子宮十郷神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "中辺路町栗栖川８５９番地",
+        "latitude": 33.81505756,
+        "longitude": 135.60826939,
+        "id": "8d5a3d5f-a7a8-4219-bde9-d365edce197a"
+    },
+    {
+        "name": "潮崎本之宮神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "串本１５１７番地",
+        "latitude": 33.46314025,
+        "longitude": 135.77858361,
+        "id": "b40b3cc5-3302-40d7-9e62-4bca0a0fad0c"
+    },
+    {
+        "name": "潮御崎神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "潮岬２８７８番地",
+        "latitude": 33.4385799,
+        "longitude": 135.75389427,
+        "id": "0e2a4209-efa1-4a15-a27f-c9be6761096c"
+    },
+    {
+        "name": "濱中八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "下津町上７７０番地",
+        "latitude": 34.10996143,
+        "longitude": 135.14556793,
+        "id": "afebe5b6-8d76-4653-9a00-582bcb41bc63"
+    },
+    {
+        "name": "熊野三所大神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字浜ノ宮３５０番地",
+        "latitude": 33.64488303,
+        "longitude": 135.93456927,
+        "id": "ad0e8609-22bb-4bc6-a4a8-3fa227561a23"
+    },
+    {
+        "name": "熊野三所神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡白浜町",
+        "streetName": "７４４番地",
+        "latitude": 33.68504364,
+        "longitude": 135.34244024,
+        "id": "587e1d1a-b201-48a7-9106-01e34856e390"
+    },
+    {
+        "name": "熊野十二神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡白浜町",
+        "streetName": "市鹿野１２４８番地",
+        "latitude": 33.6782527,
+        "longitude": 135.3481981,
+        "id": "971f1380-27ca-4947-b7c0-d0542eccfb65"
+    },
+    {
+        "name": "熊野神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡印南町",
+        "streetName": "大字美里１５５３番地",
+        "latitude": 33.85698059,
+        "longitude": 135.262474,
+        "id": "d3d43e56-dc25-4d9b-a812-1c03833b6d20"
+    },
+    {
+        "name": "熊野神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海草郡紀美野町",
+        "streetName": "田２２番地",
+        "latitude": 34.14182129,
+        "longitude": 135.41501601,
+        "id": "3fdd31b1-d6df-4cb5-8910-8c0535968c4d"
+    },
+    {
+        "name": "熊野神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "中津川３１５番地",
+        "latitude": 34.3103785,
+        "longitude": 135.40277182,
+        "id": "5ce0558d-d38f-4244-a841-54ce3bd19c11"
+    },
+    {
+        "name": "熊野神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "菖蒲谷８３０番地",
+        "latitude": 34.34075186,
+        "longitude": 135.59089939,
+        "id": "8523c71f-937b-4f12-ac00-6eaf11f35714"
+    },
+    {
+        "name": "熊野神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "寺内４６４番地",
+        "latitude": 34.21522181,
+        "longitude": 135.22089602,
+        "id": "81d06f74-9843-45e6-8460-761d78f8780c"
+    },
+    {
+        "name": "熊野神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "中辺路町高原１１２０番地",
+        "latitude": 33.79431212,
+        "longitude": 135.52932815,
+        "id": "91201766-41f0-433e-a81f-af14943c3c32"
+    },
+    {
+        "name": "熊野神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡白浜町",
+        "streetName": "才野１７５７番地",
+        "latitude": 33.65308958,
+        "longitude": 135.380898,
+        "id": "cb3e521f-11db-4688-bf54-a3b6d73f9699"
+    },
+    {
+        "name": "熊野神社",
+        "prefectureName": "和歌山県",
+        "cityName": "御坊市",
+        "streetName": "熊野９８７番地",
+        "latitude": 33.88754016,
+        "longitude": 135.18022482,
+        "id": "62622bf6-fd4a-4f92-8534-4f5ff66e4ee2"
+    },
+    {
+        "name": "熊野荒坂津神社",
+        "prefectureName": "和歌山県",
+        "cityName": "新宮市",
+        "streetName": "三輪崎字峰２３００番地",
+        "latitude": 33.7242019,
+        "longitude": 135.9925322,
+        "id": "79aa2454-cd86-4607-bfd5-3376478ecbfb"
+    },
+    {
+        "name": "牛頭神社",
+        "prefectureName": "和歌山県",
+        "cityName": "新宮市",
+        "streetName": "熊野川町四滝４０６番地",
+        "latitude": 33.80579397,
+        "longitude": 135.87269675,
+        "id": "b4ce6766-0afc-453e-a3af-3252ae399332"
+    },
+    {
+        "name": "玉津島神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "和歌浦中３丁目４番２６号",
+        "latitude": 34.18784911,
+        "longitude": 135.17264449,
+        "id": "1027f0ba-13bc-4a9f-936e-6a599e7fa9cd"
+    },
+    {
+        "name": "王子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡すさみ町",
+        "streetName": "和深川２５８番地",
+        "latitude": 33.53417169,
+        "longitude": 135.53919174,
+        "id": "9bf10051-a492-46ba-bb46-157b4f00738d"
+    },
+    {
+        "name": "王子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡すさみ町",
+        "streetName": "周参見２３２６番地",
+        "latitude": 33.55288952,
+        "longitude": 135.49462584,
+        "id": "a7965e93-11ff-4dca-91cf-df6414daa4c6"
+    },
+    {
+        "name": "王子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡印南町",
+        "streetName": "大字島田２９１６番地",
+        "latitude": 33.79750036,
+        "longitude": 135.24817126,
+        "id": "a6d9ca13-ed61-4662-8b15-1a6fc3fea65f"
+    },
+    {
+        "name": "王子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "東野４０９番地",
+        "latitude": 34.27434071,
+        "longitude": 135.42248232,
+        "id": "3e0f5b21-0239-449d-ac12-7fe0244fc0d0"
+    },
+    {
+        "name": "王子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字市野々１９９３番地",
+        "latitude": 33.66300548,
+        "longitude": 135.91184597,
+        "id": "421262db-55ed-4973-bb45-9b6eebad621d"
+    },
+    {
+        "name": "王子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "新宮市",
+        "streetName": "王子町１丁目１４番３２号",
+        "latitude": 33.7170749,
+        "longitude": 136.00215082,
+        "id": "2f0b5d81-2ca2-4afa-a2bf-244ad6fec05b"
+    },
+    {
+        "name": "珠＿神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "上三栖４６番地",
+        "latitude": 33.75183347,
+        "longitude": 135.43756499,
+        "id": "76d7020c-f5ba-4324-87c4-7509733893ea"
+    },
+    {
+        "name": "琴平神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海草郡紀美野町",
+        "streetName": "野中４９番地十三神社々務所内",
+        "latitude": 34.1672215,
+        "longitude": 135.3074808,
+        "id": "f399c60e-a0ff-4664-84ce-bda101b8453b"
+    },
+    {
+        "name": "生石神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡有田川町",
+        "streetName": "大字楠本１２６５番地",
+        "latitude": 34.0575158,
+        "longitude": 135.2161375,
+        "id": "0b34b787-5f55-40a5-9a2e-718378f737a9"
+    },
+    {
+        "name": "産湯八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡日高町",
+        "streetName": "大字産湯３１３番地",
+        "latitude": 33.91160568,
+        "longitude": 135.08734331,
+        "id": "08529486-e84b-4160-ae0c-482c34b520fc"
+    },
+    {
+        "name": "田殿丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡有田川町",
+        "streetName": "大字出３３５番地",
+        "latitude": 34.08336403,
+        "longitude": 135.42901611,
+        "id": "94efb16e-731a-4080-91f8-9ed0b6037976"
+    },
+    {
+        "name": "甲明神社",
+        "prefectureName": "和歌山県",
+        "cityName": "新宮市",
+        "streetName": "熊野川町相須１番地",
+        "latitude": 33.83976925,
+        "longitude": 135.84370999,
+        "id": "292ffd63-28ca-4ca7-82a8-d2344a93d98f"
+    },
+    {
+        "name": "登坂神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "宇筒井５５番地",
+        "latitude": 33.5316585,
+        "longitude": 135.8146355,
+        "id": "db0a0d22-30cd-4226-9750-e44bf8cb13c2"
+    },
+    {
+        "name": "白岩丹生神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡有田川町",
+        "streetName": "大字小川２６２８番地",
+        "latitude": 34.0710147,
+        "longitude": 135.2598449,
+        "id": "060ef51f-2183-41e4-8579-13a38bd527c5"
+    },
+    {
+        "name": "白鬚神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡日高町",
+        "streetName": "大字阿尾５３２番地",
+        "latitude": 33.90440653,
+        "longitude": 135.07130302,
+        "id": "0896dec7-6eb9-466e-923d-2793987cbcb6"
+    },
+    {
+        "name": "皆瀬神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "龍神村龍神１３４６番地",
+        "latitude": 33.99393107,
+        "longitude": 135.56064296,
+        "id": "1a9f5d98-53ca-4219-914f-1ed96b998aae"
+    },
+    {
+        "name": "盛長神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡白浜町",
+        "streetName": "５３４番地",
+        "latitude": 33.6782527,
+        "longitude": 135.3481981,
+        "id": "b48ff7e6-35be-4d30-97b2-bdaafcdb9529"
+    },
+    {
+        "name": "相賀八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "胡麻生２３８番地",
+        "latitude": 34.33549463,
+        "longitude": 135.60997292,
+        "id": "88fa56a2-51a5-4a7d-987d-b82f0ce7e339"
+    },
+    {
+        "name": "相賀大神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "市脇５０２番地",
+        "latitude": 34.31708245,
+        "longitude": 135.59762149,
+        "id": "64b79cb0-827c-47f6-a988-ae386cba8ed7"
+    },
+    {
+        "name": "眞妻神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡印南町",
+        "streetName": "大字松原１５８番地",
+        "latitude": 33.86978217,
+        "longitude": 135.28259137,
+        "id": "81579500-0e9d-47e2-822c-c6f6b4824f4a"
+    },
+    {
+        "name": "眞妻神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡印南町",
+        "streetName": "大字川又１０５３番地",
+        "latitude": 33.89405794,
+        "longitude": 135.34919378,
+        "id": "7eef04c4-f51f-413b-91f0-c6b1dac425f2"
+    },
+    {
+        "name": "眞妻神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡印南町",
+        "streetName": "大字田ノ垣内１５７番地",
+        "latitude": 33.87825104,
+        "longitude": 135.31580553,
+        "id": "8eb2847f-d92b-4570-8498-71ce1be01a70"
+    },
+    {
+        "name": "眞妻神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡印南町",
+        "streetName": "大字樮川５２０番地",
+        "latitude": 33.84503204,
+        "longitude": 135.28389989,
+        "id": "0ba400bd-0133-42d5-bdec-52158ce2ff73"
+    },
+    {
+        "name": "矢倉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "高富４２９番地",
+        "latitude": 33.4725198,
+        "longitude": 135.7814526,
+        "id": "3f0eec34-f6f2-4901-83de-8bb51beac907"
+    },
+    {
+        "name": "矢宮神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "関戸１丁目５番２７号",
+        "latitude": 34.19884499,
+        "longitude": 135.16693351,
+        "id": "a96bcf1b-70d5-4a8b-8fd3-46257a696423"
+    },
+    {
+        "name": "石垣八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡有田川町",
+        "streetName": "大字宇井苔１０８番地",
+        "latitude": 34.0575158,
+        "longitude": 135.2161375,
+        "id": "9585d63a-98cf-4c93-908f-ac5951104d2c"
+    },
+    {
+        "name": "石垣尾神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡有田川町",
+        "streetName": "大字吉原１８２８番地の１",
+        "latitude": 34.04288249,
+        "longitude": 135.24683001,
+        "id": "6d7949a4-3bf0-494e-91eb-76f0af0c8b27"
+    },
+    {
+        "name": "石尾神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡日高町",
+        "streetName": "大字志賀３６３８番地の２",
+        "latitude": 33.93754453,
+        "longitude": 135.10171116,
+        "id": "4e9f608d-60ea-45d7-bf53-48152ed94dd9"
+    },
+    {
+        "name": "磯脇八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "磯の浦４３９番地",
+        "latitude": 34.26220948,
+        "longitude": 135.09622258,
+        "id": "2d78f5c3-c3c2-43ec-8ca0-fe28b60e2068"
+    },
+    {
+        "name": "神戸神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "高池３２３番地",
+        "latitude": 33.52744235,
+        "longitude": 135.81896842,
+        "id": "755e4632-5ca0-4179-90df-c7012812c477"
+    },
+    {
+        "name": "神明神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "堀止西２丁目４番４８号",
+        "latitude": 34.21264611,
+        "longitude": 135.16678322,
+        "id": "f33f638a-bbcb-4ed3-8802-858783188263"
+    },
+    {
+        "name": "神明神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字高津気２番地",
+        "latitude": 33.6259491,
+        "longitude": 135.9410691,
+        "id": "6e6b940a-b49c-4200-aa6d-e54ae8f6835d"
+    },
+    {
+        "name": "神樂神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "神子浜２丁目１６番９号",
+        "latitude": 33.72066751,
+        "longitude": 135.38529196,
+        "id": "1d132507-18b4-4033-9eaf-df7cb9f4e8c6"
+    },
+    {
+        "name": "神玉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "小森川４１１番地",
+        "latitude": 33.64529785,
+        "longitude": 135.78464454,
+        "id": "4c9c7f5a-2ab0-42aa-93c5-3a4043092732"
+    },
+    {
+        "name": "神道淡島教淡島神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "加太１１６番地",
+        "latitude": 34.2303384,
+        "longitude": 135.1707299,
+        "id": "924aff57-c1b0-49c3-a30a-e91d7d5a73b8"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "中湊５９５番地・５９６番地",
+        "latitude": 33.4725198,
+        "longitude": 135.7814526,
+        "id": "6a201744-a657-400f-aada-fca62c94d884"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "下津町大崎４１９番地",
+        "latitude": 34.10996143,
+        "longitude": 135.14556793,
+        "id": "faab28fd-cdb8-4e94-b8a1-2f4ad6eae6da"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "西向６４３番地",
+        "latitude": 33.51466036,
+        "longitude": 135.8196737,
+        "id": "080a761a-d6ca-47cb-a897-a11cb98d33ed"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田市",
+        "streetName": "糸我町中番３２９番地",
+        "latitude": 34.06738758,
+        "longitude": 135.17774113,
+        "id": "12cd853c-100a-431b-b935-b86a98134a7f"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "二色６４５番地",
+        "latitude": 33.48576551,
+        "longitude": 135.77111257,
+        "id": "dad180a4-aac8-4575-a20d-deb2ecebfd4d"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "桃山町大原３９５番地",
+        "latitude": 34.22690884,
+        "longitude": 135.33352686,
+        "id": "0faf3760-2c26-431f-ba84-ceac308d2182"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "秋津川９４番地",
+        "latitude": 33.79473906,
+        "longitude": 135.42260173,
+        "id": "d9bd6a72-e902-4526-be9d-ad8415829859"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "稲成町１１２４番地",
+        "latitude": 33.75084144,
+        "longitude": 135.37845355,
+        "id": "f0f1e4da-bb92-462e-9c86-3de40fc8d738"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "狐島１番地",
+        "latitude": 34.24887808,
+        "longitude": 135.15002245,
+        "id": "76c83ee0-a475-4f8e-b805-ec0dd4b17830"
+    },
+    {
+        "name": "稲荷神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡白浜町",
+        "streetName": "椿９７７番地",
+        "latitude": 33.6782527,
+        "longitude": 135.3481981,
+        "id": "a6247760-6dfb-4c18-94cd-64b705c8ccc5"
+    },
+    {
+        "name": "竈山神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "和田４３８番地",
+        "latitude": 34.20100093,
+        "longitude": 135.20449748,
+        "id": "46cd6957-ae39-4796-ad1e-96166d259fdb"
+    },
+    {
+        "name": "立神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田市",
+        "streetName": "野７００番地",
+        "latitude": 34.07696273,
+        "longitude": 135.13173731,
+        "id": "2b1c705e-b396-419f-9956-34c4f5962f75"
+    },
+    {
+        "name": "立神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "下津町引尾７２番地",
+        "latitude": 34.12096228,
+        "longitude": 135.22298855,
+        "id": "3275c4ea-40f4-4e2a-b55a-83dfd62b9db5"
+    },
+    {
+        "name": "筌川神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "本宮町耳打４７２・５２５番地",
+        "latitude": 33.83781925,
+        "longitude": 135.77415845,
+        "id": "468b2c9e-ee1d-4d8e-8660-eabb6e958155"
+    },
+    {
+        "name": "箕嶋神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田市",
+        "streetName": "箕島１１７番地",
+        "latitude": 34.08466439,
+        "longitude": 135.12487107,
+        "id": "41707a0c-a903-428c-8c37-161449a9a968"
+    },
+    {
+        "name": "粉河産土神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "粉河２７８８番地",
+        "latitude": 34.2813592,
+        "longitude": 135.40570298,
+        "id": "42710862-6e79-4754-abf5-38a00978a98f"
+    },
+    {
+        "name": "粉河蛭子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "粉河２６３８番地",
+        "latitude": 34.27307935,
+        "longitude": 135.40440072,
+        "id": "f489b0ea-e7c3-4c2b-afa5-e7a0a65c0361"
+    },
+    {
+        "name": "粟嶋神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "下津町方１１０１番地",
+        "latitude": 34.1187993,
+        "longitude": 135.15009216,
+        "id": "4fb03765-a92b-4438-8d7a-9592d43ee5f3"
+    },
+    {
+        "name": "紀道神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡日高川町",
+        "streetName": "大字三百瀬１１８８番地",
+        "latitude": 33.94177941,
+        "longitude": 135.25656716,
+        "id": "1085b9bb-059b-423f-8909-7b58006e70ea"
+    },
+    {
+        "name": "舩津八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "岩出市",
+        "streetName": "岡田４６番地",
+        "latitude": 34.25731073,
+        "longitude": 135.32648804,
+        "id": "8b2ae859-a63b-400c-89f5-504f81748ab8"
+    },
+    {
+        "name": "色川神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字大野３９７番地、３９８番地",
+        "latitude": 33.66672629,
+        "longitude": 135.85438779,
+        "id": "bf510756-15fa-4315-8cbf-270c9ff8eb57"
+    },
+    {
+        "name": "若一王子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡日高町",
+        "streetName": "大字比井９９２番地",
+        "latitude": 33.92230448,
+        "longitude": 135.0845239,
+        "id": "88176c17-e8ae-4c3d-ba92-1a9da78d944d"
+    },
+    {
+        "name": "若宮八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "平井１１７５番地",
+        "latitude": 33.64409937,
+        "longitude": 135.68858035,
+        "id": "18026884-6487-4fea-b863-4e1a48541526"
+    },
+    {
+        "name": "若宮八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "有本６５３番地",
+        "latitude": 34.24788176,
+        "longitude": 135.19127526,
+        "id": "60943256-ac7f-485e-900b-49ce4a53c027"
+    },
+    {
+        "name": "若宮八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡有田川町",
+        "streetName": "大字吉見８６５番地",
+        "latitude": 34.03781897,
+        "longitude": 135.23511158,
+        "id": "e32a2d1f-6eff-4c2b-b577-47908ba5dc19"
+    },
+    {
+        "name": "若宮八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "紀三井寺１００５番地",
+        "latitude": 34.18201126,
+        "longitude": 135.18915447,
+        "id": "fc31ce6e-f03f-459e-a257-3b28cb16cba1"
+    },
+    {
+        "name": "若宮神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "添野川１４４８番地",
+        "latitude": 33.5316585,
+        "longitude": 135.8146355,
+        "id": "e594ac5b-0361-494d-a4f4-06b8f615beb9"
+    },
+    {
+        "name": "荒島神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "龍神村甲斐ノ川６０３番地",
+        "latitude": 33.99393107,
+        "longitude": 135.56064296,
+        "id": "16f1966d-f973-4d0b-aa7c-402eee4172d9"
+    },
+    {
+        "name": "荒田神社",
+        "prefectureName": "和歌山県",
+        "cityName": "岩出市",
+        "streetName": "森２３７番地",
+        "latitude": 34.27274533,
+        "longitude": 135.30798442,
+        "id": "5011f960-c72b-45df-8396-b0f6f52cb9c8"
+    },
+    {
+        "name": "葛城神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "柱本２７０番地",
+        "latitude": 34.3712207,
+        "longitude": 135.61334678,
+        "id": "dc88b07f-6752-4f26-8bd0-00195bff409f"
+    },
+    {
+        "name": "藤並神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡有田川町",
+        "streetName": "大字天満７２２番地",
+        "latitude": 34.06378641,
+        "longitude": 135.20513554,
+        "id": "db860400-dbde-461f-b7c0-21be054a7f2d"
+    },
+    {
+        "name": "藤白神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "藤白４４８番地",
+        "latitude": 34.14433955,
+        "longitude": 135.20938643,
+        "id": "f777333b-a21d-4b61-9e56-8d892cb58199"
+    },
+    {
+        "name": "蛭子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "慶賀野１４３番地",
+        "latitude": 34.35500897,
+        "longitude": 135.60835041,
+        "id": "8ed0823d-ed04-4a38-bfd2-0dd6e8534cb9"
+    },
+    {
+        "name": "蛭子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "高野口町名古曽８２９番地",
+        "latitude": 34.30425864,
+        "longitude": 135.56190071,
+        "id": "c2f97c02-28fe-4eb7-a6d5-ac7ef921cf5b"
+    },
+    {
+        "name": "蛭子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "新和歌浦４番１２号",
+        "latitude": 34.18817379,
+        "longitude": 135.16135939,
+        "id": "811fbee7-8b49-4efa-a62c-a1014a2ac733"
+    },
+    {
+        "name": "蛭子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "下津町塩津１１９番地",
+        "latitude": 34.1341061,
+        "longitude": 135.16594031,
+        "id": "9716e8b8-d102-4d00-806f-b0381bb3b5a7"
+    },
+    {
+        "name": "蛭子神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡太地町",
+        "streetName": "大字森浦１３９番地",
+        "latitude": 33.59408623,
+        "longitude": 135.9323263,
+        "id": "c8b37b91-4884-4e7a-8333-a32bf7ad4a97"
+    },
+    {
+        "name": "蛭子若宮神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "古屋２６７番地",
+        "latitude": 34.24972485,
+        "longitude": 135.12124383,
+        "id": "1b20dee6-22d7-4925-a6c9-ea36fb4e9281"
+    },
+    {
+        "name": "蟻通神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "湊１９番６号",
+        "latitude": 33.73302982,
+        "longitude": 135.38080068,
+        "id": "5d691ec1-421f-4a17-82ff-5154b538a185"
+    },
+    {
+        "name": "蟻通神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字東渋田７９０番地",
+        "latitude": 34.27709717,
+        "longitude": 135.48056825,
+        "id": "43d50d9a-4700-41fe-85ef-8d4b6c369e2e"
+    },
+    {
+        "name": "衣奈八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡由良町",
+        "streetName": "大字衣奈６６９番地",
+        "latitude": 33.98640332,
+        "longitude": 135.11169945,
+        "id": "df5cf407-0c06-49ce-b33f-cfd7b9fa9e02"
+    },
+    {
+        "name": "衣美須神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "田野３２９番地",
+        "latitude": 34.18502973,
+        "longitude": 135.15117144,
+        "id": "89dd86c0-259c-49a9-88d2-fd901374cfdd"
+    },
+    {
+        "name": "衣美須神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "雑賀崎１２８６番地",
+        "latitude": 34.19001806,
+        "longitude": 135.14390524,
+        "id": "84322f43-ef38-4392-9691-2fb85208c325"
+    },
+    {
+        "name": "西岩代八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡みなべ町",
+        "streetName": "西岩代５２３番地",
+        "latitude": 33.78582183,
+        "longitude": 135.27416603,
+        "id": "6174257a-31fc-4065-9432-f0571e3677e5"
+    },
+    {
+        "name": "西熊野神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "西４７８番地",
+        "latitude": 34.21125276,
+        "longitude": 135.21733802,
+        "id": "030706f5-17e2-460a-93b9-aef8c8f9a7dc"
+    },
+    {
+        "name": "西田中神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "中井阪３５３番地",
+        "latitude": 34.25694725,
+        "longitude": 135.34581385,
+        "id": "9c195951-b42b-4c3d-8f43-25e81101134d"
+    },
+    {
+        "name": "誠神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字平１４７３番地の３",
+        "latitude": 34.34182879,
+        "longitude": 135.46721289,
+        "id": "caf78c96-053e-4028-807c-615f2ac14149"
+    },
+    {
+        "name": "諏訪神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字南大居１４４７番地",
+        "latitude": 33.6259491,
+        "longitude": 135.9410691,
+        "id": "3b849893-26ec-4f2c-bfc9-6c9cf249c2f0"
+    },
+    {
+        "name": "諏訪神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字長井８５６番地",
+        "latitude": 33.6259491,
+        "longitude": 135.9410691,
+        "id": "d789e41b-c2f5-49e0-be1e-4e4c8ca6c3c2"
+    },
+    {
+        "name": "諏訪神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字下和田２番地",
+        "latitude": 33.6259491,
+        "longitude": 135.9410691,
+        "id": "275482fe-22a9-4591-9e14-30c943fc0e85"
+    },
+    {
+        "name": "諏訪神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字小匠５１４番地",
+        "latitude": 33.6259491,
+        "longitude": 135.9410691,
+        "id": "061b8b60-9cf2-443a-bf98-502fed6f249c"
+    },
+    {
+        "name": "豊秋津神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "秋津町１５５４番地",
+        "latitude": 33.75185532,
+        "longitude": 135.39278832,
+        "id": "5fe760bf-93b5-4c4d-af5e-f890e4e39be2"
+    },
+    {
+        "name": "賀茂神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "西川原字常谷３０８番地",
+        "latitude": 34.269524,
+        "longitude": 135.3625902,
+        "id": "c7633574-3238-4269-ac64-2813c8c42ada"
+    },
+    {
+        "name": "近野神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "中辺路町近露１０７２番地",
+        "latitude": 33.81598543,
+        "longitude": 135.61407151,
+        "id": "e46c70d7-db6a-4f01-85c4-9bf1ec08f1e7"
+    },
+    {
+        "name": "逗留神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "下津野３２４番地",
+        "latitude": 34.17764485,
+        "longitude": 135.2911324,
+        "id": "71304b9c-9547-401f-8f57-8bf666a5dc9e"
+    },
+    {
+        "name": "都麻津姫神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "平尾９５７番地",
+        "latitude": 34.20841752,
+        "longitude": 135.24719129,
+        "id": "9a228929-dc23-4dba-b697-79935bd22396"
+    },
+    {
+        "name": "都麻津姫神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "吉礼９１１番地",
+        "latitude": 34.2051261,
+        "longitude": 135.23522009,
+        "id": "815e5169-7387-4e2d-aaf8-3522b2adf0d8"
+    },
+    {
+        "name": "醫王神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字短野９８９番地",
+        "latitude": 34.296395,
+        "longitude": 135.5038359,
+        "id": "3e8653f9-28f8-4775-8ce2-f260740e65a4"
+    },
+    {
+        "name": "重山神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "伊串８６２番地",
+        "latitude": 33.52260631,
+        "longitude": 135.79292559,
+        "id": "6ac907f2-cb20-401d-862e-bd7c40929115"
+    },
+    {
+        "name": "金刀比羅神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡太地町",
+        "streetName": "大字太地１１３番地",
+        "latitude": 33.59353122,
+        "longitude": 135.95987104,
+        "id": "aab708fa-7bdb-4342-9bca-2b8ee5be3e81"
+    },
+    {
+        "name": "金刀毘羅神社",
+        "prefectureName": "和歌山県",
+        "cityName": "西牟婁郡白浜町",
+        "streetName": "中１７０２番地",
+        "latitude": 33.64989566,
+        "longitude": 135.38421441,
+        "id": "cb74de1c-edaa-494d-99b5-93c555e9ea06"
+    },
+    {
+        "name": "長子八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡日高川町",
+        "streetName": "大字小釜本３８８番地",
+        "latitude": 33.911771,
+        "longitude": 135.1858713,
+        "id": "9c0c6cd4-d561-4bbf-a292-aa4f370518b9"
+    },
+    {
+        "name": "長野八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "長野９８８番の２地",
+        "latitude": 33.76915641,
+        "longitude": 135.44418097,
+        "id": "5c2bf396-84a5-417e-8818-bcc0643678b1"
+    },
+    {
+        "name": "阿須賀神社",
+        "prefectureName": "和歌山県",
+        "cityName": "新宮市",
+        "streetName": "阿須賀１丁目２番２５号",
+        "latitude": 33.72846518,
+        "longitude": 135.9973012,
+        "id": "f59e1707-3dc8-4f11-a741-cc7822efc26c"
+    },
+    {
+        "name": "隅田八幡神社",
+        "prefectureName": "和歌山県",
+        "cityName": "橋本市",
+        "streetName": "隅田町垂井６２２番地",
+        "latitude": 34.33280368,
+        "longitude": 135.64526146,
+        "id": "28b4d9b8-16f1-4319-88ff-505ab6dfb176"
+    },
+    {
+        "name": "雷公神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡串本町",
+        "streetName": "樫野１０３７番地",
+        "latitude": 33.46188773,
+        "longitude": 135.84826966,
+        "id": "bdd6ebd7-6eca-4c3f-ae40-7c6652fa215c"
+    },
+    {
+        "name": "青彦神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字井関９７２番地",
+        "latitude": 33.65436775,
+        "longitude": 135.91807895,
+        "id": "4953904a-fd07-484e-93ab-4285f87ffec3"
+    },
+    {
+        "name": "青枝神社",
+        "prefectureName": "和歌山県",
+        "cityName": "海南市",
+        "streetName": "下津町青枝１５８番地",
+        "latitude": 34.11907536,
+        "longitude": 135.1893913,
+        "id": "373bcaac-e443-4b71-b150-5348d3cfb56e"
+    },
+    {
+        "name": "須佐神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "中万呂５番地",
+        "latitude": 33.73833484,
+        "longitude": 135.39855733,
+        "id": "bca18e40-a6cc-488e-a48f-0e9830067631"
+    },
+    {
+        "name": "須佐神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田市",
+        "streetName": "千田１６４１番地",
+        "latitude": 34.06485629,
+        "longitude": 135.14145892,
+        "id": "f1091cf0-07d4-4dc7-9b91-7ed157f95b4b"
+    },
+    {
+        "name": "須佐神社",
+        "prefectureName": "和歌山県",
+        "cityName": "御坊市",
+        "streetName": "塩屋町南塩屋１８７９番地",
+        "latitude": 33.86863651,
+        "longitude": 135.17885272,
+        "id": "70ffe022-4224-4557-b364-2f3abc4e9463"
+    },
+    {
+        "name": "須佐神社",
+        "prefectureName": "和歌山県",
+        "cityName": "新宮市",
+        "streetName": "南檜杖字天王６５２番地",
+        "latitude": 33.7242019,
+        "longitude": 135.9925322,
+        "id": "0eef984f-38dc-4cfd-bf16-8695891646af"
+    },
+    {
+        "name": "須佐神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "中山２５３番地",
+        "latitude": 34.27690946,
+        "longitude": 135.40033425,
+        "id": "5d2d5638-20ef-4de1-836a-98a683b43ef6"
+    },
+    {
+        "name": "須賀神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡みなべ町",
+        "streetName": "西本庄２４２番地",
+        "latitude": 33.79951542,
+        "longitude": 135.32677463,
+        "id": "51ab9ed6-94e5-4188-8ec6-58ab9f5ee88d"
+    },
+    {
+        "name": "顯國神社",
+        "prefectureName": "和歌山県",
+        "cityName": "有田郡湯浅町",
+        "streetName": "大字湯浅１９１４番地",
+        "latitude": 34.03903924,
+        "longitude": 135.18484069,
+        "id": "3277e1e1-6ae4-4398-a2e6-e323e5631abd"
+    },
+    {
+        "name": "風市森神社",
+        "prefectureName": "和歌山県",
+        "cityName": "紀の川市",
+        "streetName": "島３６８番地",
+        "latitude": 34.26730478,
+        "longitude": 135.39615446,
+        "id": "8de1b705-3489-4e66-9de2-84e8f524931d"
+    },
+    {
+        "name": "飛鳥神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字川関２８９番地",
+        "latitude": 33.64961014,
+        "longitude": 135.92816422,
+        "id": "536552d4-e2a7-4167-8b01-66898e5e928e"
+    },
+    {
+        "name": "飛鳥神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡太地町",
+        "streetName": "大字太地３１６９番地",
+        "latitude": 33.59201727,
+        "longitude": 135.94480019,
+        "id": "41e2189d-be5a-4bf7-9b94-2789fc8175a6"
+    },
+    {
+        "name": "高倉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "新宮市",
+        "streetName": "高田５６８番地",
+        "latitude": 33.7331389,
+        "longitude": 135.9112534,
+        "id": "ae3d0cf1-fa72-4048-a1d9-425096fcdffc"
+    },
+    {
+        "name": "高倉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "新宮市",
+        "streetName": "熊野川町赤木４６６番地",
+        "latitude": 33.77450784,
+        "longitude": 135.84905225,
+        "id": "010cf2b6-b9ba-4db5-9b0c-0174a4ed499c"
+    },
+    {
+        "name": "高倉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "新宮市",
+        "streetName": "熊野川町日足６２５番地",
+        "latitude": 33.80579397,
+        "longitude": 135.87269675,
+        "id": "ae0efa82-0735-4932-be49-496e2a8c16ff"
+    },
+    {
+        "name": "高倉神社",
+        "prefectureName": "和歌山県",
+        "cityName": "新宮市",
+        "streetName": "熊野川町上長井続３８１番地",
+        "latitude": 33.80579397,
+        "longitude": 135.87269675,
+        "id": "97db5ff0-a485-4603-b79e-be617f460daa"
+    },
+    {
+        "name": "高橋神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "岩橋１１１２番地",
+        "latitude": 34.23301201,
+        "longitude": 135.23000618,
+        "id": "eb860ac1-443f-4c5c-9983-1b2dec12264b"
+    },
+    {
+        "name": "高皇神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "三葛１００６番地",
+        "latitude": 34.1905574,
+        "longitude": 135.19249296,
+        "id": "8e8a6fb1-9f01-4be5-8c7f-1246a445e75d"
+    },
+    {
+        "name": "高積神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "禰宜１５５７番地",
+        "latitude": 34.23471522,
+        "longitude": 135.26150135,
+        "id": "193b1128-09f2-4789-923d-227f974d7d57"
+    },
+    {
+        "name": "高野神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡かつらぎ町",
+        "streetName": "大字平沼田２９２番地",
+        "latitude": 34.27559754,
+        "longitude": 135.49490048,
+        "id": "3273f3e4-701f-469b-a17d-a424cf6f4138"
+    },
+    {
+        "name": "鬪雞神社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "東陽１番１号",
+        "latitude": 33.73003859,
+        "longitude": 135.38401705,
+        "id": "6dfcace7-0f12-4144-b787-641f84e82ab6"
+    },
+    {
+        "name": "鳴川神社",
+        "prefectureName": "和歌山県",
+        "cityName": "伊都郡高野町",
+        "streetName": "大字花坂７３２番地",
+        "latitude": 34.21639606,
+        "longitude": 135.53082339,
+        "id": "f4f44242-ee90-46fc-bef4-47d98ee2095a"
+    },
+    {
+        "name": "鳴神社",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "鳴神１０８９番地",
+        "latitude": 34.22783136,
+        "longitude": 135.21133255,
+        "id": "a8b3b7c8-a705-4688-b415-964895e691d6"
+    },
+    {
+        "name": "鹽竃神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字浦神３２０番地",
+        "latitude": 33.56104527,
+        "longitude": 135.8950786,
+        "id": "f6675941-8ad8-40e1-b790-f45967fc575f"
+    },
+    {
+        "name": "鹿島神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡みなべ町",
+        "streetName": "埴田２０番地",
+        "latitude": 33.76179759,
+        "longitude": 135.32580334,
+        "id": "6b9d43e3-31f8-47d5-a7e9-d0f59d04e7f0"
+    },
+    {
+        "name": "龍王神社",
+        "prefectureName": "和歌山県",
+        "cityName": "日高郡美浜町",
+        "streetName": "大字三尾４４２番地",
+        "latitude": 33.88752529,
+        "longitude": 135.0839244,
+        "id": "35d87372-6492-4647-95d9-a9768f344caf"
+    },
+    {
+        "name": "＿神社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡古座川町",
+        "streetName": "月野瀬２３４番地",
+        "latitude": 33.5316585,
+        "longitude": 135.8146355,
+        "id": "32d6887e-6d35-4625-917f-b019d69a5e90"
+    },
+    {
+        "name": "日前神宮国懸神宮",
+        "prefectureName": "和歌山県",
+        "cityName": "和歌山市",
+        "streetName": "秋月３６５番地",
+        "latitude": 34.22787282,
+        "longitude": 135.20249147,
+        "id": "c78ed1e3-12b8-4172-b067-1dc2c10be34f"
+    },
+    {
+        "name": "熊野本宮大社",
+        "prefectureName": "和歌山県",
+        "cityName": "田辺市",
+        "streetName": "本宮町本宮１１１０番地",
+        "latitude": 33.84054118,
+        "longitude": 135.77349741,
+        "id": "49b5deb1-d383-43d3-813a-08ff6ffaea5e"
+    },
+    {
+        "name": "熊野速玉大社",
+        "prefectureName": "和歌山県",
+        "cityName": "新宮市",
+        "streetName": "新宮１番地",
+        "latitude": 33.73181497,
+        "longitude": 135.98426631,
+        "id": "409b640f-1d9c-42ab-a027-43e69ab373aa"
+    },
+    {
+        "name": "熊野那智大社",
+        "prefectureName": "和歌山県",
+        "cityName": "東牟婁郡那智勝浦町",
+        "streetName": "大字那智山１番地",
+        "latitude": 33.6695848,
+        "longitude": 135.89147564,
+        "id": "e815da63-5833-43d0-97e2-cd094dd3760a"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "世持神社",
+        "prefectureName": "沖縄県",
+        "cityName": "那覇市",
+        "streetName": "松川１丁目１５番１４号",
+        "latitude": 26.21528762,
+        "longitude": 127.70217912,
+        "id": "9a7b2f05-871a-467c-b02b-de98ddb75cf4"
+    },
+    {
+        "name": "沖縄県護国神社",
+        "prefectureName": "沖縄県",
+        "cityName": "那覇市",
+        "streetName": "奥武山町４４番地",
+        "latitude": 26.20314111,
+        "longitude": 127.67687097,
+        "id": "e61df31a-dcb7-406b-9f9b-d92c2f1c3dce"
+    },
+    {
+        "name": "沖縄神社",
+        "prefectureName": "沖縄県",
+        "cityName": "那覇市",
+        "streetName": "首里当蔵町３丁目１番地",
+        "latitude": 26.21704899,
+        "longitude": 127.71948317,
+        "id": "471dd26e-eecb-48a5-8dc4-986381e2736b"
+    },
+    {
+        "name": "浮島神社",
+        "prefectureName": "沖縄県",
+        "cityName": "那覇市",
+        "streetName": "字天久１１９６番地１２",
+        "latitude": 26.2388539,
+        "longitude": 127.68381778,
+        "id": "0d4d90eb-5a1c-4170-95fa-fb830c780006"
+    },
+    {
+        "name": "石垣宝来宝来神社",
+        "prefectureName": "沖縄県",
+        "cityName": "石垣市",
+        "streetName": "字大川宇志原１１３４番１",
+        "latitude": 24.340663,
+        "longitude": 124.1555863,
+        "id": "a8912b6b-ba77-44e5-91da-b3c3bc6ba84a"
+    }
+]
